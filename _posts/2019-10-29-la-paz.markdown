@@ -1,11 +1,21 @@
 ---
-layout: post
+#layout: post
 title: La Paz
 date: 2019-10-29 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: lapaz.jpg # Add image post (optional)
+#img: lapaz.jpg # Add image post (optional)
 tags: [Bolivia]
 author: # Add name author (optional)
+
+layout: article
+title: Page - Article Header Image (Customized Header Background)
+header:
+  # theme: dark
+  background: '#333'
+article_header:
+  type: cover
+  image:
+    src: /docs/assets/images/cover2.jpg
 ---
 
 September 27 - September 29

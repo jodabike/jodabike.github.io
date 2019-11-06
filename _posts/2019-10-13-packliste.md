@@ -4,13 +4,13 @@ title: packliste
 article_header:
   type: cover
   image:
-    src: /docs/assets/images/cover2.jpg
+    src: /assets/images/cover.jpg
 ---
 
 
 
 
-<html
+<html>
 <head>
     
 <link rel="stylesheet" type="text/css" href="css/links.css">

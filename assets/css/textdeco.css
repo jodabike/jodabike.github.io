@@ -1,0 +1,21 @@
+/* --- Text color etc.. ---  */
+      /*p { 
+        font-size:14px; 
+        color:#538b01; 
+        font-weight:bold; 
+        font-style:italic;
+      }
+*/
+      .good {
+        color: green;
+      }
+      .ok {
+        color: orange;
+      }
+      .bad {
+        color: red;
+      }
+      
+      .uline {
+      	text-decoration: underline;
+      }

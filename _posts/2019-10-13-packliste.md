@@ -1,6 +1,6 @@
 ---
 layout: article
-title: packliste 2.3
+title: packliste 2.4
 article_header:
   type: cover
   image:
@@ -14,10 +14,10 @@ article_header:
 <head>
 
 
-<link rel="stylesheet" type="text/css" href="/css/links.css">
-<link rel="stylesheet" type="text/css" href="/css/textdeco.css">
-<link rel="stylesheet" type="text/css" href="/css/enumerate.css">
-<link rel="stylesheet" type="text/css" href="/css/toc.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/links.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/textdeco.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/enumerate.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/toc.css">
 
 
 
@@ -135,8 +135,8 @@ OL>LI:before { content: counters(item, ".") " "; counter-increment: item }
 </style>
 -->
 
-<script src="/js/jquery-3.4.1.min.js"></script>
-<script src="/js/tocSH.js"></script>
+<script src="/assets/js/jquery-3.4.1.min.js"></script>
+<script src="/assets/js/tocSH.js"></script>
 
 <!--
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>

@@ -14,10 +14,11 @@ article_header:
 <head>
     
 <link rel="stylesheet" type="text/css" href="/css/links.css">
-<link rel="stylesheet" type="text/css" href="css/textdeco.css">
-<link rel="stylesheet" type="text/css" href="css/enumerate.css">
-<link rel="stylesheet" type="text/css" href="css/toc.css">
+<link rel="stylesheet" type="text/css" href="/css/textdeco.css">
+<link rel="stylesheet" type="text/css" href="/css/enumerate.css">
+<link rel="stylesheet" type="text/css" href="/css/toc.css">
 
+<!--
 <style>
 
 /*
@@ -129,6 +130,7 @@ OL>LI:before { content: counters(item, ".") " "; counter-increment: item }
 
 
 </style>
+-->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 

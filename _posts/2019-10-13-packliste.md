@@ -1,6 +1,6 @@
 ---
 layout: article
-title: packliste
+title: packliste 2.0
 article_header:
   type: cover
   image:
@@ -132,6 +132,10 @@ OL>LI:before { content: counters(item, ".") " "; counter-increment: item }
 </style>
 -->
 
+<script src="/js/jquery-3.4.1.min.js"></script>
+<script src="/js/tocSH.js"></script>
+
+<!--
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
 
@@ -180,6 +184,7 @@ $(document).ready(function() {
     
 });                   
 </script>
+-->
 
 </head>
 <body>

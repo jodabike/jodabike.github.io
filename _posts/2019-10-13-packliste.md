@@ -1,6 +1,6 @@
 ---
 layout: article
-title: packliste 2.0
+title: packliste 2.1
 article_header:
   type: cover
   image:
@@ -12,9 +12,11 @@ article_header:
 
 <html>
 <head>
+
+<link rel="stylesheet" type="text/css" href="/css/textdeco.css">
     
 <link rel="stylesheet" type="text/css" href="/css/links.css">
-<link rel="stylesheet" type="text/css" href="/css/textdeco.css">
+
 <link rel="stylesheet" type="text/css" href="/css/enumerate.css">
 <link rel="stylesheet" type="text/css" href="/css/toc.css">
 

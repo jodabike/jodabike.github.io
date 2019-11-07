@@ -1,6 +1,6 @@
 ---
 layout: article
-title: packliste 2.2
+title: packliste 2.3
 article_header:
   type: cover
   image:
@@ -18,6 +18,8 @@ article_header:
 <link rel="stylesheet" type="text/css" href="/css/textdeco.css">
 <link rel="stylesheet" type="text/css" href="/css/enumerate.css">
 <link rel="stylesheet" type="text/css" href="/css/toc.css">
+
+
 
 <!--
 <style>
@@ -191,6 +193,8 @@ $(document).ready(function() {
 <body>
 	
 <h1>Gearlist</h1>
+
+<img src="/assets/images/cover.jpg">
 
 <div id="toc_container">
 <p class="toc_title">Table of Contents &nbsp; <button id="hide">Hide</button> <button id="show" hidden="true">Show</button></p>

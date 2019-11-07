@@ -192,7 +192,9 @@ $(document).ready(function() {
 </head>
 <body>
 	
+<p>
 We tried to compile a (hopefully) complete list of all the gear that we carry. The list is structured in categories and the items of each section are roughly ordered by importance. Further, we reviewed some of our equipment with the classic traffic light system (green: good, orange: ok, red: bad). Each reviewed item links directly to a details in our Gear review post.
+</p>
 
 <!--<img src="/assets/images/cover.jpg">-->
 

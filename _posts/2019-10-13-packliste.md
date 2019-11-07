@@ -1,6 +1,6 @@
 ---
 layout: article
-title: packliste 2.4
+title: packliste 2.5
 article_header:
   type: cover
   image:
@@ -194,7 +194,7 @@ $(document).ready(function() {
 	
 <h1>Gearlist</h1>
 
-<img src="/assets/images/cover.jpg">
+<!--<img src="/assets/images/cover.jpg">-->
 
 <div id="toc_container">
 <p class="toc_title">Table of Contents &nbsp; <button id="hide">Hide</button> <button id="show" hidden="true">Show</button></p>
@@ -691,5 +691,7 @@ Find my iPhone (to remotely lock if stolen)<br>
 });                                                                                                     
 </script> -->
 
+<!--
 </body>
 </html>
+-->

@@ -13,12 +13,14 @@ article_header:
 <html>
 <head>
     
-<link rel="stylesheet" type="text/css" href="css/links.css">
+<link rel="stylesheet" type="text/css" href="/css/links.css">
 <link rel="stylesheet" type="text/css" href="css/textdeco.css">
 <link rel="stylesheet" type="text/css" href="css/enumerate.css">
 <link rel="stylesheet" type="text/css" href="css/toc.css">
 
 <style>
+
+/*
 a:link {
   text-decoration: none;
   color: red;
@@ -36,6 +38,7 @@ a:active {
   text-decoration: underline;
 }
 
+*/
 /* --- Numbering for Lists--- */
 
 OL { counter-reset: item }

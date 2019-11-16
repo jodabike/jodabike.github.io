@@ -3,7 +3,6 @@
   a {
     font-weight: map-get($base, font-weight);
     text-decoration: none !important;
-    font-size: 10px;
     @include link-colors($header-text-color, $main-color-1);
   }
   .main {
@@ -76,7 +75,7 @@
   }
   & > a {
     display: inline-block;
-    font-size: map-get($base, font-size-h4);
+    font-size: map-get($base, font-size-h4-small);
     @include media-breakpoint-down(md) {
       font-size: map-get($base, font-size-h4-small);
     }

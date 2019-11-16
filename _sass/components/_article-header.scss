@@ -13,9 +13,10 @@
   .split-space {
     @include user-select(none);
   }
+  /*
   .edit-on-github {
     text-decoration: none !important;
-  }
+  }*/
 }
 
 .article__header--overlay {

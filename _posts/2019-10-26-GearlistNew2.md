@@ -10,7 +10,7 @@ article_header:
 
 Dark Mode is cool, and TeXt is supporting it.
 
-![Dark Mode](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/blog/dark-mode.gif)
+![Test](https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg)
 
 <!--more-->
 

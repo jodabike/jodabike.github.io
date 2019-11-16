@@ -5,7 +5,7 @@ article_header:
   type: cover
   image:
     src: /assets/images/cover.jpg
-  cover: /assets/images/cover.jpg
+cover: /assets/images/cover.jpg
 ---
 
 

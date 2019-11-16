@@ -8,6 +8,15 @@ article_header:
 cover: https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg
 ---
 
+Dark Mode is cool, and TeXt is supporting it.
+
+![Dark Mode](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/blog/dark-mode.gif)
+
+<!--more-->
+
+It is developing on `dev` branch, you can run `git checkout dev` to switch to this branch.
+
+For now, ONLY `default` skin supports Dark Mode.
 
 
 

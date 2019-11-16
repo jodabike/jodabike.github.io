@@ -76,7 +76,7 @@
   & > a {
     display: inline-block;
     
-    font-size: map-get($base, 15px);
+    font-size: map-get($base, 14px);
     /*font-size: 15px;*/
     @include media-breakpoint-down(md) {
       font-size: map-get($base, font-size-h4-small);

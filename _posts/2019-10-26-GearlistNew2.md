@@ -191,5 +191,13 @@ $(document).ready(function() {
 -->
 
 </head>
+
+Blablabla 
+
+![Dark Mode](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/blog/dark-mode.gif)
+
+<!--more-->
+
+
 {% include gearlist.html %}
 

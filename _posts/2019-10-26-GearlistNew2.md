@@ -5,7 +5,7 @@ article_header:
   type: cover
   image:
     src: /assets/images/cover.jpg
-cover: https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg
+# cover: https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg
 ---
 
 Dark Mode is cool, and TeXt is supporting it.

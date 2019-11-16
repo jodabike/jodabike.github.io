@@ -236,7 +236,8 @@ Silk inlet<br>
 
 <p>
 <span class="bad">[Exped SIM 3.8M]</span> (broke)<br>
-No name rollable camping mat<br>
+Doite Colchoneta CrosTec</br>
+[No name rollable camping mat] (given away)<br>
 </p>
 
 
@@ -251,7 +252,7 @@ Jack Wolfskin tent footprint
 <p>
 <span class="good">Halti Jacket</span><br>
 Northiceland fleece<br>
-Gore Bike wear gloves<br>
+<span class="ok">Gore Bike wear gloves</span><br>
 Inov rainpants (gifted at casa de cyclista)<br>
 [Norrona ultralight wind jacket]<br>
 </p>
@@ -262,6 +263,7 @@ Mountain Hardware jacket<br>
 Northface inner fleece (from Jo's original jacket)<br>
 Reusch gloves<br>
 Light sports gloves (lost)<br>
+Neopren shoe covers<br>
 [Lowa fleece gloves]<br>
 [Nike ultralight wind jacket]<br>
 </p>
@@ -300,7 +302,7 @@ Leggings<br>
 
 <h3>Shoes</h3>
 <p>
-<span class="ok">QC Trailrunning shoes</span><br>
+<span class="bad">QC Trailrunning shoes</span><br>
 </p>
 
 <p>
@@ -372,6 +374,7 @@ Vegtables<br>
 Fruits<br>
 Cheese<br>
 Sandwich spread<br>
+Milkpowder<br>
 Salt + pepper<br>
 Oregano<br>
 Some other spices<br>
@@ -396,6 +399,7 @@ PET bottle with alcohol<br>
 <h3>Body</h3>
 Toilet paper<br>
 <span class="good">Unigear (pee standing)</span><br>
+**Shovel
 2x toothbrush<br>
 Toothpaste<br>
 Shampoo + conditioner<br>
@@ -461,7 +465,7 @@ Set of 4 AAA backup batteries<br>
 <h3>Other</h3>
 <span class="good">2l dry bag for most electronics</span><br>
 2x 5l nylon (semi)dry bags for camera and rest<br>
-*Cheap no name bluetooth soundbox<br>
+<span class="ok">*Cheap no name bluetooth soundbox</span><br>
 [32gb USB stick with Linux]<br>
 
 <h2>Documents</h2>
@@ -627,7 +631,10 @@ Virtual songbook (in head and phone)<br>
 2x Sunglasses<br>
 <span class="good">Ultralight 55l Arcteryx backpack</span><br>
 Hidable belly belt bag<br>
+2x Bamboo poles (bike stand, dogs, spacer, ..)<br>
 Some plastic bags<br>
+Nylon (semi)dry bag<br>
+Crane sports watch (at Jo's handlebar)<br>
 Elastic bands for compensation training<br>
 Piece of string to prevent pants touching the chain<br>
 [Compass]<br>

@@ -236,7 +236,7 @@ Silk inlet<br>
 
 <p>
 <span class="bad">[Exped SIM 3.8M]</span> (broke)<br>
-Doite Colchoneta CrosTec</br>
+Doite Colchoneta CrosTec<br>
 [No name rollable camping mat] (given away)<br>
 </p>
 

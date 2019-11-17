@@ -14,8 +14,7 @@ license: false
 
 Heyho 
 
-![Dark Mode]( https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg
-cover: /assets/images/cover2.png)
+![Dark Mode](/assets/images/cover2.png)
 
 <!--more-->
 

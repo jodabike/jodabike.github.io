@@ -18,6 +18,8 @@ From Hornopirén, we took a ferry to Caleta Gonzalo, as there is no road along t
 
 ![image](https://www.dropbox.com/s/1k41tk1i7miohhs/Foto%2004.11.19%2C%2010%2002%2035.jpg?raw=1)
 
+<!--more-->
+
 The guards on the ferry searched for a place to put all the bikes and finally we could all load them in the back of an empty truck. Then, we could spend some relaxed hours on the boat while the weather constantly changed between sunshine and rain.
 
 ![image](https://www.dropbox.com/s/khcbyn4tzoja0xx/Foto%2004.11.19%2C%2012%2029%2005.jpg?raw=1)

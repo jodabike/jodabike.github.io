@@ -1,22 +1,17 @@
 ---
 layout: article
-title: Gearlist 2.0
+title: Gearlist 2.1
 article_header:
   type: cover
   image:
     src: /assets/images/cover.jpg
 cover: https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg
+show_edit_on_github: false
+show_subscribe: false
+license: false
 ---
 
-Dark Mode is cool, and TeXt is supporting it.
 
-![Test](https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg)
-
-<!--more-->
-
-It is developing on `dev` branch, you can run `git checkout dev` to switch to this branch.
-
-For now, ONLY `default` skin supports Dark Mode.
 
 
 

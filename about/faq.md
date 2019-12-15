@@ -101,31 +101,45 @@ In the course of our journey we were asked many questions and asked ourself many
 &#9654; How do you pay for your travel?
 - We worked while studying and tried to spend as less as possible: Instead of buying high-end bicycles, we decided to ride used and robust mountain bikes.
 
--How much did your bikes cost?
+&#9654; How much did your bikes cost?
+- The black cube (Jo's bike) is actually David's mountainbike and was bought almost 10 years ago for around 700-800 eur. We bought the blue cube bike (David's bike) for more or less 200 eur used.
 
--Where did you buy your bikes?
+&#9654; Where did you buy your bikes?
+- The black bike was bought new in a local shop in Germany and the other one (blue) on ebay.
 
--How long/far have you been on the road?
+&#9654; How long/far have you been on the road?
+- Alltogether, we rode around 10.000 km in pretty much exactly 7 months.
 
--Are you insane?
+&#9654; Are you insane?
+- We guess you have to be a little bit out of your mind to ride your bike for over half a year, so maybe a little bit...
 
--How did you get the idea?
+&#9654; How did you get the idea?
+- We both like to go outside and to explore the world. In our opinion, the bicycle is the perfect mean of transportation: You are close to the nature and still fast enough to actually cover some distance.
 
--Did you do other tours before?
+&#9654; Did you do other tours before?
+- We crossed the Alps several times and did some other smaller tours in Europe.
 
--Why did you choose South America?
+&#9654; Why did you choose South America?
+- South America offers with its Andes a perfect opportunity to follow a mountain range 
+....
 
--How many flat tires did you have?
+&#9654; How many flat tires did you have?
+- Actually, we only had three flat tires (all in David's back wheel). We think that we had really good tires and that you are a lot less likely to get punctures when you are in the countryside.
 
--Did you have problems with your bikes/other gear?
+&#9654; Did you have problems with your bikes/other gear?
+- Of course, we had some problems but indeed nothing to serious. For example, our hubs (standard shimano hubs, see in our gear list..) all broke one after another. And after 10.000 km David's chain and gear were all worn through which is no surprise.
 
--Did you send stuff back home?
+&#9654; Did you send stuff back home?
+- We sent a package home from Cusco, Peru. It contained mostly stuff that we bought there as Chrismas presents or souvenirs but also some of our original gear: For instance, we used to carry two power banks but had never used both. In addition, we got rid of some rarely used cloth.
 
--What was most useful/useless?
+&#9654; What was most useful/useless?
+- 
+- 
 
--What did you miss most?
+&#9654; What did you miss most?
 
--When did you take your last shower?
+&#9654; When did you take your last shower?
+- Probably, around a week ago :D.
 
 -How did you bring your bikes to South America?
 
@@ -137,6 +151,8 @@ In the course of our journey we were asked many questions and asked ourself many
 ***
 
 ## By Friends and Family
+
+
 
 ***
 

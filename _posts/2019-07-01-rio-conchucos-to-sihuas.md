@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Friendly people and bumpy roads: Rio Conchucos to Sihuas
+title: Friendly people and bumpy roads - Rio Conchucos to Sihuas
 article_header:
   type: cover
   image:

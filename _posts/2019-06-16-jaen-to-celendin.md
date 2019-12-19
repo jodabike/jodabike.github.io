@@ -10,6 +10,7 @@ cover: https://ohwieschoenistpatagonia.files.wordpress.com/2019/06/p1160778.jpg
 show_edit_on_github: false
 show_subscribe: false
 license: false
+tags: Peru
 ---
 
 June 12 - June 16

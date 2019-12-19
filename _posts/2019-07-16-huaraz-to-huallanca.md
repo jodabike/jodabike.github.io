@@ -10,6 +10,7 @@ cover: https://ohwieschoenistpatagonia.files.wordpress.com/2019/07/p1180752.jpg
 show_edit_on_github: false
 show_subscribe: false
 license: false
+tags: Peru 
 ---
 
 July 10 - July 12

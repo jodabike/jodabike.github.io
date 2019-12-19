@@ -10,6 +10,7 @@ cover: https://ohwieschoenistpatagonia.files.wordpress.com/2019/06/p1160523.jpg
 show_edit_on_github: false
 show_subscribe: false
 license: false
+tags: Ecuador 
 ---
 
 June 1 - June 5

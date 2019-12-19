@@ -5,8 +5,8 @@ article_header:
   type: cover
   image:
     #src: /assets/images/cover.jpg
-    src: https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg
-cover: /assets/images/cover2.png
+    src: https://ohwieschoenistpatagonia.files.wordpress.com/2019/07/p1170707.jpg
+cover: https://ohwieschoenistpatagonia.files.wordpress.com/2019/07/p1170707.jpg
 show_edit_on_github: false
 show_subscribe: false
 license: false

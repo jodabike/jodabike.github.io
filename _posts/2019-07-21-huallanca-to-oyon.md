@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Cold tracks with gold trucks: Huallanca to Oyon
+title: Cold tracks with gold trucks - Huallanca to Oyon
 article_header:
   type: cover
   image:

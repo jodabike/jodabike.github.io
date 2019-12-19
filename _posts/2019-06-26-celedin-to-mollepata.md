@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Beautiful mountains and ugly mines: Celendín to Mollepata
+title: Beautiful mountains and ugly mines - Celendín to Mollepata
 article_header:
   type: cover
   image:

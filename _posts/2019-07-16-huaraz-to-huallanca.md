@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Parque Nacional Huarascarán: Huaraz to Huallanca
+title: Parque Nacional Huarascarán - Huaraz to Huallanca
 article_header:
   type: cover
   image:

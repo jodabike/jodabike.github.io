@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Cold nights: Oyon to Canchacucho
+title: Cold nights - Oyon to Canchacucho
 article_header:
   type: cover
   image:

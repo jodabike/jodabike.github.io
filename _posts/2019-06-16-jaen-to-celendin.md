@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Stunning views on the Andes: Jaen to Celendin
+title: Stunning views on the Andes\: Jaen to Celendin
 article_header:
   type: cover
   image:

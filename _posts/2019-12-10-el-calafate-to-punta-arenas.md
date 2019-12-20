@@ -13,7 +13,7 @@ license: false
 tags: Argentina 
 ---
 
-December 3 - December 8
+*December 3 - December 8*
 
 After another night at the campground, we left El Calafate the next day and cycled on through the pampas. The last 40km were quite tough because we had to ride against the wind, but we reached an abandoned police station where we could camp sheltered from the wind.
 

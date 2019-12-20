@@ -10,7 +10,7 @@ cover: https://ohwieschoenistpatagonia.files.wordpress.com/2019/12/p1290981.jpg
 show_edit_on_github: false
 show_subscribe: false
 license: false
-tags: Argentina 
+tags: Chile
 ---
 
 *December 3 - December 8*

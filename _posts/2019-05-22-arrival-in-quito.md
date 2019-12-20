@@ -13,7 +13,7 @@ license: false
 tags: Ecuador
 ---
 
-May 20
+*May 20*
 
 We arrived in Quito at 6 am, local time, and so did our bikes and luggage. What a relieve! :) Our first challenge was to bring the bikes from the baggage claim to the outside area of the airport because a baggage cart costed 2 dollars and we did not have any cash yet. Luckily some friendly travelers recognized our struggle and gave us the money.
 

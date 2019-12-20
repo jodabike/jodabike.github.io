@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-July 28 - July 31
+*July 28 - July 31*
 
 We spent a relaxed Sunday morning in Paracas, trying out tasty Tamal for breakfast (sustainably wrapped in banana leaves).
 

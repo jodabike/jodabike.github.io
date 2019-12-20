@@ -13,7 +13,7 @@ license: false
 tags: Bolivia 
 ---
 
-September 23 - September 26
+*September 23 - September 26*
 
 Our little boat jungle trip had been great, but we had not seen many animals except for insects, birds and some river pigs. Hence, we decided to cycle to Santa Rosa to do a Pampas tour and observe more animals.
 

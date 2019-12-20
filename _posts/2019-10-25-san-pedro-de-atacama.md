@@ -13,7 +13,7 @@ license: false
 tags: Chile
 ---
 
-October 20 - October 22
+*October 20 - October 22*
 
 We took a break of a few days in San Pedro to relax and organize our upcoming bus ride to Puerto Montt. (As Jo wants to back home by Christmas and we want to reach Ushuaia before, we unfortunately need to skip quite some kilometers of cycling.)
 

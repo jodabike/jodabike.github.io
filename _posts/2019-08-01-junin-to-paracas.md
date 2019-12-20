@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-July 22 - July 27
+*July 22 - July 27*
 
 Some weeks ago, we camped on some farmers‘ land who proudly told us that Peru's landscape has it all: mountains, desert, rain forest and the sea. But since we arrived in Peru, we have not left the beautiful Andes yet. Hence, we decided to see a little more of this land’s diversity and aim towards the ocean and see some desert as well. This enabled us some pretty relaxing days of rolling downhill.
 

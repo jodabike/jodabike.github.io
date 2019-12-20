@@ -13,7 +13,7 @@ license: false
 tags: Ecuador 
 ---
 
-June 1 - June 5
+*June 1 - June 5*
 
 From Cuenca, we took a nice side road up in the mountains again to avoid the Panamericana for a while. We stopped for a delicious street food lunch where we could observe a pig being taken apart while eating.
 

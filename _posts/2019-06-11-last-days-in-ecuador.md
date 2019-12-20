@@ -13,7 +13,7 @@ license: false
 tags: Ecuador 
 ---
 
-June 6 - June 9
+*June 6 - June 9*
 
 In Loja, David did a little bike care in the morning and cleaned of the mud from the past days before we hit the road again.
 

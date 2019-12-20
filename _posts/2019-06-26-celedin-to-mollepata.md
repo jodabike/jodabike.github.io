@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-June 17 - June 22
+*June 17 - June 22*
 
 After a day of relaxing in Celendín on Sunday, June 16, we continued our way towards direction of Cajamarca on Monday. We had to cross another pass at 3750 m through some rain clouds that were stuck at the top of the mountain.
 

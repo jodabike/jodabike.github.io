@@ -13,7 +13,7 @@ license: false
 tags: Bolivia 
 ---
 
-September 30 - October 5
+*September 30 - October 5*
 
 We left La Paz early in the morning and took a cable car out of the city center, up to the Altiplano. As the city is huge, we still had to pedal through the chaotic traffic of El Alto for a while until we finally left town behind us.
 

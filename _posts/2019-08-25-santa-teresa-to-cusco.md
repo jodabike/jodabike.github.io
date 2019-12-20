@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-August 20 - August 24
+*August 20 - August 24*
 
 Tuesday, we first rode downhill on a dirt road to Santa Maria. The valley was nice but it was crazily dusty when cars passed us. It lead right into the jungle and everything was full of banana, lemon, orange and avocado trees, colorful insects and funnily sounding birds.
 

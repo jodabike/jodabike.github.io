@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-August 5 - August 9
+*August 5 - August 9*
 
 On Monday morning, we found a little bike shop in Puquio where we could borrow some tools to fix Jo’s front wheel.
 

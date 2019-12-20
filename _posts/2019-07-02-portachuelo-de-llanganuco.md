@@ -13,7 +13,7 @@ license: false
 tags: Peru
 ---
 
-June 26 - July 2
+*June 26 - July 2*
 
 From Sihuas, we continued our way on bumpy dirt roads.
 

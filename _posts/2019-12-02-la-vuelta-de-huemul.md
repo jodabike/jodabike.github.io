@@ -13,7 +13,7 @@ license: false
 tags: Argentina
 ---
 
-November 25 - November 28
+*November 25 - November 28*
 
 We started a four-day-hike on Monday afternoon from El Chaltén. It is called the Huemul circuit and it is a quite popular trek among the more mountain experienced tourists around here. We extended the tour by one day to cross one more pass, el Paso de las Agachonas.
 

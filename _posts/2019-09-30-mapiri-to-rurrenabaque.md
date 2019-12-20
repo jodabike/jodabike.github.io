@@ -13,7 +13,7 @@ license: false
 tags: Bolivia 
 ---
 
-September 20 - September 22
+*September 20 - September 22*
 
 Friday morning, we got up very early and went to the port of Mapiri. We had asked many locals about a boat to Guanay but had not gotten any reliant information.
 

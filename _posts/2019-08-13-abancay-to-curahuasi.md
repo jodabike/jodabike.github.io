@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-August 10 - August 13
+*August 10 - August 13*
 
 We went to see another bike shop on Saturday morning because the ball bearing of Jo’s front wheel still made some troubles. Soon, we probably know every bike shop in southern Peru. :D
 

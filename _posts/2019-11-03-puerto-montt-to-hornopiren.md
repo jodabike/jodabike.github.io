@@ -13,7 +13,7 @@ license: false
 tags: Chile
 ---
 
-October 27 - November 3
+*October 27 - November 3*
 
 After Patagonia hat welcomed us with some beautiful sunshine on our first day, the spring weather showed its true face Sunday morning: rain was pouring down. Sebastian, our host, said that this was just some water coming down and we should better get used to it. So, we reluctantly packed our stuff and hit the road towards Cochamó.
 

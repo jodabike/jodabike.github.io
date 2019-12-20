@@ -13,7 +13,7 @@ license: false
 tags: Argentina 
 ---
 
-November 30 - December 2
+*November 30 - December 2*
 
 After a day of relaxing in the nice hostel 'Casa Azul', where we met many other cyclists with fascinating stories and tours, we hit the road again on Saturday.
 

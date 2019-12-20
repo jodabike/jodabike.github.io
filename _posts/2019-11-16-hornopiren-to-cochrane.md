@@ -13,7 +13,7 @@ license: false
 tags: Chile
 ---
 
-November 4 - November 16
+*November 4 - November 16*
 
 From Hornopirén, we took a ferry to Caleta Gonzalo, as there is no road along this fjord. Five other cyclists also took that ferry, the carratera austral really seems to be full of cyclists, even in the current pre-season.
 

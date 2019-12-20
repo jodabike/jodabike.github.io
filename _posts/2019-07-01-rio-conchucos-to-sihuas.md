@@ -13,7 +13,7 @@ license: false
 tags: Peru
 ---
 
-June 23 - June 25
+*June 23 - June 25*
 
 From our camp site at Rio Conchucos down at about 2200 m, we followed the river upstream through a narrow valley to (surprise!) Conchucos. A little town along the way up to a pass of about 4200 m that we were headed to.
 

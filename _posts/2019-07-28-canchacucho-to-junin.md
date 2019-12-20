@@ -12,7 +12,8 @@ show_subscribe: false
 license: false
 tags: Peru 
 ---
-July 19 - July 21
+
+*July 19 - July 21*
 
 We arrived in the national park on Friday evening and could sleep in the shed of a lovely local family.
 

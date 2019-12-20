@@ -13,7 +13,7 @@ license: false
 tags: Ecuador
 ---
 
-May 28 - May 31
+*May 28 - May 31*
 
 On May 28, we went further south, mainly following the Panamericana, but also taking a nice detour on country roads. It was amazing to see the little towns along the road, the people were all really friendly and interested in our tour. Agriculture is also very fascinating here. The smallest and steepest fields are used for farming and most of the work is done by hand.
 

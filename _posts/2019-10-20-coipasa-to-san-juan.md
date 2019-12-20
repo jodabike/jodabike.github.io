@@ -13,7 +13,7 @@ license: false
 tags: Bolivia 
 ---
 
-October 6 - October 11
+*October 6 - October 11*
 
 As we had such a good time eating dinner at Petronila’s, we went there again for breakfast on Sunday morning. And it was amazingly tasty again: she made fresh pan bread with scrambled eggs and a Bolivian thick sweet maize drink for us.
 

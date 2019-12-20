@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-August 1 - August 4
+*August 1 - August 4*
 
 We left the oasis on Thursday morning after a really good coffee and went to Ica to buy some supplies.
 

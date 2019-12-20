@@ -13,7 +13,7 @@ license: false
 tags: Ecuador 
 ---
 
-May 25 - May 27
+*May 25 - May 27*
 
 On Saturday, May 25, we followed the Panamericana to Ambato. We arrived in this big and hilly city in the afternoon, not knowing where to spend the night yet.
 

@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-July 3 - July 10
+*July 3 - July 10*
 
 We rode about 25 km from Marcará to Huaraz in the morning and checked in in a nice hostel with very friendly owners. We wanted to take a little break in this city after more than 2000 km of cycling.
 

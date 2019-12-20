@@ -13,7 +13,7 @@ license: false
 tags: Argentina
 ---
 
-November 22 - November 23
+*November 22 - November 23*
 
 We got up early to fetch our boat over Lago O'Higgins. It was a 7km ride from town to the port and we made a short stop a a little viewpoint on the way to take a quick photo with the camera.
 

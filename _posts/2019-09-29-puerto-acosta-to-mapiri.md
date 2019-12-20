@@ -13,7 +13,7 @@ license: false
 tags: Bolivia
 ---
 
-September 15 - September 19
+*September 15 - September 19*
 
 After cold shower in the morning and some shopping on the market in Puerto Acosta, we hit the dirt road again. (As in every little South American town, there was some kind of fiesta going on here as well.)
 

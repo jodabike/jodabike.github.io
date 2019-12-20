@@ -13,7 +13,7 @@ license: false
 tags: Chile
 ---
 
-November 17 - November 21
+*November 17 - November 21*
 
 It rained again on Sunday morning and we were tempted to stay another night at Piero's. But as the sun finally showed up in the afternoon, we packed our stuff and hit the road again. Piero also went for a little ride, so we all left the house together in the sun... which did not last very long, but at least it did not rain.
 

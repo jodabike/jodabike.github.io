@@ -13,7 +13,7 @@ license: false
 tags: Chile
 ---
 
-October 23 - October 26
+*October 23 - October 26*
 
 Chile has been in turmoil. Due to planned elevations of metro and electricity prices, the Chileans have risen up against the government with protests, strikes and partly also violence.
 

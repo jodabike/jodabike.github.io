@@ -13,7 +13,7 @@ license: false
 tags: Peru
 ---
 
-June 12 - June 16
+*June 12 - June 16*
 
 We decided to skip a few kilometers of cycling through the brutal sun and took a bus from Jaén to Chachapoyas. It was a small bus and the driver fixed our bikes to the top of the bus. An adventurous bus ride followed but finally we, and the bikes, arrived safely in Chachapoyas, back in the mountains where the heat was not that bad anymore.
 

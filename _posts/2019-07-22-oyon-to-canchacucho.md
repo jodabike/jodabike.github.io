@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-July 17 - July 19
+*July 17 - July 19*
 
 From Oyon, we headed towards another 4800 m pass. The first part of the road was closed, but we decided to try it anyway.
 

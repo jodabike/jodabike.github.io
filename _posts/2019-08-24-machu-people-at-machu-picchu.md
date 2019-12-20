@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-August 18 - August 19
+*August 18 - August 19*
 
 We could leave our luggage in the hostel and rode with light bikes towards Machu Picchu.
 

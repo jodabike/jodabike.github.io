@@ -13,7 +13,7 @@ license: false
 tags: Bolivia
 ---
 
-September 09 - September 14
+*September 09 - September 14*
 
 We actually did not leave Cusco on Sunday as we had planned because we spent the whole day looking for a flight home in December.
 

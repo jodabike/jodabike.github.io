@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-July 10 - July 12
+*July 10 - July 12*
 
 We left our hostel on Wednesday morning after the hostel owner gave us a bunch of herbs of his garden which help against stomach pain and having a long chat with his two really nice and interested kids.
 

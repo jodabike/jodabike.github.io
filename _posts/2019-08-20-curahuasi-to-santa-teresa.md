@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-August 14 - August 17
+*August 14 - August 17*
 
 We were both feeling very sick and David was especially weak because he could neither eat nor drink. So, we decided to go to the hospital on Wednesday.
 <!--more-->

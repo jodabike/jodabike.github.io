@@ -13,7 +13,7 @@ license: false
 tags: Peru
 ---
 
-June 9 - June 11
+*June 9 - June 11*
 
 On Sunday, June 9, we crossed the boarder from Ecuador to Peru in La Balsa. It was pretty chaotic, because we did not find the right offices right away and had to go back an forth between Ecuador and Peru two times. But, finally we managed to officially exit Ecuador and enter Peru!
 

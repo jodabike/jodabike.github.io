@@ -13,7 +13,7 @@ license: false
 tags: Peru 
 ---
 
-July 13 - July 16
+*July 13 - July 16*
 
 From Huallanca, we rode further through the narrow valley until we reached La Unión.
 

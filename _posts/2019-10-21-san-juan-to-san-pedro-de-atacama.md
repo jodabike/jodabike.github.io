@@ -13,7 +13,7 @@ license: false
 tags: Bolivia 
 ---
 
-October 12 - October 19
+*October 12 - October 19*
 
 We left San Juan together with Hannah and Marius but soon had to say goodbye again because they wanted to ride to Chile and not take the Lagunas route. But we had had a great time together again! :)
 

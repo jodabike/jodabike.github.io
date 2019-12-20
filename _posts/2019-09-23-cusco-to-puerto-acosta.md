@@ -5,8 +5,8 @@ article_header:
   type: cover
   image:
     #src: /assets/images/cover.jpg
-    src: https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg
-cover: /assets/images/cover2.png
+    src: https://ohwieschoenistpatagonia.files.wordpress.com/2019/09/fullsizerender_ezy-watermark_22-09-2019_05-38-26pm.jpg
+cover: https://ohwieschoenistpatagonia.files.wordpress.com/2019/09/fullsizerender_ezy-watermark_22-09-2019_05-38-26pm.jpg
 show_edit_on_github: false
 show_subscribe: false
 license: false

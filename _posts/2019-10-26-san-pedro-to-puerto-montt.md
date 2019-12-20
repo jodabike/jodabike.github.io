@@ -1,6 +1,6 @@
 ---
 layout: article
-title: A stressful trip: San Pedro to Puerto Montt
+title: A stressful trip - San Pedro to Puerto Montt
 article_header:
   type: cover
   image:

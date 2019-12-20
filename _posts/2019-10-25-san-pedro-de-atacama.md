@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Chilling in Chile: San Pedro de Atacama
+title: Chilling in Chile - San Pedro de Atacama
 article_header:
   type: cover
   image:

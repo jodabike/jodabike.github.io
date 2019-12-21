@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 
+title: The final countdown - Tierra del Fuego - Ushuaia to Punta Arenas 
 article_header:
   type: cover
   image:
@@ -16,6 +16,7 @@ tags: Argentina
 *December 10 - December 18*
 
 After our break day in Punta Arenas, we took the ferry to Porvenir on Tuesday morning. It was the beginning of our final stretch on the island "Tierra del Fuego" to reach our destination, Ushuaia.
+
 
 <!--more-->
 

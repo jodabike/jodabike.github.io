@@ -2,46 +2,54 @@
 
 FAQ
 
-By Locals
-We
-Bikes
-Money
-By Other Bikers
-Cotact
-By home
-By us
-Radom
+# Frequently Asked Questions
 
+## Table of Contents
 
--Where are you from?
-South of Germany
+1. By Locals
+    We
+    Bikes
+    Money
+2. By Other Bikers/Tourists
+    Contact
+    Motivation
+3. By family and friends
+    Security
+    Money
+4. By Us
+    Why
+5. Radom
 
--From where to where are you riding?
-Quito (Ecuador) to Ushuaia (Argentina)
+# By Locals
 
--What is your job?
-Finished our studies.
+- Where are you from?
+We live in the South of Germany.
 
--Why do you carry sticks?
-Multipurpose tools: Bike stand, car spacer, dog repeller, hiking poles, visibility and fun.
+- From where to where are you riding?
+We went form Quito (Ecuador) to Ushuaia (Argentina).
 
--How many kilometers/hours do you ride per day?
-Depends a lot on incline and road quality: In average around 50km in 6-12h.
+- What is your job?
+We just finished our studies and hence had time for the trip.
 
--Do you have instagram/whatsapp/facebook?
-No, only this Blog due to privacy concerns related with facebook products.
+- Why do you carry sticks?
+Our (mostly) bamboo stick are multipurpose tools: We use them as bike stands, car spacer, dog repeller, hiking poles and for visibility and fun.
 
--Do your legs/butts hurt?
+- How many kilometers/hours do you ride per day?
+These numbers depend a lot on slope and road quality: In average we rode around 50km a day in 6-12h.
+
+- Do you have instagram/whatsapp/facebook?
+No, only this blog due to privacy concerns related with facebook products.
+
+- Do your legs/butts hurt?
 Our legs got quickly used to cycling everyday, however hiking detours sometimes lead to sore muscles. We had well suiting saddles that were adjusted properly which is really important. Although this minimizes any butt pain, e.g. washboard roads could still be quite painful.
 
--Where do you sleep?
-Most of the times we just wild camped in our tent. Sometimes in bigger towns we stay at hostels, also to shower once in a while :D.
+- Where do you sleep?
+Most of the times we just wild camped in our tent. Sometimes in bigger towns we stayed at hostels, also to shower once in a while :D.
 
--Don't you have fear?
-No, of what?! 
+- Don't you have fear?
 In the beginning, we were a bit worried about getting robbed or so. But soon, we noticed how incredibly friendly people are and chances, that something bad happens, seemed really low.
 
--What was the most beautiful part of your journey?/What was your favorite part?
+- What was the most beautiful part of your journey?/What was your favorite part?
 
 -Did you have some bad/negative experience?
 

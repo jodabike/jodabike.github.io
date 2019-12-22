@@ -5,8 +5,8 @@ article_header:
   type: cover
   image:
     #src: /assets/images/cover.jpg
-    src: https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2219.jpg
-cover: https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2219.jpg
+    src: https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2219M.jpg
+cover: https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2219T.jpg
 show_edit_on_github: false
 show_subscribe: false
 license: false
@@ -19,20 +19,20 @@ Jo hat in Freising ihre Masterarbeit abgegeben, einen schönen Abschlussball gef
 
 Dann kamen wir im Basis-Lager Pfäffingen wieder zusammen und haben die Fahrräder einmal komplett Probe-bepackt und gefahren.
 
-<img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2241.jpg" class="size-full wp-image-141" width="3264" height="2448">
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2241M.jpg" /></p>
 
-<img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2220.jpg" class="size-full wp-image-140" width="4032" height="3024">Die Räder fahren sich super gut und sind mit etwa 36 kg pro Fahrrad ja auch gar nicht soo schwer. :D
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2220M.jpg" /></p>
 
 Dann wurde alles wieder auseinander gebaut und umgepackt für den Flug.
 
-<img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2236.jpg" class="size-full wp-image-134" width="4032" height="3024"><img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2192.jpg" class="size-full wp-image-154" width="3024" height="4032">Am 19.5. ging es dann mit gepackten Fahrradkisten und Gepäck im VW-Bus zum Flughafen.
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2236M.jpg" /></p>
 
-<img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2248.jpg" class="size-full wp-image-139" width="4032" height="3024"><img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2252.jpg" class="size-full wp-image-138" width="3264" height="2448">Dort sind wir das Gepäck erfolgreich los geworden und konnten mit unseren Eltern noch gemütlich etwas trinken gehen.
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2248M.jpg" /></p>
 
 Dann noch schnell ein paar Abschiedsfotos...
 
-<img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2249.jpg" class="size-full wp-image-135" width="1280" height="960"><img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2255.jpg" class="size-full wp-image-136" width="3264" height="2448">... und ab zum Gate!
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2249M.jpg" /></p>
 
 Wegen Gewitter hatte unser Flug nach Madrid 2 Stunden Verspätung, aber wir hatten schöne Aussicht beim Warten und zum Glück keine Probleme beim Erreichen des Anschlussflugs.
 
-<img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2263.jpg" class="size-full wp-image-137" width="4032" height="3024">
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2263M.jpg" /></p>

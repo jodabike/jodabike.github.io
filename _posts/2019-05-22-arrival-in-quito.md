@@ -5,8 +5,8 @@ article_header:
   type: cover
   image:
     #src: /assets/images/cover.jpg
-    src: https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2272.jpg
-cover: https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2272.jpg
+    src: https://jodabike.github.io/blogmedia/imgs/2019-05-22-arrival-in-quito/img_2272M.jpg
+cover: https://jodabike.github.io/blogmedia/imgs/2019-05-22-arrival-in-quito/img_2272T.jpg
 show_edit_on_github: false
 show_subscribe: false
 license: false
@@ -19,22 +19,22 @@ We arrived in Quito at 6 am, local time, and so did our bikes and luggage. What 
 
 <!--more-->
 
-<img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2265.jpg" class="size-full wp-image-143" width="3024" height="4032">
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-22-arrival-in-quito/img_2265M.jpg" /></p>
 
 We unpacked and reassembled the bikes at the airport and had to find that the little bike pump we brought does not work.
 
-<img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2271.jpg" class="size-full wp-image-149" width="4032" height="3024"><img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2273.jpg" class="size-full wp-image-145" width="4032" height="3024">Hence, we used the suspension pump to get at least some air in our tires and slowly rolled to the next gas station where we could fully pump the bikes.
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-22-arrival-in-quito/img_2271M.jpg" /></p>
 
-<img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2277.jpg" class="size-full wp-image-144" width="960" height="1280"><img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2281.jpg" class="size-full wp-image-150" width="3024" height="4032">
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-22-arrival-in-quito/img_2277M.jpg" /></p>
 
 Then we cycled to our first accommodation, about 30 km from the airport. Ah, wait, actually it was 50 km with a height difference of about 900m. :D
 
-<img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2594.jpg" class="size-full wp-image-146" width="4032" height="3024">
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-22-arrival-in-quito/img_2594M.jpg" /></p>
 
-<img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2282.jpg" class="size-full wp-image-147" width="4032" height="3024">
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-22-arrival-in-quito/img_2282M.jpg" /></p>
 
 We went along the outskirts of Quito and it was a pretty exhausting ride (for Jo). But the surrounding landscape looked amazing.
 
 Finally, we arrived at Sebastian's, who we met via warmshowers.org. He welcomed us warmly, gave us a wonderful room and shared some helpful bike travel experiences with us while eating out in a local restaurant.
 
-<img src="https://ohwieschoenistpatagonia.files.wordpress.com/2019/05/img_2284.jpg" class="size-full wp-image-148" width="4032" height="3024">
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-22-arrival-in-quito/img_2284M.jpg" /></p>

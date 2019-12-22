@@ -7,6 +7,7 @@ article_header:
     #src: /assets/images/cover.jpg
     src: https://jodabike.github.io/blogmedia/imgs/2019-12-20-punta-arenas-to-ushuaia/p1300717M.jpg
 cover: https://jodabike.github.io/blogmedia/imgs/2019-12-20-punta-arenas-to-ushuaia/p1300717T.jpg
+full_width: true
 show_edit_on_github: false
 show_subscribe: false
 license: false

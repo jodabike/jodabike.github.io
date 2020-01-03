@@ -181,8 +181,7 @@ window.onclick = function(e) {
 //Underline active field
 
 var string = window.location.href,
-    substring = "/resources/",
-    substring2 = "/about/";
+    substring = "/resources/";
 
 if (string.includes(substring)) {
   document.getElementById("myDrop").style.textDecoration = "underline";
@@ -191,7 +190,7 @@ if (string.includes(substring)) {
 }
 
 
-if (string.includes(substring2)) {
+if (string.includes("/about/")) {
   document.getElementById("myDrop2").style.textDecoration = "underline";
   document.getElementById("myDrop").style.textDecoration = "none";
   document.getElementById("myBlog").style.textDecoration = "none";

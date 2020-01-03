@@ -113,9 +113,9 @@
 
 
 <div class="navbar">
-  <a href="#home">Blog</a>
+  <a id="myBlog" href="#home">Blog</a>
   <div class="dropdown">
-  <button class="dropbtn" onclick="myFunction()">Resources
+  <button id="myResources" class="dropbtn" onclick="myFunction()">Resources
     <i class="fa fa-caret-down"></i>
   </button>
   <div class="dropdown-content" id="myDropdown">
@@ -130,7 +130,7 @@
   </div>
   </div>
   <div class="dropdown">
-  <button class="dropbtn" onclick="myFunction2()">About
+  <button id="myAboutus" class="dropbtn" onclick="myFunction2()">About
     <i class="fa fa-caret-down"></i>
   </button>
   <div class="dropdown-content" id="myDropdown2">
@@ -179,9 +179,19 @@ window.onclick = function(e) {
 //Underline active field
 
 var string = window.location.href,
-    substring = "/";
+    substring = "/",
+    substring2 = "aboutus";
+
 if (string.includes(substring)) {
-  document.getElementById("myDropdown").style.textDecoration = "underline";
+  document.getElementById("myResoures").style.textDecoration = "underline";
+  document.getElementById("myAboutus").style.textDecoration = "none";
+  document.getElementById("myBlog").style.textDecoration = "none";
+}
+
+if (string.includes(substring2)) {
+  document.getElementById("myAboutus").style.textDecoration = "underline";
+  document.getElementById("myResources").style.textDecoration = "none";
+  document.getElementById("myBlog").style.textDecoration = "none";
 }
 
 </script>

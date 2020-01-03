@@ -130,7 +130,7 @@
   </div>
   </div>
   <div class="dropdown">
-  <button class="dropbtn" onclick="myFunction2()">About
+  <button class="dropbtn" onclick="myFunction2()" id="mydrop2">About
     <i class="fa fa-caret-down"></i>
   </button>
   <div class="dropdown-content" id="myDropdown2">
@@ -181,10 +181,13 @@ window.onclick = function(e) {
 //Underline active field
 
 var string = window.location.href,
-    substring = "/";
+    substring = "/",
+    substring2 = "/about/";
 
 if (string.includes(substring)) {
   document.getElementById("myDrop").style.textDecoration = "underline";
+  document.getElementById("myDrop2").style.textDecoration = "none";
+  document.getElementById("myBlog").style.textDecoration = "none";
 }
 /*
 

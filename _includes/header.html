@@ -176,6 +176,14 @@ window.onclick = function(e) {
   }
 }
 
+//Underline active field
+
+var string = window.location.href,
+    substring = "/";
+if (string.includes(substring)) {
+  document.getElementById("myDropdown").style.textDecoration = "underline";
+}
+
 </script>
 
 

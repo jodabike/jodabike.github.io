@@ -216,8 +216,8 @@ defaults:
       pageview: true
 
 ## collections_dir: collections
-collections:
-  - resources
+##collections:
+##  - resources
 
 
 ## => Plugins

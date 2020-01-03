@@ -115,7 +115,7 @@
 <div class="navbar">
   <a id="myBlog" href="/index.html">Blog</a>
   <div class="dropdown">
-  <button class="dropbtn" onclick="myFunction()">Resources
+  <button class="dropbtn" onclick="myFunction() id="myDrop">Resources
     <i class="fa fa-caret-down"></i>
   </button>
   <div class="dropdown-content" id="myDropdown">
@@ -177,18 +177,16 @@ window.onclick = function(e) {
 }
 
 
-/*
+
 //Underline active field
 
 var string = window.location.href,
-    substring = "/",
-    substring2 = "aboutus";
+    substring = "/";
 
 if (string.includes(substring)) {
-  document.getElementById("myResoures").style.textDecoration = "underline";
-  document.getElementById("myAboutus").style.textDecoration = "none";
-  document.getElementById("myBlog").style.textDecoration = "none";
+  document.getElementById("myDrop").style.textDecoration = "underline";
 }
+/*
 
 if (string.includes(substring2)) {
   document.getElementById("myAboutus").style.textDecoration = "underline";

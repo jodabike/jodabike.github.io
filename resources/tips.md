@@ -39,7 +39,10 @@ While we were travelling, we were especially thankful for all the infos and tips
 
 *Favorites:* Cevichocho (Streetfood), Corncobs with homemade Mayo (Streetfood on route to Chimborazo), Croissants with manja blanca (sweet caramel like filling), Granadilla (Similar to maracuya but sweeter).
 
-<p><img alt="Image" title="icon" src="/resources/media/granadilla.jpg" /></p>
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/granadilla.jpg" />
+  <figcaption>David enjoying a Granadilla.</figcaption>
+</figure>
 
 *Restaurants:* Menu for 2-3eur (completo) includes Starter (usually chicken soup), Secondo (meat with rice) and drink (for example sweet tea or corn drink with refills).
 

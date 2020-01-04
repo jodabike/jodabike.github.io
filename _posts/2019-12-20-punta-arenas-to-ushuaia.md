@@ -7,7 +7,6 @@ article_header:
     #src: /assets/images/cover.jpg
     src: https://jodabike.github.io/blogmedia/imgs/2019-12-20-punta-arenas-to-ushuaia/p1300717M.jpg
 cover: https://jodabike.github.io/blogmedia/imgs/2019-12-20-punta-arenas-to-ushuaia/p1300717T.jpg
-full_width: true
 show_edit_on_github: false
 show_subscribe: false
 license: false
@@ -145,3 +144,5 @@ Tuesday, we did a beautiful hike up to "Cerro del Media" from where we could see
 Then, we had to pack the bikes into boxes and began our journey home on Wednesday to be back home in time for Christmas.
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-12-20-punta-arenas-to-ushuaia/Foto%2016.12.19%2C%2017%2009%2035M.jpg" /></p>
+
+***

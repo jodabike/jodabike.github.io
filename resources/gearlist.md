@@ -18,7 +18,7 @@ We tried to compile a (hopefully) complete list of all the gear that we carry. T
 
 Further, we reviewed some of our equipment with the classic traffic light system (green: good, orange: ok, red: bad). Each reviewed item links directly to details in our gear review post.
 
-The full list is here available as compact text file for saving or printing. 
+The full list is [here](https://jodabike.github.io/resources/downloads/gearList.txt) available as compact text file for saving or printing. 
 
 {% include tableofcontents.html %}
 

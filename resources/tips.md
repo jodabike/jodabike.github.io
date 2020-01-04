@@ -237,7 +237,7 @@ Spanish is in our opinion a must if you do not stick to La Paz or other metropol
 
 ***
 
-<h2><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Argentina_and_Chile.png" alt="Flag of Patagonia" width="50">   &nbsp; Patagonia (Chile and Argentina)</h2>
+<h2><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Argentina_and_Chile.png" alt="Flag of Patagonia" width="60">   &nbsp; Patagonia (Chile and Argentina)</h2>
 
 ### Food
 
@@ -287,3 +287,6 @@ Spanish is in our opinion a must if you do not stick to La Paz or other metropol
 
 
 ### Personal Highlights
+
+
+***

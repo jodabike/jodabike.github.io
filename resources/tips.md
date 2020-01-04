@@ -156,7 +156,7 @@ Spanish is pretty much mandatory here. English speakers were definitely the exce
 Bild Celendin
 
 
-### Personal Highlights:
+### Personal Highlights
 
 - Paved one-lane road between Laymebamba and Celendin
 - Gifted ocas in Conchucos

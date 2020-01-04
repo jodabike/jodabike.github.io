@@ -29,7 +29,9 @@ Bild David Granadilla
 
 ## Money (USD)
 
-*Withdrawal:* We were able to withdraw money for free at "Banco de Guayaquil" and "Banco de Loja" with our DKB VISA card. But we heard that many other ATMs are as well free of charge. However some banks like "Scotiabank" were charging a small fee (~5usd). ATMs are found in all cities. Change: Currency change at the border to Peru (La Balsa) was no problem. We even got a fair rate. If you enter Peru, it might be helpful to keep some backup dollars for emergencies.
+*Withdrawal:* We were able to withdraw money for free at "Banco de Guayaquil" and "Banco de Loja" with our DKB VISA card. But we heard that many other ATMs are as well free of charge. However some banks like "Scotiabank" were charging a small fee (~5usd). ATMs are found in all cities.
+
+*Exchange:* Currency change at the border to Peru (La Balsa) was no problem. We even got a fair rate. If you enter Peru, it might be helpful to keep some backup dollars for emergencies.
 
 
 ## Medicine and Hygiene
@@ -56,6 +58,7 @@ Bild Chimborazo
 - Green vegetation almost everywhere
 
 
+***
 
 # Peru
 
@@ -135,6 +138,8 @@ Bild Celendin
 Bild Camping llanganuco
 
 
+***
+
 
 # Bolivia
 
@@ -195,3 +200,57 @@ Spanish is in our opinion a must if you do not stick to La Paz or other metropol
 - Hot spring at Sajama volcano
 - Salar de Uyuni
 - Lagunas Route
+
+
+***
+
+# Patagonia (Chile and Argentina)
+
+## Food
+
+*Favorites:* 
+
+*Restaurants:* 
+
+*Cooking:* 
+
+*Water:* 
+
+
+## Bike
+
+*Shops/Tools:* 
+
+*Roads:* 
+
+
+## Nights
+
+*Wild Camping:* 
+
+*Accommodations:* 
+
+
+## Money (USD)
+
+*Withdrawal:* 
+
+*Exchange:* 
+
+
+## Medicine and Hygiene
+
+*Hospitals:* 
+
+
+## Weather
+
+
+
+
+## Communication
+
+
+
+
+## Personal Highlights

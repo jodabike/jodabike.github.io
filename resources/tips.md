@@ -20,6 +20,11 @@ license: false
 <script src="/assets/js/jquery-3.4.1.min.js"></script>
 <script src="/assets/js/tocSH.js"></script>
 
+
+# Tips and Hints
+
+While we were travelling, we were especially thankful for all the infos and tips that we got from fellow cyclist, backpackers or other people. So we decided to summarize our experience as well for future explorers. Due to the great geographical, climatic and cultural variance along the South America from the Equator to Patagonia, we decided to divide our tour tips into four sections corresponding to their respective countries or regions. Hope it helps!
+
 <div id="toc_container">
 <p class="toc_title">Table of Contents &nbsp; <button id="hide">Hide</button> <button id="show" hidden="true">Show</button></p>
 <ol class="toc_list" id="toc_contents">
@@ -119,7 +124,7 @@ Bild bikeshop
 
 ### Nights
 
-*Wild Camping:* Just as straightforward as in Ecuador, sometimes even easier (especially if you know Spanish). Many times we could stay at the central square of small villages (ask first if you are not invited by locals already..) or camp on a village's soccer field. Be prepared for cold nights if you decide to visit the high mountains. We use sleeping bags rated for -1*C but this is rather ambiguous (aka sometimes cold).
+*Wild Camping:* Just as straightforward as in Ecuador, sometimes even easier (especially if you know Spanish). Many times we could stay at the central square of small villages (ask first if you are not invited by locals already..) or camp on a village's soccer field. Be prepared for cold nights if you decide to visit the high mountains. We use sleeping bags rated for -1°C but this is rather ambiguous (aka sometimes cold).
 
 *Accommodations:* Are cheaper than in Ecuador, the usual price for a matrimonial room was about 20-30sol (~5-7eur). We really recommend to test promised hot showers before paying, sometimes hot water never materializes. Wifi is not as abundant as in Ecuador, however still available in many places. We did not have mobile Internet and had no problems. Again we highly recommend the application iOverlander for helpful and honest reviews of many places.
 
@@ -212,7 +217,7 @@ Bild Camping llanganuco
 
 ### Weather
 
-The usual rainy and dry (May to November) season game. Overall the weather during our stay seemed a little more stable and reliable as in Ecuador or Peru. We only had one Day of heavy rain here while we were in the jungle. But if you decide to travel the high Andes (up to 5000m) be prepared for heavy winds (80-100km/h), freezing nights (-20\*C) and very high UV radiation (Sunburn in 5min).
+The usual rainy and dry (May to November) season game. Overall the weather during our stay seemed a little more stable and reliable as in Ecuador or Peru. We only had one Day of heavy rain here while we were in the jungle. But if you decide to travel the high Andes (up to 5000m) be prepared for heavy winds (80-100km/h), freezing nights (-20°C) and very high UV radiation (Sunburn in 5min).
 
 
 ### Communication

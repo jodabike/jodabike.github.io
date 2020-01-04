@@ -39,7 +39,7 @@ While we were travelling, we were especially thankful for all the infos and tips
 
 *Favorites:* Cevichocho (Streetfood), Corncobs with homemade Mayo (Streetfood on route to Chimborazo), Croissants with manja blanca (sweet caramel like filling), Granadilla (Similar to maracuya but sweeter).
 
-Bild David Granadilla
+<p><img alt="Image" title="icon" src="/resources/media/granadilla.jpg" /></p>
 
 *Restaurants:* Menu for 2-3eur (completo) includes Starter (usually chicken soup), Secondo (meat with rice) and drink (for example sweet tea or corn drink with refills).
 
@@ -82,7 +82,8 @@ Due to its proximity to the equator (who would have guessed?!) Ecuador features 
 
 We highly recommend at least basic Spanish skills (Grammar does not matter). It is a real door-opener and makes things just a lot easier. Now and then you will find someone who speaks English.
 
-Bild Chimborazo
+<p><img alt="Image" title="icon" src="/resources/media/chimborazo.jpg" /></p>
+
 
 
 ### Personal Highlights

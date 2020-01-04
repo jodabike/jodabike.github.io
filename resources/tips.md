@@ -1,16 +1,3 @@
----
-layout: article
-title: Hints and Tips
-article_header:
-  type: cover
-  image:
-    src: /assets/images/cover.jpg
-cover: https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg
-show_edit_on_github: false
-show_subscribe: false
-license: false
----
-
 # Ecuador
 
 

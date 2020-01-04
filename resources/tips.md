@@ -14,7 +14,7 @@ license: false
 
 <link rel="stylesheet" type="text/css" href="/assets/css/links.css">
 <link rel="stylesheet" type="text/css" href="/assets/css/textdeco.css">
-<link rel="stylesheet" type="text/css" href="/assets/css/enumerate.css">
+<!-- <link rel="stylesheet" type="text/css" href="/assets/css/enumerate.css"> -->
 <link rel="stylesheet" type="text/css" href="/assets/css/toc.css">
 
 <script src="/assets/js/jquery-3.4.1.min.js"></script>

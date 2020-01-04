@@ -26,7 +26,7 @@ license: false
 </ol>
 </div>
 
-<h2><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Flag of Ecuador" width="50">   Ecuador</h2>
+<h2><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Flag of Ecuador" width="50">   &nbsp; Ecuador</h2>
 
 
 ### Food
@@ -85,16 +85,10 @@ Bild Chimborazo
 - Friendly and helpful Bomberos
 - Green vegetation almost everywhere
 
-\
+
 ***
 
-
-\
-\
-\
-\
-
-# Peru
+## Peru
 
 
 ### Food
@@ -175,7 +169,7 @@ Bild Camping llanganuco
 ***
 
 
-# Bolivia
+## Bolivia
 
 ### Food
 
@@ -258,33 +252,33 @@ Spanish is in our opinion a must if you do not stick to La Paz or other metropol
 *Roads:* 
 
 
-## Nights
+### Nights
 
 *Wild Camping:* 
 
 *Accommodations:* 
 
 
-## Money (USD)
+### Money (USD)
 
 *Withdrawal:* 
 
 *Exchange:* 
 
 
-## Medicine and Hygiene
+### Medicine and Hygiene
 
 *Hospitals:* 
 
 
-## Weather
+### Weather
 
 
 
 
-## Communication
+### Communication
 
 
 
 
-## Personal Highlights
+### Personal Highlights

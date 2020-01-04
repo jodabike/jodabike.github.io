@@ -12,7 +12,13 @@ show_title: false
 license: false
 ---
 
-<h2><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Flag of Ecuador" width="30"> Ecuador</h2>
+<div id="toc_container">
+<p class="toc_title">Table of Contents &nbsp; <button id="hide">Hide</button> <button id="show" hidden="true">Show</button></p>
+<ol class="toc_list" id="toc_contents">
+</ol>
+</div>
+
+<h2><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Flag of Ecuador" width="50">   Ecuador</h2>
 
 
 ### Food

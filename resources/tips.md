@@ -4,8 +4,7 @@ title: Hints and Tips
 article_header:
   type: cover
   image:
-    src: /assets/images/cover.jpg
-cover: https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg
+    src: media/tips.jpg
 show_edit_on_github: false
 show_subscribe: false
 show_title: false

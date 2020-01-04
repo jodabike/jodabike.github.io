@@ -23,3 +23,5 @@ The full list is here available as compact text file for saving or printing.
 {% include tableofcontents.html %}
 
 {% include gearlist.html %}
+
+***

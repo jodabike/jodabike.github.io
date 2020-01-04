@@ -88,7 +88,7 @@ Bild Chimborazo
 
 ***
 
-## Peru
+<h2><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_Peru_%28state%29.svg" alt="Flag of Peru" width="50">   &nbsp; Peru</h2>
 
 
 ### Food
@@ -169,7 +169,7 @@ Bild Camping llanganuco
 ***
 
 
-## Bolivia
+<h2><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_Bolivia_%28state%29.svg" alt="Flag of Bolivia" width="50">   &nbsp; Bolivia</h2>
 
 ### Food
 
@@ -232,7 +232,7 @@ Spanish is in our opinion a must if you do not stick to La Paz or other metropol
 
 ***
 
-## Patagonia (Chile and Argentina)
+<h2><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Argentina_and_Chile.png" alt="Flag of Patagonia" width="50">   &nbsp; Patagonia (Chile and Argentina)</h2>
 
 ### Food
 

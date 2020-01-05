@@ -12,6 +12,10 @@ $(document).ready(function(){
   });
 });
 
+$("#toc_contents").hide();
+$("#hide").hide();
+$("#show").show();
+
 
 $(document).ready(function() {                                                                          
     $(toc_contents).empty();                                                            

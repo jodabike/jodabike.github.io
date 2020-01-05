@@ -13,8 +13,6 @@ show_title: false
 license: false
 ---
 
-FAQ
-
 # Frequently Asked Questions (FAQ)
 
 ## Table of Contents
@@ -35,8 +33,8 @@ FAQ
 
 ## By Locals
 
-- Where are you from?
-We live in the South of Germany.
+&#9654; Where are you from?
+- We live in the South of Germany.
 
 - From where to where are you riding?
 We went form Quito (Ecuador) to Ushuaia (Argentina).

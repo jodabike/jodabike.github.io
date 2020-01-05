@@ -1,4 +1,4 @@
-$("#hide").hide();
+$("#show").hide();
 $(document).ready(function(){
   $("#hide").click(function(){
     $("#toc_contents").hide();

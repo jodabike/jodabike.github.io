@@ -134,7 +134,10 @@ We highly recommend at least basic Spanish skills (Grammar does not matter). It 
 
 *Water:* After some minor stomach problems and recommendations of other cyclists, we decided to filter from now on all water. Although we did this without exception, Jo had some stomach problems in Huaraz and David even had to go to the hospital in Abancay. This might have been water unrelated, but just filter the tap water. It will save you quite some trouble.
 
-Bild waterfilter
+<figure>
+  <img src="/resources/media/waterfilter.jpg" />
+  <figcaption>David filtering water.</figcaption>
+</figure>
 
 
 ### Bike

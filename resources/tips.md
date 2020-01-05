@@ -95,7 +95,10 @@ Due to its proximity to the equator (who would have guessed?!) Ecuador features 
 
 We highly recommend at least basic Spanish skills (Grammar does not matter). It is a real door-opener and makes things just a lot easier. Now and then you will find someone who speaks English.
 
-<p><img alt="Image" title="icon" src="/resources/media/chimborazo.jpg" /></p>
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/chimborazo.jpg" />
+  <figcaption>Jo approaching volcano Chimborazo.</figcaption>
+</figure>
 
 
 

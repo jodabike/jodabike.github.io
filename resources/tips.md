@@ -127,7 +127,10 @@ We highly recommend at least basic Spanish skills (Grammar does not matter). It 
 
 *Cooking:* Similar situation like in Ecuador. Fruits and vegetables are best purchased at the local markets, other basic supplies in tiendas and if you want something special or more European, you'll have to go to a more expensive supermarket found in major cities. We were able to purchase alcohol (0.5l cost ~1eur) for our stove at pharmacies.
 
-Bild Cooking
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/cookingPeru.jpg" />
+  <figcaption>David cooking dinner.</figcaption>
+</figure>
 
 *Water:* After some minor stomach problems and recommendations of other cyclists, we decided to filter from now on all water. Although we did this without exception, Jo had some stomach problems in Huaraz and David even had to go to the hospital in Abancay. This might have been water unrelated, but just filter the tap water. It will save you quite some trouble.
 

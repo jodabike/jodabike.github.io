@@ -33,19 +33,14 @@ license: false
 
 ## By Locals
 
-&#9654; &nbsp; Where are you from?
+&#9654; Where are you from?
 - We live in the South of Germany.
-&nbsp; 
 
 &#9654; Where are you from?
 - We live in the South of Germany.
 
-<br/><br/>
-
 &#9654; Where are you from?
 - We live in the South of Germany.
-\ 
-
 
 &#9654; From where to where are you riding?
 - We went form Quito (Ecuador) to Ushuaia (Argentina).

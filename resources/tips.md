@@ -120,10 +120,12 @@ We highly recommend at least basic Spanish skills (Grammar does not matter). It 
 
 *Restaurants:* Serve Menus for around 5sol (ca. 1eur) with starter soup, secondo and drink (called aguita). The Peruvians' favorite dish seems to be rice with chicken which is found literally everywhere.
 
+<!--
 <figure>
   <img alt="Image" title="icon" src="/resources/media/menuPeru.jpg" />
   <figcaption>Typical menu board in Peru.</figcaption>
 </figure>
+-->
 
 *Cooking:* Similar situation like in Ecuador. Fruits and vegetables are best purchased at the local markets, other basic supplies in tiendas and if you want something special or more European, you'll have to go to a more expensive supermarket found in major cities. We were able to purchase alcohol (0.5l cost ~1eur) for our stove at pharmacies.
 
@@ -135,16 +137,19 @@ We highly recommend at least basic Spanish skills (Grammar does not matter). It 
 *Water:* After some minor stomach problems and recommendations of other cyclists, we decided to filter from now on all water. Although we did this without exception, Jo had some stomach problems in Huaraz and David even had to go to the hospital in Abancay. This might have been water unrelated, but just filter the tap water. It will save you quite some trouble.
 
 <figure>
-  <img width="50%" src="/resources/media/waterfilter.jpg" />
+  <img width="100%" src="/resources/media/waterfilter.jpg" />
   <figcaption>David filtering water.</figcaption>
 </figure>
 
 
 ### Bike
 
-Bild bikeshop
-
 *Shops/Tools:* In general, bike shops are less abundant than in Ecuador. However, we were able to find pretty much all spare parts (or some workaround) that we needed. Bike shops are rarely found in smaller villages but sometimes one of the many llantarias (Tire repairmen) or car mechanics is just as good. We'd recommend to carry bicycle specific tools with you (chain tool, spare spokes, inner tube..).
+
+<figure>
+  <img width="100%" src="/resources/media/bikeshop.jpg" />
+  <figcaption>Bikeshop in Abancay, Peru.</figcaption>
+</figure>
 
 *Roads:* Peruvians know how to build roads! And this skill is very necessary because the part we cycled consisted pretty much only of steep mountainsides. All major roads and most of the back roads never exceed an incline of 5%. Whenever possible roads avoid unnecessary climbing/downhill and keep a constant slope. In addition most of the main highways are paved (too much traffic was only a problem on the coastal Panamericana) and even the surface of many backroads is quite smooth and bumpless. If you decide to do some hike-a-bike sections (e.g. the Salkantay trail) you will know why the Incas never used wheels, although they knew the principle.
 
@@ -180,7 +185,10 @@ Spanish is pretty much mandatory here. English speakers were definitely the exce
 
 *Hola Gringo:* As an European or North American you will quickly notice that folks out there call you "Gringo" or " Gringa". It's some friendly greeting like "Mister"... 
 
-Bild Celendin
+<figure>
+  <img width="100%" src="/resources/media/celendin.jpg" />
+  <figcaption>Andes close to Celendin, Peru.</figcaption>
+</figure>
 
 
 ### Personal Highlights
@@ -195,7 +203,10 @@ Bild Celendin
 - School of disabled kids in Cusco
 - Meeting Hannah and Marius close to Lago Titicaca
 
-Bild Camping llanganuco
+<figure>
+  <img width="100%" src="/resources/media/llanganuco.jpg" />
+  <figcaption>Camp at Llanganuco pass, Peru.</figcaption>
+</figure>
 
 
 ***

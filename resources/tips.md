@@ -22,7 +22,7 @@ license: false
 <script src="/assets/js/tocSH2hidden2.js"></script>
 
 
-# Tips and Hints 1
+# Tips and Hints
 
 While we were travelling, we were especially thankful for all the infos and tips that we got from fellow cyclist, backpackers or other people. So we decided to summarize our experience as well for future explorers. Due to the great geographical, climatic and cultural variance along the South America from the Equator to Patagonia, we decided to divide our tour tips into four sections corresponding to their respective countries or regions. Hope it helps!
 
@@ -304,6 +304,10 @@ Spanish is in our opinion a must if you do not stick to La Paz or other metropol
 
 *Roads:* 
 
+<figure>
+  <img width="100%" src="/resources/media/carreteraAustral.jpg" />
+  <figcaption>Jo on the Carretera Austral.</figcaption>
+</figure>
 
 #### Nights
 

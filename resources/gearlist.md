@@ -24,6 +24,10 @@ The full list is [here](https://jodabike.github.io/resources/downloads/gearList.
 
 <!-- {% include tableofcontents.html %} -->
 
+<link rel="stylesheet" type="text/css" href="/assets/css/links.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/textdeco.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/enumerate.css">
+
 
 
 ## Camping

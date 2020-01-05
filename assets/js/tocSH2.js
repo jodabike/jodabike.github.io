@@ -1,4 +1,8 @@
 $("#hide").hide();
+$("#toc_contents").hide();
+$("#show").show();
+
+
 $(document).ready(function(){
   $("#hide").click(function(){
     $("#toc_contents").hide();
@@ -12,9 +16,7 @@ $(document).ready(function(){
   });
 });
 
-$("#toc_contents").hide();
-$("#hide").hide();
-$("#show").show();
+
 
 
 $(document).ready(function() {                                                                          
@@ -24,7 +26,7 @@ $(document).ready(function() {
     var prevH2List = null;                                                            
     
     var index = 0;                                                                    
-    $("h2, h3").each(function() {                                                     
+    $("h2, h4").each(function() {                                                     
     
         //insert an anchor to jump to, from the TOC link.            
         var anchor = "<a name='" + index + "'></a>";                 

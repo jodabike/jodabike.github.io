@@ -36,9 +36,7 @@ While we were travelling, we were especially thankful for all the infos and tips
 
 <!--<h2><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Flag of Ecuador" width="50">   &nbsp; Ecuador</h2>-->
 
-## ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg) Ecuador
-
-## <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Flag of Ecuador" width="50"> Ecuador
+## <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Flag of Ecuador" width="50"> <span>&nbsp;</span> Ecuador
 
 ### Food
 

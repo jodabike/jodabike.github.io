@@ -41,6 +41,8 @@ The full list is [here](https://jodabike.github.io/resources/downloads/gearList.
     }
 </style>
 
+<!---
+
 <div id="content-mobile">
 <link rel="stylesheet" type="text/css" href="/assets/css/toc.css">
 
@@ -57,7 +59,7 @@ The full list is [here](https://jodabike.github.io/resources/downloads/gearList.
 </div>
 </div>
 
-<div id="content-mobile">
+<div id="content-desktop">
 <link rel="stylesheet" type="text/css" href="/assets/css/toc.css">
 
 
@@ -73,7 +75,30 @@ The full list is [here](https://jodabike.github.io/resources/downloads/gearList.
 </div>
 </div>
 
+-->
 
+
+<link rel="stylesheet" type="text/css" href="/assets/css/toc.css">
+
+
+
+
+<script src="/assets/js/jquery-3.4.1.min.js"></script>
+<script src="/assets/js/tocSH2hidden2.js"></script>
+
+<div id="toc_container">
+<p class="toc_title">Table of Contents &nbsp; <button id="hide">Hide</button> <button id="show" hidden="true">Show</button></p>
+<ol class="toc_list" id="toc_contents">
+</ol>
+</div>
+
+<div id="content-mobile">
+<script>
+$("#toc_contents").hide();
+$("#hide").hide();
+$("#show").show();
+</script>
+</div>
 
 ## Camping
 

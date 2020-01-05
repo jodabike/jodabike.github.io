@@ -48,7 +48,7 @@ The full list is [here](https://jodabike.github.io/resources/downloads/gearList.
 
 
 <script src="/assets/js/jquery-3.4.1.min.js"></script>
-<script src="/assets/js/tocSH2.js"></script>
+<script src="/assets/js/tocSHh4.js"></script>
 
 <div id="toc_container">
 <p class="toc_title">Table of Contents &nbsp; <button id="hide" hidden="false">Hide</button> <button id="show" hidden="true">Show</button></p>

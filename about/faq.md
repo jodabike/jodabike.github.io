@@ -36,7 +36,7 @@ license: false
 &#9654; &nbsp; Where are you from?
 - We live in the South of Germany.
 
-<br/><br/>
+<br/>
 
 &#9654; Where are you from?
 - We live in the South of Germany.
@@ -46,8 +46,10 @@ license: false
 &#9654; Where are you from?
 - We live in the South of Germany.
 
-- From where to where are you riding?
-We went form Quito (Ecuador) to Ushuaia (Argentina).
+
+
+&#9654; From where to where are you riding?
+- We went form Quito (Ecuador) to Ushuaia (Argentina).
 
 - What is your job?
 We just finished our studies and hence had time for the trip.

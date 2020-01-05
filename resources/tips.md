@@ -1,6 +1,8 @@
 ---
 layout: article
 title: Hints and Tips
+aside:
+  toc: true
 article_header:
   type: cover
   image:

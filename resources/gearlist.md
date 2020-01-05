@@ -41,7 +41,7 @@ The full list is [here](https://jodabike.github.io/resources/downloads/gearList.
     }
 </style>
 
-<div id=”content-mobile”>
+<div id="content-mobile">
 <link rel="stylesheet" type="text/css" href="/assets/css/toc.css">
 
 

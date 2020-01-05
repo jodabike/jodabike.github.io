@@ -33,7 +33,7 @@ license: false
 
 ## By Locals
 
-&#9654; Where are you from?
+&#9654; &nbsp; Where are you from?
 - We live in the South of Germany.
 
 &#9654; Where are you from?

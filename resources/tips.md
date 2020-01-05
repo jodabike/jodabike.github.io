@@ -19,7 +19,7 @@ license: false
 <link rel="stylesheet" type="text/css" href="/assets/css/toc.css">
 
 <script src="/assets/js/jquery-3.4.1.min.js"></script>
-<script src="/assets/js/tocSH.js"></script>
+<script src="/assets/js/tocSH2hidden2.js"></script>
 
 
 # Tips and Hints

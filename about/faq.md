@@ -34,7 +34,7 @@ license: false
 ## By Locals
 
 &#9654; Where are you from?
-&bsnp; &bull; We live in the South of Germany.
+&nbsp; &bull; We live in the South of Germany.
 
 - From where to where are you riding?
 We went form Quito (Ecuador) to Ushuaia (Argentina).

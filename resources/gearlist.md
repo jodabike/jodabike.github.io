@@ -51,7 +51,7 @@ The full list is [here](https://jodabike.github.io/resources/downloads/gearList.
 <script src="/assets/js/tocSHh4.js"></script>
 
 <div id="toc_container">
-<p class="toc_title">Table of Contents &nbsp; <button id="hide" hidden="false">Hide</button> <button id="show" hidden="true">Show</button></p>
+<p class="toc_title">Table of Contents &nbsp; <button id="hide">Hide</button> <button id="show" hidden="true">Show</button></p>
 <ol class="toc_list" id="toc_contents">
 </ol>
 </div>

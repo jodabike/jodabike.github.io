@@ -114,8 +114,8 @@ We highly recommend at least basic Spanish skills (Grammar does not matter). It 
 
 ***
 
-<h2><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_Peru_%28state%29.svg" alt="Flag of Peru" width="50">   &nbsp; Peru</h2>
 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_Peru_%28state%29.svg" width="50"> <span>&nbsp;</span> Peru
 
 ### Food
 
@@ -215,7 +215,7 @@ Spanish is pretty much mandatory here. English speakers were definitely the exce
 ***
 
 
-<h2><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_Bolivia_%28state%29.svg" alt="Flag of Bolivia" width="50">   &nbsp; Bolivia</h2>
+## <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_Bolivia_%28state%29.svg" width="50"> <span>&nbsp;</span> Bolivia
 
 ### Food
 
@@ -278,7 +278,9 @@ Spanish is in our opinion a must if you do not stick to La Paz or other metropol
 
 ***
 
-<h2><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Argentina_and_Chile.png" alt="Flag of Patagonia" width="60">   &nbsp; Patagonia (Chile and Argentina)</h2>
+
+## <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Argentina_and_Chile.png" width="60"> <span>&nbsp;</span> Patagonia (Chile and Argentina)<
+
 
 ### Food
 

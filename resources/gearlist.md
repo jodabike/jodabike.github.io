@@ -30,28 +30,28 @@ The full list is [here](https://jodabike.github.io/resources/downloads/gearList.
 
 
 ### Sleeping bags
-<p>
+
 <span class="ok">Mountain Equipment Glacier 700</span><br>
 Silk inlet<br>
 <span class="good">Selfmade biwakbag of Peruvian sheets</span><br>
-</p>
+
 <!--<hr size=".5" color="black" width="20" align="left">-->
-<p>
+
 <span class="good">Mountain Equipment Glacier 600</span><br>
 Silk inlet<br>
-</p>
+
 
 ### Sleeping mats
-<p>
+
 <span class="bad">Thermarest Prolite Plus Reg</span>
 <br>
-</p>
 
-<p>
+
+
 <span class="bad">[Exped SIM 3.8M]</span> (broke)<br>
 Doite Colchoneta CrosTec<br>
 [No name rollable camping mat] (given away)<br>
-</p>
+
 
 
 ### Tent
@@ -62,15 +62,15 @@ Jack Wolfskin tent footprint
 ## Clothes
 
 ### Outdoors
-<p>
+
 <span class="good">Halti Jacket</span><br>
 Northiceland fleece<br>
 <span class="ok">Gore Bike wear gloves</span><br>
 Inov rainpants (gifted at casa de cyclista)<br>
 [Norrona ultralight wind jacket]<br>
-</p>
 
-<p>
+
+
 Northface woman's jacket (lost)<br>
 Mountain Hardware jacket<br>
 Northface inner fleece (from Jo's original jacket)<br>
@@ -79,18 +79,18 @@ Light sports gloves (lost)<br>
 Neopren shoe covers<br>
 [Lowa fleece gloves]<br>
 [Nike ultralight wind jacket]<br>
-</p>
+
 
 ### Shirts and sweaters
-<p>
+
 <span class="good">Ortovox zipperjacket</span><br>
 Cotton T-shirt<br>
 Longsleeve cotton shirt<br>
 Merino T-shirt<br>
 [Longsleeve undershirt]<br>
-</p>
 
-<p>
+
+
 Nike longsleeve sports shirt<br>
 Merino longsleeve shirt<br>
 2x Merino tops<br>
@@ -99,78 +99,78 @@ Polyester jumper<br>
 Safety west (for busy roads)<br>
 
 ### Pants
-<p>
+
 <span class="good">Arcterix climbing pants</span><br>
 Jeans + belt<br>
 [Short sports pants]<br>
-</p>
 
-<p>
+
+
 Schöffel splittable hikingpants<br>
 Vaude bikingpants<br>
 Jack Wolfskin belt with hidden zipper<br>
 Leggings<br>
 [Short sports pants]<br>
-</p>
+
 
 ### Shoes
-<p>
-<span class="bad">QC Trailrunning shoes</span><br>
-</p>
 
-<p>
+<span class="bad">QC Trailrunning shoes</span><br>
+
+
+
 <span class="ok">Lowa low hiking shoes</span><br>
-</p>
+
 
 
 ### Helmets
-<p>
-<span class="good">Uvex helmet</span><br>
-</p>
 
-<p>
+<span class="good">Uvex helmet</span><br>
+
+
+
 Giro helmet<br>
-</p>
+
 
 
 ### Headstuff
-<p>
+
 2x bandana<br>
 Beanie<br>
-</p>
 
-<p>
+
+
 Thin headband<br>
 Bandana<br>
 Beanie<br>
 Scarf<br>
-</p>
+
 
 
 ### Underwear
-<p>
+
 Long underpants polyester<br>
 3x underpants<br>
 3x pairs of socks (one warm woolen pair)<br>
-</p>
 
-<p>
+
+
 Long underpants merino<br>
 <span class="good">Merino sportsbra</span><br>
 Polyester sportsbra<br>
 7x underpants<br>
 4x pairs of socks (one woolen)<br>
-</p>
+
 
 
 ### Swimming
-<p>
-[Short swimming pants]<br>
-</p>
 
-<p>
+[Short swimming pants]<br>
+
+
+
 Swimming pants (to bikini with sportsbra)</br>
-</p>
+
 
 
 ## Cooking
@@ -308,7 +308,7 @@ Insurance card (Jo)<br>
 ## Bikes
 
 ### Machines
-<p>
+
 <span class="uline">Cube Ltd 'Ready for Race' ca. 2004 (blue)</span><br>
 26" hardtail aluminum MTB frame<br>
 Suspension fork Manitou Minute (air)<br>
@@ -316,9 +316,9 @@ Suspension fork Manitou Minute (air)<br>
 <span class="ok">Shimano XT front/back shifter (old generation)</span><br>
 Ergonomic handlebar grips<br>
 <span class="bad">2x Shimano HB-M525 Hubs</span><br>
-</p>
 
-<p>
+
+
 <span class="uline">Cube Ltd 'Ready for Race' 2009 (black)</span><br>
 26" hardtail aluminum MTB frame<br>
 Suspension fork Rockshock Reba (air)<br>
@@ -331,7 +331,7 @@ Ergonomic handlebar grips<br>
 
 
 ### Addons
-<p>
+
 <span class="good">Bor Yueh aluminum back rack</span><br>
 2x regular bottle holder<br>
 <span class="good">SKS "topcage" Riptie underbar bottle holder</span><br>
@@ -340,9 +340,9 @@ Back mudguard<br>
 Liveproof phone holder (for 4S, SE fits with rubberband)<br>
 <span class="good">Several rubber strips to prevent damage of shift/break cables</span><br>
 <span class="ok">Standard (cheap) pedals</span><br>
-</p>
 
-<p>
+
+
 <span class="good">Steel Tubus back rack (fixed on rear axis since frame screw broke)</span><br>
 <span class="good">Improvised front rack (holds on V-brake screws)</span><br>
 2x regular bottle holder<br>
@@ -351,21 +351,21 @@ Front mudguard<br>
 <span class="good">Several rubber strips to prevent damage of shift/break cables<br>
 
 ### Bags
-<p>
+
 <span class="ok">2x Ortlieb Backroller (red, waterproof pannier bags on the back)</span><br>
 <span class="good">40l round drybag</span><br>
 <span class="ok">Top bag of black diamond backpack tied to handlebars</span><br>
 <span class="good">Elastics to tie everything together</span><br>
-</p>
 
-<p>
+
+
 <span class="ok">2x Ortlieb Backroller (orange, waterproof pannier bags on the back)</span><br>
 <span class="good">2x Ortlieb Frontroller (orange, smaller waterproof pannier bag on the front)</span><br>
 <span class="good">Ortlieb handlebar bag with magnetic lid</span><br>
 Small selfmade bag (of old rain pants) between panniers<br>
 <span class="good">Elastics to tie everything together</span><br>
 <span class="ok">Cheap metal pedals (8$ from Ecuador)</span><br>
-</p>
+
 
 ### Tires
 <span class="good">4x Schwalbe Marathon MTB 26"x2.25"</span><br>

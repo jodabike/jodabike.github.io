@@ -6,7 +6,7 @@ aside:
 article_header:
   type: cover
   image:
-    src: /assets/images/cover.jpg
+    src: /resources/media/gear.jpg
 cover: https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg
 show_edit_on_github: false
 show_subscribe: false
@@ -22,7 +22,7 @@ Further, we reviewed some of our equipment with the classic traffic light system
 
 The full list is [here](https://jodabike.github.io/resources/downloads/gearList.txt) available as compact text file for saving or printing. 
 
-{% include tableofcontents.html %}
+<!-- {% include tableofcontents.html %} -->
 
 
 

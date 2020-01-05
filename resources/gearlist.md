@@ -1,6 +1,8 @@
 ---
 layout: article
 title: Gear list
+aside:
+  toc: true
 article_header:
   type: cover
   image:

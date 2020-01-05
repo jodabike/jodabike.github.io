@@ -39,6 +39,16 @@ While we were travelling, we were especially thankful for all the infos and tips
 
 *Favorites:* Cevichocho (Streetfood), Corncobs with homemade Mayo (Streetfood on route to Chimborazo), Croissants with manja blanca (sweet caramel like filling), Granadilla (Similar to maracuya but sweeter).
 
+<style>
+figcaption {
+    font: italic smaller sans-serif;
+    text-align: center;
+    background: #222;
+    color: #fff;
+    padding: 3px 0;
+} 
+</style>
+
 <figure>
   <img alt="Image" title="icon" src="/resources/media/granadilla.jpg" />
   <figcaption>David enjoying a Granadilla.</figcaption>

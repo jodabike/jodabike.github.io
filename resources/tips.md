@@ -43,8 +43,8 @@ While we were travelling, we were especially thankful for all the infos and tips
 figcaption {
     font: italic smaller sans-serif;
     text-align: center;
-    background: #222;
-    color: #fff;
+    background: #f2f2f2;
+    color: #000000;
     padding: 3px 0;
 } 
 </style>

@@ -22,7 +22,7 @@ license: false
 <script src="/assets/js/tocSH2hidden2.js"></script>
 
 
-# Tips and Hints
+# Tips and Hints 1
 
 While we were travelling, we were especially thankful for all the infos and tips that we got from fellow cyclist, backpackers or other people. So we decided to summarize our experience as well for future explorers. Due to the great geographical, climatic and cultural variance along the South America from the Equator to Patagonia, we decided to divide our tour tips into four sections corresponding to their respective countries or regions. Hope it helps!
 

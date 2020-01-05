@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Hints and Tips
-sidebar:
-  nav: layouts
+aside:
+  toc: true
 article_header:
   type: cover
   image:

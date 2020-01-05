@@ -29,7 +29,7 @@ The full list is [here](https://jodabike.github.io/resources/downloads/gearList.
 ## Camping
 
 
-#### Sleeping bags
+### Sleeping bags
 
 <span class="ok">Mountain Equipment Glacier 700</span><br>
 Silk inlet<br>
@@ -41,7 +41,7 @@ Silk inlet<br>
 Silk inlet<br>
 
 
-#### Sleeping mats
+### Sleeping mats
 
 <span class="bad">Thermarest Prolite Plus Reg</span>
 <br>
@@ -54,14 +54,14 @@ Doite Colchoneta CrosTec<br>
 
 
 
-#### Tent
+### Tent
 <span class="good">Marmot Twilight 2p</span><br>
 Jack Wolfskin tent footprint
 
 
 ## Clothes
 
-#### Outdoors
+### Outdoors
 
 <span class="good">Halti Jacket</span><br>
 Northiceland fleece<br>
@@ -81,7 +81,7 @@ Neopren shoe covers<br>
 [Nike ultralight wind jacket]<br>
 
 
-#### Shirts and sweaters
+### Shirts and sweaters
 
 <span class="good">Ortovox zipperjacket</span><br>
 Cotton T-shirt<br>
@@ -98,7 +98,7 @@ Merino T-shirt<br>
 Polyester jumper<br>
 Safety west (for busy roads)<br>
 
-#### Pants
+### Pants
 
 <span class="good">Arcterix climbing pants</span><br>
 Jeans + belt<br>
@@ -113,7 +113,7 @@ Leggings<br>
 [Short sports pants]<br>
 
 
-#### Shoes
+### Shoes
 
 <span class="bad">QC Trailrunning shoes</span><br>
 
@@ -123,7 +123,7 @@ Leggings<br>
 
 
 
-#### Helmets
+### Helmets
 
 <span class="good">Uvex helmet</span><br>
 
@@ -133,7 +133,7 @@ Giro helmet<br>
 
 
 
-#### Headstuff
+### Headstuff
 
 2x bandana<br>
 Beanie<br>
@@ -147,7 +147,7 @@ Scarf<br>
 
 
 
-#### Underwear
+### Underwear
 
 Long underpants polyester<br>
 3x underpants<br>
@@ -163,7 +163,7 @@ Polyester sportsbra<br>
 
 
 
-#### Swimming
+### Swimming
 
 [Short swimming pants]<br>
 
@@ -175,12 +175,12 @@ Swimming pants (to bikini with sportsbra)</br>
 
 ## Cooking
 
-#### Water
+### Water
 <span class="good">Katadyn Hiker Pro waterfilter</span><br>
 Several 1.5l PET bottles for water<br>
 Steel drinking bottle 1l<br>
 
-#### Food
+### Food
 Bread<br>
 Pasta + sauce<br>
 Vegtables<br>
@@ -193,7 +193,7 @@ Oregano<br>
 Some other spices<br>
 
 
-#### Stove
+### Stove
 <span class="good">Trangia alcohol burner</span><br>
 <span class="good">Trangia Triangle </span><br>
 2x lighter<br>
@@ -209,7 +209,7 @@ PET bottle with alcohol<br>
 
 ## Hygene
 
-#### Body
+### Body
 Toilet paper<br>
 <span class="good">Unigear (pee standing)</span><br>
 **Shovel
@@ -222,7 +222,7 @@ Creme<br>
 2x PackTown ultralight towel (normal and tiny)<br>
 Deospray<br>
 
-#### Medicine
+### Medicine
 Ibuprofen (400mg and 600mg painkillers)<br>
 Menstruation cup<br>
 Iodine<br>
@@ -236,13 +236,13 @@ Silver emergency blanket<br>
 Syringe<br>
 
 
-#### Laundry
+### Laundry
 Laundry Detergent<br>
 Soap<br>
 
 ## Electronics
 
-#### Phones
+### Phones
 <span class="good">2x iPhone SE 128gb + 2x USB cable</span><br>
 2x Headphones<br>
 2x German SIM cards (our originals)<br>
@@ -250,7 +250,7 @@ Soap<br>
 Needle to open iPhone SIM<br>
 Old Nokia phone (dual SIM) + charger + SIM adapter<br>
 
-#### Camera
+### Camera
 <span class="good"> Panasonic Lumix DMC-G6 with 14-42 zoom lens</span><br>
 <span class="good">Double USB charger for camera batteries</span><br>
 3x battery<br>
@@ -259,23 +259,23 @@ Old Nokia phone (dual SIM) + charger + SIM adapter<br>
 Neopren Camera bag<br>
 Fixed 1:1.7/20 lens<br>
 
-#### Light
+### Light
 <span class="good">Petzl Arctic Core head torch (USB Li-ion battery)</span><br>
 Ledlenser small USB rechargeable head torch<br>
 USB backlight for bike (tiny)<br>
 MicroUSB calbe for head torches<br>
 
-#### Power
+### Power
 <span class="good">Anker double USB charger (22W, 2A per Port)</span><br>
 US to EUR plug adapter (two contact: type C to A)<br>
 <span class="good">Anker Power Core 20100mAh powerbank (2 USB ports)</span><br>
 <span class="ok">No name ultralight solar panel (semi-broken)</span><br>
 
-#### Emergency
+### Emergency
 <span class="bad">Spot GPS satellite tracker</span><br>
 Set of 4 AAA backup batteries<br>
 
-#### Other
+### Other
 <span class="good">2l dry bag for most electronics</span><br>
 2x 5l nylon (semi)dry bags for camera and rest<br>
 <span class="ok">*Cheap no name bluetooth soundbox</span><br>
@@ -283,13 +283,13 @@ Set of 4 AAA backup batteries<br>
 
 ## Documents
 
-#### Identification
+### Identification
 2x Passports<br>
 2x certificate of vaccination (yellow fever, rabies, typhus, tetanus, hepatitis, .. )<br>
 2x Personalausweis<br>
 2x Driving license<br>
 
-#### Money
+### Money
 3x wallet (2 for everyday use and one hidden)<br>
 <span class="good">2x DKB VISA credit cards (worldwide free)</span><br>
 MasterCard<br>
@@ -297,7 +297,7 @@ MasterCard<br>
 <span class="bad">Tan generator (broke)</span><br>
 <span class="bad">Tan2Go App (fixed with jailbreak)</span><br>
 
-#### Other
+### Other
 2x studentcards (possible discounts)<br>
 International studentcard (Jo)<br>
 Small notebook/diary<br>
@@ -307,7 +307,7 @@ Insurance card (Jo)<br>
 
 ## Bikes
 
-#### Machines
+### Machines
 
 <span class="uline">Cube Ltd 'Ready for Race' ca. 2004 (blue)</span><br>
 26" hardtail aluminum MTB frame<br>
@@ -330,7 +330,7 @@ Ergonomic handlebar grips<br>
 *Novatec hub (after Shimano front hub broke)<br>
 
 
-#### Addons
+### Addons
 
 <span class="good">Bor Yueh aluminum back rack</span><br>
 2x regular bottle holder<br>
@@ -350,7 +350,7 @@ Liveproof phone holder (for 4S, SE fits with rubberband)<br>
 Front mudguard<br>
 <span class="good">Several rubber strips to prevent damage of shift/break cables<br>
 
-#### Bags
+### Bags
 
 <span class="ok">2x Ortlieb Backroller (red, waterproof pannier bags on the back)</span><br>
 <span class="good">40l round drybag</span><br>
@@ -367,7 +367,7 @@ Small selfmade bag (of old rain pants) between panniers<br>
 <span class="ok">Cheap metal pedals (8$ from Ecuador)</span><br>
 
 
-#### Tires
+### Tires
 <span class="good">4x Schwalbe Marathon MTB 26"x2.25"</span><br>
 4x Schwalbe No 13 with French valve<br>
 
@@ -376,7 +376,7 @@ Small selfmade bag (of old rain pants) between panniers<br>
 
 ## Tools
 
-#### Biketools
+### Biketools
 <span class="good">Leatherman Wave</span><br>
 <span class="good">Topeak 25 in 1 toolset (allen keys, chain tool, ..)</span><br>
 2x Valve adapter (French to Auto for gas stations)<br>
@@ -391,7 +391,7 @@ Old toothbrush<br>
 
 
 
-#### Spare parts
+### Spare parts
 2x ductape <br>
 12x brakepads (Shimano disc brakes)<br>
 Zipties (small and big)<br>
@@ -416,7 +416,7 @@ French valve<br>
 Spare head torch (petzl with 3x AAA batteries)<br>
 Balls of broken hub<br>
 
-#### Various
+### Various
 Sewingkit<br>
 2x sharpie<br>
 Rubberbands<br>
@@ -428,12 +428,12 @@ Spare lighter<br>
 
 ## Guitar
 
-#### Instrument
+### Instrument
 <span class="good">70cm Steelstring Travelguitar (Kirkland)</span><br>
 <span class="good">80l drybag (waterproof)</span><br>
 Softcover<br>
 
-#### Extras
+### Extras
 Capodaster<br>
 Picks<br>
 Set of strings<br>
@@ -454,23 +454,23 @@ Piece of string to prevent pants touching the chain<br>
 
 ## Apps
 
-#### Navigation
+### Navigation
 <span class="good">MapOut (Everything)</span><br>
 Maps.me (Cities)<br>
 <span class="good">iOverlander (Tips)</span><br>
 
-#### Communication
+### Communication
 Wire (videocalls)<br>
 Threema (messages)<br>
 Signal (messages)<br>
 Mail<br>
 
-#### Pictures
+### Pictures
 Mega.nz for Cloud (picture upload)<br>
 Photos app (sort, crop, rotate, enhance)<br>
 Dropbox (to host pictures for blog)<br>
 
-#### Docs
+### Docs
 Documents (by Readdle)<br>
 Numbers<br>
 Wordpress (originally)<br>
@@ -479,12 +479,12 @@ Coda code editor<br>
 Terminal + git (if jailbroken)<br>
 Genius Scan<br>
 
-#### Spanish
+### Spanish
 Linguee (offline dictionary)<br>
 Babbel<br>
 [Duolingo]<br>
 
-#### Other
+### Other
 Podcasts<br> 
 Meteoblue (weather forecast)<br>
 Tuner T1 (guitar Tuner)<br>

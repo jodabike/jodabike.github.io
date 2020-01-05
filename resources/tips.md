@@ -120,7 +120,10 @@ We highly recommend at least basic Spanish skills (Grammar does not matter). It 
 
 *Restaurants:* Serve Menus for around 5sol (ca. 1eur) with starter soup, secondo and drink (called aguita). The Peruvians' favorite dish seems to be rice with chicken which is found literally everywhere.
 
-bild Menu Tafel oder Ocas
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/menuPeru.jpg" />
+  <figcaption>Typical menu board in Peru.</figcaption>
+</figure>
 
 *Cooking:* Similar situation like in Ecuador. Fruits and vegetables are best purchased at the local markets, other basic supplies in tiendas and if you want something special or more European, you'll have to go to a more expensive supermarket found in major cities. We were able to purchase alcohol (0.5l cost ~1eur) for our stove at pharmacies.
 

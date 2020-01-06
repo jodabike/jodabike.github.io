@@ -57,21 +57,21 @@ In the course of our journey we were asked many questions and asked ourself many
 - We just finished our studies and hence had time for the trip.
 
 &#9654; Why do you carry sticks?
-- Our (mostly) bamboo stick are multipurpose tools: We use them as bike stands, car spacer, dog repeller, hiking poles and for visibility and fun.
+- Our (mostly) bamboo sticks are multipurpose tools: We use them as bike stands, car spacer, dog repeller, hiking poles and for visibility and fun.
 
 &#9654; How many kilometers/hours do you ride per day?
 - These numbers depend a lot on slope and road quality: In average we rode around 50km a day in 6-12h.
 
 &#9654; Do your legs/butts hurt?
-- Our legs got quickly used to cycling everyday, however hiking detours sometimes lead to sore muscles. We had well suiting saddles that were adjusted properly which is really important. Although this minimizes any butt pain, e.g. washboard roads could still be quite painful.
+- Our legs got quickly used to cycling everyday, however hiking detours sometimes lead to sore muscles. We had well suiting saddles that were adjusted properly which is really important. Although this minimizes any butt pain, washboard roads could still be quite painful.
 
 &#9654; Where do you sleep?
 - Most of the times we just wild camped in our tent. Sometimes in bigger towns we stayed at hostels, also to shower once in a while :D.
 
 &#9654; Don't you have fear?
-- In the beginning, we were a bit worried about getting robbed or so. But soon, we noticed how incredibly friendly people are and chances, that something bad happens, seemed really low.
+- In the beginning, we were a bit worried about getting robbed or so. But soon, we noticed how incredibly friendly people are and chances that something bad happens seemed really low.
 
-&#9654; What was the most beautiful part of your journey?/What was your favorite part?
+&#9654; What was the most beautiful part of your journey? / What was your favorite part?
 - This is incredible hard to answer. We had so many great experiences with amazing people and stunning landscapes. For example, David was really impressed by the Fitz Roy range in Patagonia, but peoplewise this part is very touristic and maybe not that interesting. On the other hand, the Bolivian Altiplano is landscapewise not that exciting, however its people were just unbelievably warm-hearted.
 
 &#9654; Did you have some bad/negative experience?
@@ -82,7 +82,7 @@ In the course of our journey we were asked many questions and asked ourself many
 
 
 <figure>
-  <img alt="Image" title="icon" src="/resources/media/fitzroy.jpg" />
+  <img alt="Image" title="Fitz Roy" src="/resources/media/fitzroy.jpg" />
   <figcaption>Fitz Roy (middle) and Cerro Torre (left).</figcaption>
 </figure>
 

@@ -6,7 +6,7 @@ aside:
 article_header:
   type: cover
   image:
-    src: /resources/media/tips.jpg
+    src: /resources/media/faq.jpg
 show_edit_on_github: false
 show_subscribe: false
 show_title: false
@@ -25,6 +25,9 @@ figcaption {
 
 # Frequently Asked Questions (FAQ)
 
+In the course of our journey we were asked many questions and asked ourself many. Here are some answers. If your question or answer is not among them: feel free to contact us or comment!
+
+<!---
 ## Table of Contents
 
 1. By Locals
@@ -40,6 +43,7 @@ figcaption {
 4. By Us
     Why
 5. Radom
+-->
 
 ## By Locals
 
@@ -86,6 +90,8 @@ figcaption {
 </figure>
 
 
+***
+ 
 ## By other Bikers or Tourists
 
 
@@ -131,9 +137,12 @@ figcaption {
 
 ***
 
+## By Friends and Family
 
+***
 
+## By Ourselves
 How much rain is possible in a day?
 
-
+***
 

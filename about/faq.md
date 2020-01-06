@@ -25,7 +25,7 @@ figcaption {
 
 # Frequently Asked Questions (FAQ)
 
-In the course of our journey we were asked many questions and asked ourself many. Here are some answers. If your question or answer is not among them: feel free to contact us or comment!
+In the course of our journey we were asked many questions and asked ourself many. Here are some answers. If your question or answer is not among them: Feel free to contact us or comment!
 
 <!---
 ## Table of Contents
@@ -45,7 +45,7 @@ In the course of our journey we were asked many questions and asked ourself many
 5. Radom
 -->
 
-## By Locals
+## By Everyone
 
 &#9654; Where are you from?
 - We live in the South of Germany.
@@ -61,9 +61,6 @@ In the course of our journey we were asked many questions and asked ourself many
 
 &#9654; How many kilometers/hours do you ride per day?
 - These numbers depend a lot on slope and road quality: In average we rode around 50km a day in 6-12h.
-
-&#9654; Do you have instagram/whatsapp/facebook?
-- No, only this blog due to privacy concerns related with facebook products.
 
 &#9654; Do your legs/butts hurt?
 - Our legs got quickly used to cycling everyday, however hiking detours sometimes lead to sore muscles. We had well suiting saddles that were adjusted properly which is really important. Although this minimizes any butt pain, e.g. washboard roads could still be quite painful.
@@ -94,13 +91,15 @@ In the course of our journey we were asked many questions and asked ourself many
  
 ## By other Bikers or Tourists
 
+&#9654; Do you have instagram/whatsapp/facebook?
+- No, only this blog due to privacy concerns related with facebook products.
+
+&#9654; What bikes are you riding?
+
+-How much money did you spend?
 
 &#9654; How do you pay for your travel?
 - We worked while studying and tried to spend as less as possible: Instead of buying high-end bicycles, we decided to ride used and robust mountain bikes.
-
--What bikes are you riding?
-
--How much money did you spend?
 
 -How much did your bikes cost?
 

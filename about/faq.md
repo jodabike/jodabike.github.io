@@ -13,6 +13,16 @@ show_title: false
 license: false
 ---
 
+<style>
+figcaption {
+    font: italic smaller sans-serif;
+    text-align: center;
+    background: #ffffff;
+    color: #000000;
+    padding: 6px 0;
+} 
+</style>
+
 # Frequently Asked Questions (FAQ)
 
 ## Table of Contents
@@ -68,6 +78,12 @@ license: false
 
 &#9654; How did you learn Spanish?
 - We had some tiny pre-knowledge and knew French already. The rest came just by having conversations. However, in spite of being able to talk fluently, our grammar really sucks (but no one cares..).
+
+
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/fitzroy.jpg" />
+  <figcaption>Fitz Roy (middle) and Cerro Torre (left).</figcaption>
+</figure>
 
 
 ## By other Bikers or Tourists

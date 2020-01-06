@@ -69,7 +69,12 @@ license: false
 &#9654; How did you learn Spanish?
 - We had some tiny pre-knowledge and knew French already. The rest came just by having conversations. However, in spite of being able to talk fluently, our grammar really sucks (but no one cares..).
 
--How do you pay for your travel?
+
+## By other Bikers or Tourists
+
+
+&#9654; How do you pay for your travel?
+- We worked while studying and tried to spend as less as possible: Instead of buying high-end bicycles, we decided to ride used and robust mountain bikes.
 
 -What bikes are you riding?
 

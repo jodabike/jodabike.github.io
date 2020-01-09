@@ -23,27 +23,10 @@ figcaption {
 } 
 </style>
 
-# Frequently&#8293;Asked&#8293;Questions
+# Frequently Asked Questions
 
 In the course of our journey we were asked many questions and asked ourself many. Here are some answers. If your question or answer is not among them: Feel free to contact us or comment!
 
-<!---
-## Table of Contents
-
-1. By Locals
-    We
-    Bikes
-    Money
-2. By Other Bikers/Tourists
-    Contact
-    Motivation
-3. By family and friends
-    Security
-    Money
-4. By Us
-    Why
-5. Radom
--->
 
 ## About us
 
@@ -77,7 +60,7 @@ In the course of our journey we were asked many questions and asked ourself many
 - We crossed the Alps several times and did some other smaller tours in Europe.
 
 &#9654; When did you take your last shower?
-- Probably, around a week ago :D.
+- Probably, around a week ago.
 
 
 ## On the route
@@ -94,7 +77,7 @@ In the course of our journey we were asked many questions and asked ourself many
 - These numbers depend a lot on slope and road quality: In average we rode around 50km a day in 6-12h.
 
 &#9654; Where do you sleep?
-- Most of the times we just wild camped in our tent. Sometimes in bigger towns we stayed at hostels, also to shower once in a while :D.
+- Most of the times we just wild camped in our tent. Sometimes in bigger towns we stayed at hostels, also to shower once in a while.
 
 &#9654; How long/far have you been on the road?
 - Alltogether, we rode around 10.000 km in pretty much exactly 7 months.

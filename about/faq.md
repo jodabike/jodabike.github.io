@@ -23,7 +23,7 @@ figcaption {
 } 
 </style>
 
-# Frequently Asked Questions (FAQ)
+# Frequently&#8293;Asked&#8293;Questions
 
 In the course of our journey we were asked many questions and asked ourself many. Here are some answers. If your question or answer is not among them: Feel free to contact us or comment!
 

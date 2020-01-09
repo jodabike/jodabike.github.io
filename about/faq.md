@@ -106,7 +106,7 @@ In the course of our journey we were asked many questions and asked ourself many
 - The unfriendliest encounter on our whole journey was literally on its very last day when we returned by plane: While napping at Barcelona airport a cleaning man got really mad at us for no reason and yelled at us that he had just called airport security (which never came) to get rid of us. That was just weird.
 
 &#9654; How did you bring your bikes to South America?
-- We took them with us on the plane. It cost around 100 &euro; for each bike, each way.
+- We took them with us on the plane. It cost around 100&#8293;&euro; for each bike, each way.
 
 &#9654; How did you get to South America?
 - Although, it is not the best option for the environment, we chose to fly. One of the main reasons for this decision were that it just saves a lot of time. However, on the next trip we'd like to avoid taking planes.
@@ -159,12 +159,12 @@ In the course of our journey we were asked many questions and asked ourself many
 </figure>
 
 &#9654; How much money did you spend?
-- All in all, around 3000 &euro; per person (including flights). More details are found on our [Expenses](/resources/expenses.html) page.
+- All in all, around 3000&#8239;&euro; per person (including flights). More details are found on our [Expenses](/resources/expenses.html) page.
 
 &#9654; How do you pay for your travel?
 - We worked while studying and tried to spend as less as possible: Instead of buying high-end bicycles, we decided to ride used and robust mountain bikes.
 
 &#9654; How much did your bikes cost?
-- The black cube (Jo's bike) is actually David's mountainbike and was bought almost 10 years ago for around 700-800 &euro;. We bought the blue cube bike (David's bike) for more or less 200 &euro; used.
+- The black cube (Jo's bike) is actually David's mountainbike and was bought almost 10 years ago for around 700-800&#8239;&euro;. We bought the blue cube bike (David's bike) for more or less 200&#8239;&euro; used.
 
 ***

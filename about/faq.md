@@ -167,10 +167,4 @@ In the course of our journey we were asked many questions and asked ourself many
 &#9654; How much did your bikes cost?
 - The black cube (Jo's bike) is actually David's mountainbike and was bought almost 10 years ago for around 700-800 &euro;. We bought the blue cube bike (David's bike) for more or less 200 &euro; used.
 
-
-
-
-
-
-
-
+***

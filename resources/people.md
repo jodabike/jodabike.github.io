@@ -21,7 +21,7 @@ Here are the links to some of the many wonderful people that made our journey br
 
 ## Cyclists that inspired us and our route
 
-#### fatcycling.wordpress.com
+(fatcycling.wordpress.com)
 Dan and Gina cycled from Mexico to Ushuaia in 2014-15. We took a lot of ideas and good infos from their gpx-tracks and blog.
 
 #### nicholasgault.com

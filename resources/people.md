@@ -28,7 +28,7 @@ Dan and Gina cycled from Mexico to Ushuaia in 2014-15. We took a lot of ideas an
 Nicholas Gault cycled from Alaska to Ushuaia in 2015 and we also followed his bike prints a lot.
 
 ##### [spinningsouth.com](http://www.spinningsouth.com)
-Names are cycling from Alaska to Ushuaia as well at the moment. Their are some hundreds of kilometers ahead of us and we often get good up-to-date infos for our upcoming destinations.
+Frank and Jacinita were cycling from Alaska to Ushuaia. They were some hundreds of kilometers ahead of us and we often got good up-to-date infos for our upcoming destinations.
 
 
 ## Cyclists and other travelers we met on our way

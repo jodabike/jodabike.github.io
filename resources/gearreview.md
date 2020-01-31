@@ -84,4 +84,12 @@ Finally, we carried as well a Spot GPS satellite tracker, mostly for our parents
 
 In order to protect most of our electronic devices from water, we used a small 2l dry bag which we found quite useful. Another thing to mention is that we eventually bought a cheap bluetooth soundbox to listen to podcasts and music while riding rather monotonous streches. An even better solution might be to pair two small boxes via bluetooth if you are travelling together, then you do not need to ride in parallel while listening. But we did not try that out yet..
 
+## Documents and Cards
+
+Money is always a delicate topic. No one wants to carry tons of cash around. Luckily nowadays, this can be easily avoided by using international credit cards. We each had afree DKB VISA credit card which allows for free withdrawl worldwide. You just have to be careful that local ATM do not charge you a fee. In all countries but Argentina, we also managed to find such ATMs (see <a href="resources/tips.html">Tips</a>). So we can indeed highly recommend this.
+
+One downside is that with the introduction of stricter banking laws for EU, one needs a TAN code to access the respective online banking portal. This codes can either be generated via an online smartphone app or by the use of a TAN generator in combination with a bank card. The major disavantage of the first method is that if someone obtains physical or even just virtual access to your phone, he might be able to steal your account. Furthermore, you are required to always have quite new smartphones as on older devices the app's current version is usually not supported. Hence, we decided to carry a TAN generator although this meant to have even one device more. In our case, we were unlucky as the generator broke and we were unable to access our accounts. So after all, non of the possible solutions seemed perfect. But we will probably stick to a TAN generator on our next trip.
+
+## Bikes
+
 

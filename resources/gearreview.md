@@ -16,9 +16,9 @@ license: false
 
 # Gear Review
 
-## Sleeping bags and mats
+## Camping
 
-We came across quite a variety of different climates and hence had to find some tradeoff between too warm and heavy or too light and cold sleeping bags. Finally, we decided to use the down sleeping bags which we already owned (also for money reasons). Those were rated to reach as low as -1 &deg; C (comfort). In general, we were very happy with this solution since down sleeping bags are quite light and compact.
+We came across quite a variety of different climates and hence had to find some tradeoff between too warm and heavy or too light and cold sleeping bags. Finally, we decided to use the down sleeping bags which we already owned (also for money reasons). Those were rated to reach as low as -1&deg;C (comfort). In general, we were very happy with this solution since down sleeping bags are quite light and compact.
 
 However, David's sleeping bag was quite heavily used already and had lost some filling. As a result, he experienced a few cold nights when we camped very high. This led us to buy some sheets of colorful Peruvian fabric (see Fig. below) which we wrapped around the sleeping bag for the coldest nights.
 
@@ -27,9 +27,6 @@ Pic. PeruStoff
 After all, this solution worked quite well and we got to keep some more of this amazing Peruvian fabric! Depending on the climate, on the next journey we might invest a little bit more into our sleeping bags...
 
 Concerning sleeping mats, we did not yet find the optimal solution. David owns a Thermarest Prolite Plus Rest which is overall ok but nowthing great. We always had some problems with holes (although we used the mat inside the tent only). And on top of that: did anyone ever explain Thermarest how a valve functions? No, seriously.. all Thermarest mats we know, do not have an actual valve that holds air in if you release the pressure while filling the mat. This is indeed very annoying, especially if you use this product literally everyday at high altitudes. Jo originally carried an Exped SIM 3.8M which was fine in the beginning. It came with a real valve and hence was easy to inflate. However, one day without prior warning, this matress just lost its innerstructure. This means from a flat rectancular shape it evolved quickly to a ballon. We think that somehow the matress was glued in its interior to hold its shape and that this glue just gave up. Eventually, we bought a new one (Doite Colchoneta CrosTec) in Chile which did fine on the last month. But this one also came without a proper valve. 
-
-
-## Tent
 
 We used an old two-person Marmot tent named Twilight 2p. This piece of hardware served us extremely well! The tent was bought approximately
 15 years ago and has been used heavily: It has been on all continents but Antarctica and Australia and was set up now more than a thousand times in literally any climate. It endured snowstorms, thunderstorms, Patagonian down-under rain, freezing temperatures, high UV-radiation and attacking cows. Definitely highly recommended!

@@ -281,12 +281,13 @@ PET bottle with alcohol<br>
 <span class="bad">[Trangia 1l fuel bottle] (leaking!)</span><br>
 [Fork]<br>
 
-## Hygene
+## Hygiene
 
 #### Body
 Toilet paper<br>
 <span class="good">Unigear (pee standing)</span><br>
-**Shovel
+Menstruation cup<br>
+**Shovel<br>
 2x toothbrush<br>
 Toothpaste<br>
 Shampoo + conditioner<br>
@@ -298,7 +299,6 @@ Deospray<br>
 
 #### Medicine
 Ibuprofen (400mg and 600mg painkillers)<br>
-Menstruation cup<br>
 Iodine<br>
 <span class="good">Mosquito spray (30% DEET)</span><br>
 Antibiotics (several kinds)<br>

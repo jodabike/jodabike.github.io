@@ -16,7 +16,7 @@ license: false
 
 # Gear Review
 
-## Sleeping bags
+## Sleeping bags and mats
 
 We came across quite a variety of different climates and hence had to find some tradeoff between too warm and heavy or too light and cold sleeping bags. Finally, we decided to use the down sleeping bags which we already owned (also for money reasons). Those were rated to reach as low as -1 &deg; C (comfort). In general, we were very happy with this solution since down sleeping bags are quite light and compact.
 
@@ -25,6 +25,8 @@ However, David's sleeping bag was quite heavily used already and had lost some f
 Pic. PeruStoff
 
 After all, this solution worked quite well and we got to keep some more of this amazing Peruvian fabric! Depending on the climate, on the next journey we might invest a little bit more into our sleeping bags...
+
+Concerning sleeping mats, we did not yet find the optimal solution. David owns a Thermarest Prolite Plus Rest which is overall ok but nowthing great. We always had some problems with holes (although we used the mat inside the tent only). And on top of that: did anyone ever explain Thermarest how a valve functions? No, seriously.. all Thermarest mats we know, do not have an actual valve that holds air in if you release the pressure while filling the mat. This is indeed very annoying, especially if you use this product literally everyday at high altitudes. Jo originally carried an Exped SIM 3.8M which was fine in the beginning. It came with a real valve and hence was easy to inflate. However, one day without prior warning, this matress just lost its innerstructure. This means from a flat rectancular shape it evolved quickly to a ballon. We think that somehow the matress was glued in its interior to hold its shape and that this glue just gave up. Eventually, we bought a new one (Doite Colchoneta CrosTec) in Chile which did fine on the last month. But this one also came without a proper valve. 
 
 
 ## Tent
@@ -48,7 +50,7 @@ Finally, Jo was very satisfied with her merino sports bra since it dried quite f
 
 ## Cooking
 
-To supply ourselves with fresh and clean water everyday, we relied on a water filter. Especially in Peru and Bolivia water sources may be infected with parasites such as Giadira or bacteria. Most of the other cyclist we met also relied on a filter. However, it seemed that our filter had the advantage that it actually included a pump system rather than just on gravity to push the water through. In particular, we used the Katadyn Hiker Pro which allowed us to filter all our water bottles in around 5 minutes.
+To supply ourselves with fresh and clean water everyday, we relied on a water filter. Especially in Peru and Bolivia water sources may be infected with parasites such as Giadira or bacteria. Most of the other cyclist we met also relied on a filter. However, it seemed that our filter had the advantage that it actually included a pump system rather than just using gravity to push the water through. In particular, we used the Katadyn Hiker Pro which allowed us to filter all our water bottles in around 5 minutes.
 
 For cooking, we opted for a Trangia alcohol burner in combination with a Trangia Triangle as stand and wind shelter. Especially for this topic we conducted a lot of research in advance. Before this tour we always used a Primus gas stove which relied on screwable cartridges. As we were told in advance that these cartridges are quite hard to find in South America, we narrowed our choices down to gasoline or alcohol as possible fuels.
 
@@ -62,7 +64,7 @@ Originally, we used an original Trangia 1l fuel bottle to carry our alcohol. How
 
 
 
-## Hygene
+## Hygiene
 
 --> Jo
 

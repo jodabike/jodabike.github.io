@@ -406,7 +406,7 @@ Ergonomic handlebar grips<br>
 
 #### Addons
 
-<span class="good">Bor Yueh aluminum back rack</span><br>
+<span class="ok">Bor Yueh aluminum back rack</span><br>
 2x regular bottle holder<br>
 <span class="good">SKS "topcage" Riptie underbar bottle holder</span><br>
 Light and short 4-digit number lock<br>

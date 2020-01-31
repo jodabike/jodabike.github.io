@@ -39,7 +39,7 @@ Pic Tent
 
 ## Clothes
 
-For cold times and rainy days David bought a used Halti ski jacket which served him well. However as usual the weak spot was the zipper which made some problems during the last month.
+For cold times and rainy days David bought a used Halti ski jacket which served him well. However as usual the weak spot was the zipper which made some problems during the last month. Furthermore, we used just standard gloves. But we think it might be quite useful to have at least one pair of gloves which is capable of operating a touch screen. This may really help if you are navigating with a smartphone in cold weather!
 
 As an everyday sweater, David used an Ortovox zipper jacket with merino lining which was very comfortable to wear. However, UV-Radiation attacked the material heavily leading to some cuts. Furthermore, David wore pretty much everyday Arcterix climbing pants. These also served him extremely well. Although, they were not waterproof, they were good for rainy days as well since they dry very fast.
 

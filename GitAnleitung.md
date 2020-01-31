@@ -13,7 +13,11 @@ git add --all
 # V. COMMIT your changes, where you should name your changes within the quotes
 git commit -m "e.g. newfile X"
 
-# VI. PUSH your changes to the server (you will be asked for name & password)
+# VI.a PUSH your changes to the server (you will be asked for name & password)
+git push
+
+# VI.b In case someone else is working on the same project simoultaneously
+git pull
 git push
 
 # VII. Combine steps IV.-VI. in one command (you will be asked for name & password)

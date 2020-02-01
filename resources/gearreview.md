@@ -93,6 +93,18 @@ One downside is that with the introduction of stricter banking laws for EU, one 
 
 ## Bikes
 
+Evidently, the bikes were the most important tool for our trip. But in general, one does not have to spend thousands for some high-end travel bike. In opposite, we think the most important feature is robustness. Moreover, often older bikes with standard parts seem to be quite reliable and even if something breaks, spare parts are easily found all over the world. Probably the first question one has to consider when choosing a bike is: What kind of roads/terrain do I want to ride?
+
+The answer for us was that we wanted to get as close as possible to nature and escape traffic. Consequently, we were looking for mountain bikes with wide tires instead of skinny trekking bikes. Furthermore, we opted for suspension forks: Altough they might be less robust, their increased comfort for hands, wrists and body outnumered. On top of that, even if a suspension fork breaks, one then usually ends up with a fixed fork. So pretty much nothing to loose here.
+
+The next big decision is the frame: Well, first of all we think it is non-sense to travel long distances with a fully (e.g. constant swinging, even with lock out, less robustness, weight, no rack, ..). So hardtail it is. But what material? After ruling out carbon fibre immediately due to its possiblity to crack, one is left with steel, aluminum or titanium. We think that steel is probably the best choice in terms of endurance and repairability with the downside that it weights a lot more than its competitiors. Titanium is probably just on the sweet spot between steel and aluminum but it is (at least for us) unaffordable. Finally, we indeed opted for aluminum since David's black Cube Mountain Bike (which Jo rode) endured already quite a lot while being very light. After all, everything worked out well although David's frame cracked (or probably was cracked from the beginning on.. we don't know). We could easily strenghen it with the help of two tiatan clamps. So probably, we will also stick to aluminum in the future.
+
+Pic Davids Frame.
+
+
+
+
+
 ## Apps
 
 On smaller trips (Crossing the Alps, travelling within Europe, ..), we always relied on printed out paper maps. On this tour however, it seemed impossible to print out maps in advance as we did not plan more than a few days/weeks ahead. Moreover, the sole amount of paper would have been quite a lot to carry. Hence, we decided to use a digital maps in the form of a smartphone application with offline maps. In gerneral, when it comes to digital maps, there are two big players: Google Maps and OpenStreetMap. Typically, Google offers its own app whereas pretty much all other navigation apps rely (at least partially) on OpenStreetMap. Since we wanted to be independent of internet giants like Google we ruled their apps out and focused on the other apps. Although, the maps within these particular apps may be rendered differently and hence not look alike, their data source is the same. This means, that for instance if a certain road or feature is not mapped in OpenStreetMap, it will not be shown in any of these apps.
@@ -104,7 +116,6 @@ While Maps.me is great for city navigation due to its feature rich points of int
 &nbsp; |MapOut | Maps.me |
 |---   |---    |---      |
 Price     |$4.99  |free     |
-&nbsp; |--:    |--:      |
 Features  |&bull; Offline vector maps |&bull; Offline vector maps  |
 &nbsp; |&bull; Track recording and diplay |&bull; Track recording and display  |
 &nbsp; |&bull; Snap to road/trail drawing |&bull; Turn-navigation for cars/bike/pedestrian  |

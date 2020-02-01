@@ -103,9 +103,9 @@ While Maps.me is great for city navigation due to its feature rich points of int
 
  |MapOut | Maps.me |
  |---|---|
-Price |   | &bull; this is real|
- |---|---|
- Features |$4.99:| free:|
+Price |4.99$|free|
+ |--:|--:|
+ Features | | |
  |---|---|
  Features |&bull; this is real   | &bull; this is real|
 

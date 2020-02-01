@@ -423,6 +423,7 @@ Liveproof phone holder (for 4S, SE fits with rubberband)<br>
 <span class="good">SKS "topcage" Riptie underbar bottle holder</span><br>
 Front mudguard<br>
 <span class="good">Several rubber strips to prevent damage of shift/break cables<br>
+<span class="ok">Cheap metal pedals (8$ from Ecuador)</span><br>
 
 #### Bags
 
@@ -438,7 +439,6 @@ Front mudguard<br>
 <span class="good">Ortlieb handlebar bag with magnetic lid</span><br>
 Small selfmade bag (of old rain pants) between panniers<br>
 <span class="good">Elastics to tie everything together</span><br>
-<span class="ok">Cheap metal pedals (8$ from Ecuador)</span><br>
 
 
 #### Tires

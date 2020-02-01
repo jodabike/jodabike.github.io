@@ -102,8 +102,26 @@ The next big decision is the frame: Well, first of all we think it is non-sense 
 Pic Davids Frame.
 
 
+Finally, we ended up using David's mountain bike and bought another similar one used. In particular, we ended up with David's Cube Ltd 'Ready for Race' (2009) which Jo rodeand the same model from 2004 in blue. But we updated the brake system on both bikes with Shimano Deore hydraulik dicbrakes (front 180mm/back 160mm). The rest was basically just how it originally came out of the box. For the blue bike were cannot tell exact milage since we do not know its history but it seemed quite unused. The black bike had already around 40.000km but was still going strong (5th chain and 3rd set of pinions, 2nd pair of wheels, ...).
+
+In the course of our trip it turned out that the standard Shimano HB-M525 (all four hubs were the same) were not suitable for the combination of heavy load and water (river crossings). First David's rear hub blocked in Huaraz, but luckily we found spare parts at a bikeshop. Then the bearing cone of Jo's fronthub broke in Abancay leading to its complete replacement with a Novatec hub. Next, the freewheel of Jo's rearhub did not catch anymore and we had to replace it. Finally, just a few kilometers from Ushuaia David's rearhub started to grind its balls again and we replaced it back in Germany. So yeah, better do not get these hubs! We suppose that hubs with industrial bearing do a lot better under such conditions. These are produced for exmple by DT Swiss.
+
+Further problems made the Shimano XT back shifter on the blue bike. It was still in Shimano's old design where the cable comes in from behind. Somehow this allows for more friction while shifting and eventually led to two broken shift cables. But the newer version on the black bike was absolutely fine. On the other hand, the SRAM front shifter on the black bike was a little bit annoying since regularly small stones got trapped inside its mechanics making it impossible to shift. Usually, we had to turn the fully loaded bike upside down to get it out. Another thing were the cheap pedals that we used, they were ok but we had to replace two of them in the course of 10000km. Maybe investing a little bit is worth the money.
+
+We equipped both bikes with back racks where the more expensive Tubus steel rack definitely outperformed the cheap Bor Yueh aluminium rack on the other bike. But for its price of less than 10&eur; we won't complain. Further, we installed a rather improvised front rack on Jo's bike with some steel angles to attach it to the V-brake mounts. This system also worked extremely well. Furthermore, we attached on each bike an SKS topcage underbar bottle holder relying on a riptie which never made any problems. Finally, in order to prevent damage to the shift and brake cable we wrapped rubber strips (old tires) around the frames at the corresponding contact points. This helped a lot to protect the material.
+
+To carry all our stuff, we sticked to the rather classic pannier bag model with 4 Ortlieb bags (front and back) on Jo's bike (black) and two Ortlieb bags and a 40l round drybag on David's bike (blue). In addition, Jo had an Ortlieb handelbar bag with magnetic lid and David tied a top bag of a black diamond backpack to his handlebar. Originally, David also tied the 40l round drybag to his handlebar, however due to the cracks in his frame (see above), we decided to move this bag on his back rack as well. Finally, we used elastic staps to hold everything in place even on the bumpiest terrain. Highly recommended!
+
+All over the place, there is this discussion of whether a bikepacking setup or a pannier setup is better. We think in the end of the day it just depends on what you like and how you ride. We were very happy with our pannier since they were indeed fully waterproof (dog bites fixed with duct tape). This helps a lot for deep river crossings and heavy Patagonian rain. Furthermore, it really keeps the dirt out of the system and you can quite quickly remove or repack you bike. Overall, this approach might be slightly heavier than directly strapping you stuff to the frame but for our purpose the pannier setup was the way to go. We are quite sure that we stick with this solution.
+
+pic rivercrossing
 
 
+Last but not least, we would like to mention that we were extremely happy with our tires. We used Schwalbe Marathon MTB 26"x2.25". They run very well on asphalt due to their elevated middle profile (see Fig. below) but girp well in all kind of terrain, too. All in all, we only had three flats which is literally nothing for the distance that we rode. In addition, their wear was not bad: We replaced the back tires once in Cusco (after ca. 4000 km) and the front tires are still going strong.
+
+pic tire
+
+## Tools
 
 ## Apps
 

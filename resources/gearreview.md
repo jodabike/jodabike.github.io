@@ -18,7 +18,7 @@ license: false
 
 ## Sleeping bags and mats
 
-We came across a variety of different climates and hence had to find some tradeoff between too warm and heavy or too light and cold sleeping bags. Finally, we decided to use the down sleeping bags which we already owned (also for money reasons). Those were rated to reach as low as -1 &deg; C (comfort). In general, we were very happy with this solution since down sleeping bags are quite light and compact.
+We came across a variety of different climates and hence had to find some tradeoff between too warm and heavy or too light and cold sleeping bags. Finally, we decided to use the down sleeping bags which we already owned (also for money reasons). Those were rated to reach as low as -1&deg;C (comfort). In general, we were very happy with this solution since down sleeping bags are quite light and compact.
 
 However, David's sleeping bag was heavily used already and had lost some filling. As a result, he experienced a few cold nights when we camped very high. This led us to buy some sheets of colorful Peruvian fabric (see Fig. below) which we wrapped around the sleeping bag for the coldest nights.
 
@@ -93,4 +93,17 @@ One downside is that with the introduction of stricter banking laws for EU, one 
 
 ## Bikes
 
+## Apps
 
+On smaller trips (Crossing the Alps, travelling within Europe, ..), we always relied on printed out paper maps. On this tour however, it seemed impossible to print out maps in advance as we did not plan more than a few days/weeks ahead. Moreover, the sole amount of paper would have been quite a lot to carry. Hence, we decided to use a digital maps in the form of a smartphone application with offline maps. In gerneral, when it comes to digital maps, there are two big players: Google Maps and OpenStreetMap. Typically, Google offers its own app whereas pretty much all other navigation apps rely (at least partially) on OpenStreetMap. Since we wanted to be independent of internet giants like Google we ruled their apps out and focused on the other apps. Although, the maps within these particular apps may be rendered differently and hence not look alike, their data source is the same. This means, that for instance if a certain road or feature is not mapped in OpenStreetMap, it will not be shown in any of these apps.
+
+Furthermore, we ruled out applications that are in our opinion unreasonably high priced: As explained above, the actual map data originates from OpenStreetMap and is freely available to anyone (opensource license). Consequently, we think it is not justified to make customers pay a never ending mothly/yearly subscription fee for the use of such an application. As a result, we compared different apps focusing on three criteria: The design and render of the map (ie. whether topographic features such as contour lines are shown), its ability to draw, display and manage tracks and routes, and whether the application supported raster and/or vector maps (Raster maps are static images which need a lot more storage to save, whereas vector maps are more dynamical and allow for more compact storage). After applying these constriants, we were basically left with two applications: The well known offline navigation app Maps.me and a hiking/biking map application called MapOut.
+
+While Maps.me is great for city navigation due to its feature rich points of interests (POIs), it certainly lacks the ability to render terrain and other landscape features. So we fully relied on MapOut for navigation but sometimes in cities Maps.me was quite useul, too. The table below summarizes the features of both applications.
+
+MapOut | Maps.me
+---|---
+- this is real   | - this is real
+
+
+Evidently, there are quite some apps that offer this kind of service. 

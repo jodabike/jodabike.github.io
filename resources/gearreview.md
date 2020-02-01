@@ -102,7 +102,7 @@ Furthermore, we ruled out applications that are in our opinion unreasonably high
 While Maps.me is great for city navigation due to its feature rich points of interests (POIs), it certainly lacks the ability to render terrain and other landscape features. So we fully relied on MapOut for navigation but sometimes in cities Maps.me was quite useul, too. The table below summarizes the features of both applications.
 
 &nbsp; |MapOut | Maps.me |
-&nbsp; |---    |---      |
+|---   |---    |---      |
 Price     |$4.99  |free     |
 &nbsp; |--:    |--:      |
 Features  |&bull; Offline vector maps |&bull; Offline vector maps  |
@@ -114,4 +114,3 @@ Lacks     |&bull; No custom maps/raster images| &bull; No custom maps |
 &nbsp; | |&bull;  Shows ads |
 &nbsp; | |&bull;  Not topographic |
 
-Evidently, there are quite some apps that offer this kind of service. 

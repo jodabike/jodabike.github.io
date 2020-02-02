@@ -1,13 +1,13 @@
 ---
 layout: article
-title: Gear list
+title: Gear Review
 aside:
   toc: true
 article_header:
   type: cover
   image:
-    src: /resources/media/gear.jpg
-cover: https://i.ytimg.com/vi/yyPFT3Ajkzc/maxresdefault.jpg
+    src: /resources/media/gearReview.jpg
+cover: 
 show_edit_on_github: false
 show_subscribe: false
 show_title: false

@@ -270,6 +270,11 @@ The usual rainy and dry (May to November) season game. Overall the weather durin
 
 Spanish is in our opinion a must if you do not stick to La Paz or other metropoles. Especially when we descended into the Yungas jungle, there were many villages of only Quechua speaking locals. But we made it work with hands and feet.
 
+<figure>
+  <img width="100%" src="/resources/media/boatRurre.jpg" />
+  <figcaption>Bikes on the boad in the deep Bolivian rainforest.</figcaption>
+</figure>
+
 
 #### Personal Highlights
 

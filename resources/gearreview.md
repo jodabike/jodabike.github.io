@@ -216,3 +216,5 @@ Lacks     |&bull; No custom maps/raster images| &bull; No custom maps |
 &nbsp; | |&bull;  Shows ads |
 &nbsp; | |&bull;  Not topographic |
 
+
+***

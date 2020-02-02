@@ -31,8 +31,8 @@ In the course of our journey we were asked many questions and asked ourself many
 ## About us
 
 <figure>
-  <img alt="Image" title="Fitz Roy" src="/resources/media/fitzroy.jpg" />
-  <figcaption>Fitz Roy (middle) and Cerro Torre (left).</figcaption>
+  <img alt="Image" title="Fitz Roy" src="/resources/media/us1.jpg" />
+  <figcaption>We.</figcaption>
 </figure>
 
 &#9654; Where are you from?
@@ -66,8 +66,8 @@ In the course of our journey we were asked many questions and asked ourself many
 ## On the route
 
 <figure>
-  <img alt="Image" title="Fitz Roy" src="/resources/media/fitzroy.jpg" />
-  <figcaption>Fitz Roy (middle) and Cerro Torre (left).</figcaption>
+  <img alt="Image" title="Fitz Roy" src="/resources/media/onRoad.jpg" />
+  <figcaption>Jo conquering the Bolivian Altiplano.</figcaption>
 </figure>
 
 &#9654; From where to where are you riding?
@@ -84,6 +84,12 @@ In the course of our journey we were asked many questions and asked ourself many
 
 &#9654; What was the most beautiful part of your journey? / What was your favorite part?
 - This is incredible hard to answer. We had so many great experiences with amazing people and stunning landscapes. For example, David was really impressed by the Fitz Roy range in Patagonia, but peoplewise this part is very touristic and maybe not that interesting. On the other hand, the Bolivian Altiplano is landscapewise not that exciting, however its people were just unbelievably warm-hearted.
+
+<figure>
+  <img alt="Image" title="Fitz Roy" src="/resources/media/fitzroy.jpg" />
+  <figcaption>Fitz Roy (middle) and Cerro Torre (left).</figcaption>
+</figure>
+
 
 &#9654; Did you have some bad/negative experience?
 - The unfriendliest encounter on our whole journey was literally on its very last day when we returned by plane: While napping at Barcelona airport a cleaning man got really mad at us for no reason and yelled at us that he had just called airport security (which never came) to get rid of us. That was just weird.
@@ -103,8 +109,8 @@ In the course of our journey we were asked many questions and asked ourself many
 ## Equipment
 
 <figure>
-  <img alt="Image" title="Fitz Roy" src="/resources/media/fitzroy.jpg" />
-  <figcaption>Fitz Roy (middle) and Cerro Torre (left).</figcaption>
+  <img alt="Image" title="Fitz Roy" src="/resources/media/DavidPush.jpg" />
+  <figcaption>David pushing Jo's bike up towards the Salkantay pass.</figcaption>
 </figure>
 
 &#9654; Why do you carry sticks?
@@ -137,8 +143,8 @@ In the course of our journey we were asked many questions and asked ourself many
 ## About money
 
 <figure>
-  <img alt="Image" title="Fitz Roy" src="/resources/media/fitzroy.jpg" />
-  <figcaption>Fitz Roy (middle) and Cerro Torre (left).</figcaption>
+  <img alt="Image" title="Fitz Roy" src="/resources/media/HuarazMarket.jpg" />
+  <figcaption>Market in Huaraz, Peru.</figcaption>
 </figure>
 
 &#9654; How much money did you spend?

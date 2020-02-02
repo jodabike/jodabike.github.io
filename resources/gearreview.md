@@ -34,7 +34,7 @@ figcaption {
 </style>
 
 <figure>
-  <img alt="Image" title="icon" src="/resources/media/fabric.jpg" />
+  <img alt="Image" title="icon" src="/resources/media/fabric2.jpg" />
   <figcaption>Colorful woven Peruvian fabric.</figcaption>
 </figure>
 
@@ -48,8 +48,10 @@ Concerning sleeping mats, we did not find the optimal solution yet. David owns a
 We used an old two-person Marmot tent named Twilight 2p. This piece of hardware served us extremely well! The tent was bought approximately
 15 years ago and has been used heavily: It has been on all continents but Antarctica and Australia and was set up now more than a thousand times in literally any climate. It endured snowstorms, thunderstorms, Patagonian down-under rain, freezing temperatures, high UV-radiation and attacking cows. Definitely highly recommended!
 
-Pic Tent
-
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/tent.jpg" />
+  <figcaption>Our tent with the Torres del Paine in the background.</figcaption>
+</figure>
 
 ## Clothes
 
@@ -93,7 +95,11 @@ Furthermore, we recommend to look out for local SIM cards. In the beginning, we 
 
 To take photos, we carried a Panasonic Lumix DMC-G6, mostly with its standard 14-42 zoom lens. We decided for this mirrorless system due to its smaller size and weight in favor of a Canon EOS 50D. In conclusion, we think that this camera served us quite well and was appropriate for most situations. During a chest-deep rivercrossing, the camera took a bath as David slipped with his bike on his back. But after drying with rice and sunlight, we managed to make it work again. But for the next trip, we will definitely bring an even better zoom lens, especially to capture animals.
 
-pic camera drying
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/cameraDrying.jpg" />
+  <figcaption>Our camera drying in a pot of rice.</figcaption>
+</figure>
+
 
 
 Our camera setup further included a fixed lens (1:1.7) which was mostly used for portaits. In additon, we used a double USB charger to charge the three camera batteries that we carried. This allowed us to charge all our electronic devices via USB which is very conveinient in our opinion. 
@@ -102,7 +108,10 @@ Furthermore, we also used rechargable head torches with Li-ion batteries, for ex
 
 Finally, we carried as well a Spot GPS satellite tracker, mostly to calm our parents. We set it up in a manner that it sent a position signal every hour while activated via satellite. However, it turned out that although the device itself cofirmed a transmitted postion signal (green LED) that nothing was actually sent in most cases. After all, around 2 to 3 position signals were successfully transmitted everyday (of expected 8-12). This means that if you actually need a reliable GPS satellite tracker, you should not get this one. Another disadvantage is, that this device needs 4 AAA batteries and cannot be recharged via USB. Eventually, a crew member of a boat passage we had to take (Lago O'higgins) dropped it into the lake and it was lost.
 
-pic dropped spot
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/droppedSpot.jpg" />
+  <figcaption>The spot were spot was dropped.</figcaption>
+</figure>
 
 In order to protect most of our electronic devices from water, we used a small 2l dry bag which we found quite useful. Another thing to mention is that we eventually bought a cheap bluetooth soundbox to listen to podcasts and music while riding rather monotonous streches. An even better solution might be to pair two small boxes via bluetooth if you are travelling together, then you do not need to ride in parallel while listening. But we did not try that out yet..
 
@@ -120,7 +129,11 @@ The answer for us was that we wanted to get as close as possible to nature and e
 
 The next big decision is the frame: Well, first of all we think it is non-sense to travel long distances with a fully (e.g. constant swinging, even with lock out, less robustness, weight, no rack, ..). So hardtail it is. But what material? After ruling out carbon fibre immediately due to its possiblity to crack, one is left with steel, aluminum or titanium. We think that steel is probably the best choice in terms of endurance and repairability with the downside that it weights a lot more than its competitiors. Titanium is probably just on the sweet spot between steel and aluminum but it is (at least for us) unaffordable. Finally, we indeed opted for aluminum since David's black Cube Mountain Bike (which Jo rode) endured already quite a lot while being very light. After all, everything worked out well although David's frame cracked (or probably was cracked from the beginning on.. we don't know). We could easily strenghen it with the help of two tiatan clamps. So probably, we will also stick to aluminum in the future.
 
-Pic Davids Frame.
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/DavidCracks.jpg" />
+  <figcaption>Crack in the aluminum frame of the blue bike.</figcaption>
+</figure>
+
 
 
 Finally, we ended up using David's mountain bike and bought another similar one used. In particular, we ended up with David's Cube Ltd 'Ready for Race' (2009) which Jo rodeand the same model from 2004 in blue. But we updated the brake system on both bikes with Shimano Deore hydraulik dicbrakes (front 180mm/back 160mm). The rest was basically just how it originally came out of the box. For the blue bike were cannot tell exact milage since we do not know its history but it seemed quite unused. The black bike had already around 40.000km but was still going strong (5th chain and 3rd set of pinions, 2nd pair of wheels, ...).
@@ -131,14 +144,19 @@ Further problems made the Shimano XT back shifter on the blue bike. It was still
 
 We equipped both bikes with back racks where the more expensive Tubus steel rack definitely outperformed the cheap Bor Yueh aluminium rack on the other bike. But for its price of less than 10&eur; we won't complain. Further, we installed a rather improvised front rack on Jo's bike with some steel angles to attach it to the V-brake mounts. This system also worked extremely well. Furthermore, we attached on each bike an SKS topcage underbar bottle holder relying on a riptie which never made any problems. Finally, in order to prevent damage to the shift and brake cable we wrapped rubber strips (old tires) around the frames at the corresponding contact points. This helped a lot to protect the material.
 
-pic bikes
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/DavidSetup.jpg" />
+  <figcaption>David's original setup with the drybag roll under his handelbar.</figcaption>
+</figure>
 
 To carry all our stuff, we sticked to the rather classic pannier bag model with 4 Ortlieb bags (front and back) on Jo's bike (black) and two Ortlieb bags and a 40l round drybag on David's bike (blue). In addition, Jo had an Ortlieb handelbar bag with magnetic lid and David tied a top bag of a black diamond backpack to his handlebar. Originally, David also tied the 40l round drybag to his handlebar, however due to the cracks in his frame (see above), we decided to move this bag on his back rack as well. Finally, we used elastic staps to hold everything in place even on the bumpiest terrain. Highly recommended!
 
 All over the place, there is this discussion of whether a bikepacking setup or a pannier setup is better. We think in the end of the day it just depends on what you like and how you ride. We were very happy with our pannier since they were indeed fully waterproof (dog bites fixed with duct tape). This helps a lot for deep river crossings and heavy Patagonian rain. Furthermore, it really keeps the dirt out of the system and you can quite quickly remove or repack you bike. Overall, this approach might be slightly heavier than directly strapping you stuff to the frame but for our purpose the pannier setup was the way to go. We are quite sure that we stick with this solution.
 
-pic rivercrossing
-
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/JoRiver.jpg" />
+  <figcaption>Jo crossing a river in the Bolivian Altiplano.</figcaption>
+</figure>
 
 Last but not least, we would like to mention that we were extremely happy with our tires. We used Schwalbe Marathon MTB 26"x2.25". They run very well on asphalt due to their elevated middle profile (see Fig. below) but girp well in all kind of terrain, too. All in all, we only had three flats which is literally nothing for the distance that we rode. In addition, their wear was not bad: We replaced the back tires once in Cusco (after ca. 4000 km) and the front tires are still going strong.
 

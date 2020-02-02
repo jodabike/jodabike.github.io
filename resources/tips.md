@@ -347,4 +347,9 @@ While our Spanish was now good enough to have all kinds of conversations, the Ch
 - Night in house at lake
 - Hike a bike to Ushuaia
 
+<figure>
+  <img width="100%" src="/resources/media/UshuaiaBeach.jpg" />
+  <figcaption>Beach on the final strech to Ushuaia.</figcaption>
+</figure>
+
 ***

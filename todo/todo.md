@@ -7,4 +7,20 @@ script to grab them all
 # Galleries
     slick?
 
-# Sitemap and so on
+# Pages to write
+
+fix links in Gear list
+Stats
+Expenses
+Route description and full screen
+blog remove back to the andes double
+
+Contact
+Sitemap
+Legal
+
+# things to fix
+comments
+watermarks
+image editing
+

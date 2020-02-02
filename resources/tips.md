@@ -246,6 +246,10 @@ Spanish is pretty much mandatory here. English speakers were definitely the exce
 
 *Accommodations:* Overall the standard of living is a little bit lower than in Peru. WiFi was an absolute exception and many hostels charge extra for (hot/cold) showers. In average. We paid around 60-80bol (8-10eur) for a matrimonial room.
 
+<figure>
+  <img width="100%" src="/resources/media/campChurch.jpg" />
+  <figcaption>Camp in a church room in Bolivia.</figcaption>
+</figure>
 
 #### Money (Bolivanos aka Bols or pesos)
 

@@ -452,9 +452,9 @@ Small selfmade bag (of old rain pants) between panniers<br>
 
 #### Biketools
 <span class="good">Leatherman Wave</span><br>
-<span class="good">Topeak 25 in 1 toolset (allen keys, chain tool, ..)</span><br>
+<span class="good">Topeak Mini 20 Pro(allen keys, chain tool, ..)</span><br>
 2x Valve adapter (French to Auto for gas stations)<br>
-Toppeak Bike pump (Auto and French valve)<br>
+Topeak Bike pump (Auto and French valve)<br>
 Tube repair kit (4 separate tubes of vilcanozator, ca. 20 patches)<br>
 Pliers wrench 10+8mm<br>
 Pliers wrench 15mm<br>

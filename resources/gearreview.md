@@ -168,10 +168,21 @@ Last but not least, we would like to mention that we were extremely happy with o
 
 ## Tools
 
+Of course, we had to carry a whole variety of tools to be able to fix the bikes or at least keep them going to the next city. The details are shown in our <a href="/resources/gearlist.html">Gear list</a>. Here, we would like to emphasize on two tools that really allow you to attack any srew or problem: Already for a long time, David has used a Leatherman Wave for pretty much everything. It is made of titanium, consequently it cannot rust and it is superlight and robust. The other tool is the Mini 20 Pro made by Topeak. In our opinion this is the bike tool to have. Although it weighs just 150g, it includes all Allan keys, a chain pin tool, screwdrivers (-, +, torx), spoke tool, etc. In combination with a 8+10mm pliers wench, there is literally no scew on a bicycle that you cannot thighten.
 
 ## Guitar
 
+One of the luxury goods that we afforded to carry was a small guitar. In particular, we had a 70cm steelstring travelguitar made by Kirkland. And we think that for its size this instrument sounds quite good. We carried this guitar inside an 80l drybag in Jo's right front pannier and attached with a rubberstrap to the handeblar bag (see Fig. below). This construction worked quite well and was indeed completly waterproof. In addition, we used this 80l sack as a main bag while flying back home. 
+
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/JoFront.jpg" />
+  <figcaption>Jo's setup from the front.</figcaption>
+</figure>
+
+
 ## Rest
+
+
 
 ## Apps
 

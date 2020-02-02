@@ -182,6 +182,12 @@ One of the luxury goods that we afforded to carry was a small guitar. In particu
 
 ## Rest
 
+Another really useful item, that accompanioned us along our journey was an ultralight 55l Arcteryx backpack. Everytime when we left the bikes behind for hiking excursions or just to go shopping in cities we relied on this bag. We definitely recommend bringing such a backpack with you!
+
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/DavidBackpack.jpg" />
+  <figcaption>David crossing an ice field with our yellow backpack.</figcaption>
+</figure>
 
 
 ## Apps

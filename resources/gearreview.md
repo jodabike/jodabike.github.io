@@ -160,9 +160,14 @@ All over the place, there is this discussion of whether a bikepacking setup or a
 
 Last but not least, we would like to mention that we were extremely happy with our tires. We used Schwalbe Marathon MTB 26"x2.25". They run very well on asphalt due to their elevated middle profile (see Fig. below) but girp well in all kind of terrain, too. All in all, we only had three flats which is literally nothing for the distance that we rode. In addition, their wear was not bad: We replaced the back tires once in Cusco (after ca. 4000 km) and the front tires are still going strong.
 
-pic tire
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/tire.jpg" />
+  <figcaption>Dirty tire.</figcaption>
+</figure>
+
 
 ## Tools
+
 
 ## Guitar
 

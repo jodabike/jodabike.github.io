@@ -105,7 +105,7 @@ $("#show").show();
 
 #### Sleeping bags
 
-<a class="ok" href="resources/gearreview.html#sleeping-bags-and-mats">Mountain Equipment Glacier 700</a><br>
+<span class="ok">Mountain Equipment Glacier 700</span><br>
 Silk inlet<br>
 <span class="good">Selfmade biwakbag of Peruvian sheets</span><br>
 

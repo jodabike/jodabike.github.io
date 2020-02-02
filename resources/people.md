@@ -14,6 +14,15 @@ show_title: false
 license: false
 ---
 
+<style>
+figcaption {
+    font: italic smaller sans-serif;
+    text-align: center;
+    background: #ffffff;
+    color: #000000;
+    padding: 6px 0;
+} 
+</style>
 # People
 
 Here are the links to some of the many wonderful people that made our journey bright and joyful.

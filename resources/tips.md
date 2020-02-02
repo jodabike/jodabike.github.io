@@ -302,7 +302,7 @@ Spanish is in our opinion a must if you do not stick to La Paz or other metropol
 
 *Shops/Tools:* Along the Carretera Austral, bikeshops are found in many towns since the road is very popular among cyclists. On the Argentinian side, one has to rely on the major cities such as El Calafate or Rio Grande. 
 
-*Roads:* 
+*Roads:* In gerneral the road conditions throughout Chile and Argentina are quite good. For instance, the famous Carretera Austral is paved for its first few hundred kilometers and afterwards a smooth gravel road. Further south in Argentina there are paved highways through the pampa (for example Routa 40). The traffic is not really bad but still a little bit annyoing and dangerous. We tried to legally cross form El Calafate (Argentina) to Torres del Paine (Chile) via a backroad (Paso Zamora). The Gandarmeria however assured us that there is at the moment no possibility to cross this particular pass legally and hence we decided to detour around on the legal roads.
 
 <figure>
   <img width="100%" src="/resources/media/carreteraAustral.jpg" />
@@ -311,34 +311,40 @@ Spanish is in our opinion a must if you do not stick to La Paz or other metropol
 
 #### Nights
 
-*Wild Camping:* 
+*Wild Camping:* This is again pretty much straight forward. Especially in Patagonia and Tierra del Fuego, there are some shelters made for (bike) travellers. However, in case you do not find a shelter in Patagonia Verde (Carretera Austral), be prepared for the possibility of heavy rain fall.
 
-*Accommodations:* 
+*Accommodations:* Hostels along the Carretera Austral are quite expensive due to its touristic popularity. We paid around 20.000clp (ca. 23&eur;) for a matrimonial room. Hence, we tried to wild camp whenever possible. In Argentina, prices tend to be a bit lower again but if you plan a little bit ahead with iOverlander, you usually can find a wind shelter to camp. 
 
 
 #### Money (USD)
 
-*Withdrawal:* 
+*Withdrawal:* In Chile it was possible to withdraw without additional fees at Scotiabank ATMs with our DKB VISA card. But in general, it is almost anywhere possible to directly pay by card. We usually did this since the Chilean peso lost value while we where there due to the protests. In Argentina, the situation was a little bit different. Altough it was possible to pay by card in many places, some places added a fee for doing so. Moreover, withdrawl was quite expensive: As far as we know there are no free possibilities and we had to pay as much as 250ars (ca. 4&eur;) per transaction (maximum 4000ars which is about 60&eur;).
 
-*Exchange:* 
+*Exchange:* Money exchange was not as straightforward as before (for Bolivanos to CLP see above). We had expected to be able to exchange Chilean Pesos to Argentine Peso without much loss. In reality however, the official exchange offices offer only very bad rates with up to 50% loss. Consequently, we tried to directly exchange with tourists travelling in opposite direction at the boarder stations. This strategy indeed worked out quite well and saved us some transaction fees of Argentine ATMs.
 
 
 #### Medicine and Hygiene
 
-*Hospitals:* 
+Luckily, we did not have any more health problems for the southern part of our journey. Probably, the combination of better food and taffer stomachs spared us some trouble. But it seems that the health care in Chile as well as Argentina is again a little more sophisticated. But we really do not know any details.
 
 
 #### Weather
 
+The weather in Patagonia can be quite unpredictable. People travelling along the Carretera Ausral told us that there are Spings or Summers with little rain in one year and constant rain in another. For us it seemed that there is always quite some rain, especially along the northern part of the Carretera (Patagonia Verde). Once you cross into Argentina (El Chalten), it is not anymore the rain that dominates but the wind. We knew annoying headwinds before, we knew wind that makes it impossible to pedal, but there we encountered wind that almost made it impossible to push you bike (> 90 km/h). As the pampa offers little to virtually no wind shelter, always plan ahead to reach some sheltered camp possibility (iOverlander) or a town.
 
 
 
 #### Communication
 
-
+While our Spanish was now good enough to have all kinds of conversations, the Chilean accent was quite hard for us to understand. But eventually, we got used to it. Besides this, many people know English as well. Especially at touristic places it is common practice to communicate in English. 
 
 
 #### Personal Highlights
 
+- El Chalten (Huemul)
+- Pink hostel with Mat
+- Torres del Paine
+- Night in house at lake
+- Hike a bike to Ushuaia
 
 ***

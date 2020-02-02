@@ -12,6 +12,7 @@ script to grab them all
 fix links in Gear list
 Stats
 Expenses
+end of tips
 Route description and full screen
 blog remove back to the andes double
 

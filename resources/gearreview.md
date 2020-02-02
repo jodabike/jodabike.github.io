@@ -22,7 +22,21 @@ We came across a variety of different climates and hence had to find some tradeo
 
 However, David's sleeping bag was heavily used already and had lost some filling. As a result, he experienced a few cold nights when we camped very high. This led us to buy some sheets of colorful Peruvian fabric (see Fig. below) which we wrapped around the sleeping bag for the coldest nights.
 
-Pic. PeruStoff
+
+<style>
+figcaption {
+    font: italic smaller sans-serif;
+    text-align: center;
+    background: #ffffff;
+    color: #000000;
+    padding: 6px 0;
+} 
+</style>
+
+<figure>
+  <img alt="Image" title="icon" src="/resources/media/fabric.jpg" />
+  <figcaption>Colorful woven Peruvian fabric.</figcaption>
+</figure>
 
 After all, this solution worked quite well and we got to keep some more of this amazing Peruvian fabric! Depending on the climate, on the next journey we might invest a little bit more into our sleeping bags...
 

@@ -106,7 +106,7 @@ $("#show").show();
 
 #### <a class="black" href="gearreview.html#sleeping-bags-and-mats">Sleeping bags</a>
 
-<span class="ok">Mountain Equipment Glacier 700</span><br>
+<span class="ok">Mountain Equipment Glacier 700x</span><br>
 Silk inlet<br>
 <span class="good">Selfmade biwakbag of Peruvian sheets</span><br>
 
@@ -116,7 +116,7 @@ Silk inlet<br>
 Silk inlet<br>
 
 
-#### [Sleeping mats](resources/gearreview.html#sleeping-bags-and-mats)
+#### <a class="black" href="gearreview.html#sleeping-bags-and-mats">Sleeping mats</a>
 
 <span class="bad">Thermarest Prolite Plus Reg</span>
 <br>

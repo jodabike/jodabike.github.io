@@ -35,7 +35,7 @@ figcaption {
 
 <figure>
 <img alt="Image" title="icon" src="/resources/media/dailyExpenses3.svg" />
-  <!-- <figcaption>Colorful woven Peruvian fabric.</figcaption> -->
+  <figcaption>Daily expenses in South America (Euro).</figcaption>
 </figure>
 
 After all, this solution worked quite well and we got to keep some more of this amazing Peruvian fabric! Depending on the climate, on the next journey we might invest a little bit more into our sleeping bags...

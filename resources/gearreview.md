@@ -197,7 +197,7 @@ On smaller trips (Crossing the Alps, travelling within Europe, ..), we always re
 Furthermore, we ruled out applications that are in our opinion unreasonably high priced: As explained above, the actual map data originates from OpenStreetMap and is freely available to anyone (opensource license). Consequently, we think it is not justified to make customers pay a never ending mothly/yearly subscription fee for the use of such an application. As a result, we compared different apps focusing on three criteria: The design and render of the map (ie. whether topographic features such as contour lines are shown), its ability to draw, display and manage tracks and routes, and whether the application supported raster and/or vector maps (Raster maps are static images which need a lot more storage to save, whereas vector maps are more dynamical and allow for more compact storage). After applying these constriants, we were basically left with two applications: The well known offline navigation app [Maps.me][(https://maps.me)](www.maps.me) and a hiking/biking map application called [MapOut](https://mapout.app/).
 
 <figure>
-  <img alt="Image" title="icon" src="/resources/media/MapOut.png" />
+<img alt="Image" witdth="50%" src="/resources/media/MapOut.png" />
   <figcaption>Screenshot of MapOut.</figcaption>
 </figure>
 

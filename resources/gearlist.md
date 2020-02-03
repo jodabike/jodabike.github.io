@@ -18,9 +18,10 @@ license: false
 
 We tried to compile a (hopefully) complete list of all the gear that we carry. The list is structured in categories and the items of each section are roughly ordered by importance. Brackets indicate unused or replaced items. An asterisk marks a later added piece of equipment and things that we plan to carry in future are preceded by two asterisks.
 
-Further, we reviewed some of our equipment with the classic traffic light system (green: good, orange: ok, red: bad). Each reviewed item links directly to details in our gear review post.
+Further, we reviewed some of our equipment with the classic traffic light system (green: good, orange: ok, red: bad). Further details to the rated items are given in our explicit [Gear Review](/resources/gearreview.html). By clicking on the section titles of this list you are direclty forwarded to the corresponding section of our Gear review.
+At this point, we'd also like to mention that we were NOT sponsored by any company and all information that we give here is our own independent opinion, simply based on the experience during this and previous trips.
 
-The full list is [here](https://jodabike.github.io/resources/downloads/gearList.txt) available as compact text file for saving or printing. 
+The full list is [here](https://jodabike.github.io/resources/downloads/gearList.txt) available as a compact text file for saving or printing. 
 
 <!-- {% include tableofcontents.html %} -->
 
@@ -103,7 +104,7 @@ $("#show").show();
 ## Camping
 
 
-#### Sleeping bags
+#### [Sleeping bags](resources/gearreview.html#sleeping-bags-and-mats)
 
 <span class="ok">Mountain Equipment Glacier 700</span><br>
 Silk inlet<br>
@@ -115,7 +116,7 @@ Silk inlet<br>
 Silk inlet<br>
 
 
-#### Sleeping mats
+#### [Sleeping mats](resources/gearreview.html#sleeping-bags-and-mats)
 
 <span class="bad">Thermarest Prolite Plus Reg</span>
 <br>
@@ -128,7 +129,7 @@ Doite Colchoneta CrosTec<br>
 
 
 
-#### Tent
+#### [Tent](resources/gearreview.html#tent)
 <span class="good">Marmot Twilight 2p</span><br>
 Jack Wolfskin tent footprint
 

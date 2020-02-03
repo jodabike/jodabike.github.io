@@ -34,7 +34,7 @@ figcaption {
 </style>
 
 <figure>
-  <img alt="Image" title="icon" src="/resources/media/dailyExpenses.svg" />
+  <img alt="Image" title="icon" src="/resources/media/dailyExpenses2.svg" />
   <!-- <figcaption>Colorful woven Peruvian fabric.</figcaption> -->
 </figure>
 

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="376mm" height="287mm" viewBox="0 0 37600 28700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(255,255,255)" stroke="none" d="M 18823,28655 L 17,28655 17,17 37628,17 37628,28655 18823,28655 Z"/>
+ <path fill="none" stroke="rgb(216,216,216)" stroke-width="35" stroke-linejoin="round" d="M 18823,28655 L 17,28655 17,17 37628,17 37628,28655 18823,28655 Z"/>
+ <path fill="none" stroke="rgb(89,89,89)" stroke-linejoin="round" d="M 19006,26165 L 1689,26165 1689,1711 36323,1711 36323,26165 19006,26165 Z"/>
+ <path fill="none" stroke="rgb(242,242,242)" stroke-width="35" stroke-linejoin="round" d="M 5152,1710 L 5152,26164"/>
+ <path fill="none" stroke="rgb(242,242,242)" stroke-width="35" stroke-linejoin="round" d="M 12079,1710 L 12079,26164"/>
+ <path fill="none" stroke="rgb(242,242,242)" stroke-width="35" stroke-linejoin="round" d="M 19005,1710 L 19005,26164"/>
+ <path fill="none" stroke="rgb(242,242,242)" stroke-width="35" stroke-linejoin="round" d="M 25932,1710 L 25932,26164"/>
+ <path fill="none" stroke="rgb(242,242,242)" stroke-width="35" stroke-linejoin="round" d="M 32859,1710 L 32859,26164"/>
+ <path fill="none" stroke="rgb(216,216,216)" stroke-width="35" stroke-linejoin="round" stroke-dasharray="105,105" d="M 36322,26164 L 1689,26164"/>
+ <path fill="none" stroke="rgb(216,216,216)" stroke-width="35" stroke-linejoin="round" stroke-dasharray="105,105" d="M 36322,20050 L 1689,20050"/>
+ <path fill="none" stroke="rgb(216,216,216)" stroke-width="35" stroke-linejoin="round" stroke-dasharray="105,105" d="M 36322,13937 L 1689,13937"/>
+ <path fill="none" stroke="rgb(216,216,216)" stroke-width="35" stroke-linejoin="round" stroke-dasharray="105,105" d="M 36322,7824 L 1689,7824"/>
+ <path fill="none" stroke="rgb(216,216,216)" stroke-width="35" stroke-linejoin="round" stroke-dasharray="105,105" d="M 36322,1710 L 1689,1710"/>
+ <path fill="none" stroke="rgb(242,242,242)" stroke-width="35" stroke-linejoin="round" d="M 36322,23106 L 1689,23106"/>
+ <path fill="none" stroke="rgb(242,242,242)" stroke-width="35" stroke-linejoin="round" d="M 36322,16993 L 1689,16993"/>
+ <path fill="none" stroke="rgb(242,242,242)" stroke-width="35" stroke-linejoin="round" d="M 36322,10880 L 1689,10880"/>
+ <path fill="none" stroke="rgb(242,242,242)" stroke-width="35" stroke-linejoin="round" d="M 36322,4767 L 1689,4767"/>
+ <path fill="none" stroke="rgb(89,89,89)" stroke-linejoin="round" d="M 1689,26164 L 36322,26164"/>
+ <path fill="rgb(68,50,5)" stroke="none" d="M 31354,26164 L 34365,26164 34365,16339 31354,16339 31354,26164 Z"/>
+ <path fill="rgb(71,39,2)" stroke="none" d="M 24426,26164 L 27438,26164 27438,18925 24426,18925 24426,26164 Z"/>
+ <path fill="rgb(73,35,0)" stroke="none" d="M 17500,26164 L 20511,26164 20511,18595 17500,18595 17500,26164 Z"/>
+ <path fill="rgb(75,34,4)" stroke="none" d="M 10572,26164 L 13585,26164 13585,23186 10572,23186 10572,26164 Z"/>
+ <path fill="rgb(80,32,12)" stroke="none" d="M 3646,26164 L 6657,26164 6657,17782 3646,17782 3646,26164 Z"/>
+ <path fill="rgb(112,110,12)" stroke="none" d="M 31354,16339 L 34365,16339 34365,15397 31354,15397 31354,16339 Z"/>
+ <path fill="rgb(120,75,4)" stroke="none" d="M 24426,18925 L 27438,18925 27438,15783 24426,15783 24426,18925 Z"/>
+ <path fill="rgb(123,61,0)" stroke="none" d="M 17500,18595 L 20511,18595 20511,17232 17500,17232 17500,18595 Z"/>
+ <path fill="rgb(129,55,9)" stroke="none" d="M 10572,23186 L 13585,23186 13585,21199 10572,21199 10572,23186 Z"/>
+ <path fill="rgb(141,40,30)" stroke="none" d="M 3646,17782 L 6657,17782 6657,15990 3646,15990 3646,17782 Z"/>
+ <path fill="rgb(172,178,12)" stroke="none" d="M 31354,15397 L 34365,15397 34365,12390 31354,12390 31354,15397 Z"/>
+ <path fill="rgb(180,120,4)" stroke="none" d="M 24426,15783 L 27438,15783 27438,9951 24426,9951 24426,15783 Z"/>
+ <path fill="rgb(184,92,0)" stroke="none" d="M 17500,17232 L 20511,17232 20511,9883 17500,9883 17500,17232 Z"/>
+ <path fill="rgb(190,72,10)" stroke="none" d="M 10572,21199 L 13585,21199 13585,20728 10572,20728 10572,21199 Z"/>
+ <path fill="rgb(230,233,5)" stroke="none" d="M 31354,12390 L 34365,12390 34365,9113 31354,9113 31354,12390 Z"/>
+ <path fill="rgb(232,162,2)" stroke="none" d="M 24426,9951 L 27438,9951 27438,8661 24426,8661 24426,9951 Z"/>
+ <path fill="rgb(234,117,0)" stroke="none" d="M 17500,9883 L 20511,9883 20511,8997 17500,8997 17500,9883 Z"/>
+ <path fill="rgb(237,76,5)" stroke="none" d="M 10572,20728 L 13585,20728 13585,19958 10572,19958 10572,20728 Z"/>
+ <path fill="rgb(241,13,12)" stroke="none" d="M 3646,15990 L 6657,15990 6657,14903 3646,14903 3646,15990 Z"/>
+ <path fill="rgb(255,255,56)" stroke="none" d="M 31354,9113 L 34365,9113 34365,9089 31354,9089 31354,9113 Z"/>
+ <path fill="rgb(255,212,40)" stroke="none" d="M 24426,8661 L 27438,8661 27438,8569 24426,8569 24426,8661 Z"/>
+ <path fill="rgb(255,84,41)" stroke="none" d="M 10572,19958 L 13585,19958 13585,19347 10572,19347 10572,19958 Z"/>
+ <path fill="rgb(255,123,89)" stroke="none" d="M 10572,19347 L 13585,19347 13585,17158 10572,17158 10572,19347 Z"/>
+ <path fill="rgb(255,255,166)" stroke="none" d="M 31354,9089 L 34365,9089 34365,8520 31354,8520 31354,9089 Z"/>
+ <path fill="rgb(255,182,108)" stroke="none" d="M 17500,8997 L 20511,8997 20511,8649 17500,8649 17500,8997 Z"/>
+ <path fill="rgb(255,170,149)" stroke="none" d="M 10572,17158 L 13585,17158 13585,16455 10572,16455 10572,17158 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="3421" y="27285"><tspan fill="rgb(0,0,0)" stroke="none">Ecuador</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="11114" y="27285"><tspan fill="rgb(0,0,0)" stroke="none">Peru</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="17618" y="27285"><tspan fill="rgb(0,0,0)" stroke="none">Bolivia</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="24888" y="27285"><tspan fill="rgb(0,0,0)" stroke="none">Chile</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="30876" y="27285"><tspan fill="rgb(0,0,0)" stroke="none">Argentina</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="1086" y="26508"><tspan fill="rgb(0,0,0)" stroke="none">0</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="585" y="20394"><tspan fill="rgb(0,0,0)" stroke="none">10</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="585" y="14281"><tspan fill="rgb(0,0,0)" stroke="none">20</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="585" y="8168"><tspan fill="rgb(0,0,0)" stroke="none">30</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="585" y="2054"><tspan fill="rgb(0,0,0)" stroke="none">40</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="4253" y="22238"><tspan fill="rgb(255,255,255)" stroke="none">13,71</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="11379" y="24940"><tspan fill="rgb(255,255,255)" stroke="none">4,87</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="18107" y="22645"><tspan fill="rgb(255,255,255)" stroke="none">12,38</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="25033" y="22809"><tspan fill="rgb(255,255,255)" stroke="none">11,84</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="31960" y="21516"><tspan fill="rgb(255,255,255)" stroke="none">16,07</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="4452" y="17151"><tspan fill="rgb(255,255,255)" stroke="none">2,93</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="11379" y="22458"><tspan fill="rgb(255,255,255)" stroke="none">3,25</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="18305" y="18178"><tspan fill="rgb(255,255,255)" stroke="none">2,23</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="25232" y="17619"><tspan fill="rgb(255,255,255)" stroke="none">5,14</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="32159" y="16134"><tspan fill="rgb(255,255,255)" stroke="none">1,54</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="4452" y="15711"><tspan fill="rgb(255,255,255)" stroke="none">1,78</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="11379" y="20608"><tspan fill="rgb(255,255,255)" stroke="none">1,26</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="18305" y="9706"><tspan fill="rgb(255,255,255)" stroke="none">1,45</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="25232" y="9571"><tspan fill="rgb(255,255,255)" stroke="none">2,11</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="32159" y="11016"><tspan fill="rgb(255,255,255)" stroke="none">5,36</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="11379" y="21229"><tspan fill="rgb(255,255,255)" stroke="none">0,77</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="18107" y="13823"><tspan fill="rgb(255,255,255)" stroke="none">12,02</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="25232" y="13132"><tspan fill="rgb(255,255,255)" stroke="none">9,54</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="32159" y="14159"><tspan fill="rgb(255,255,255)" stroke="none">4,92</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="11881" y="19918"><tspan fill="rgb(255,255,255)" stroke="none">1</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="11379" y="18518"><tspan fill="rgb(255,255,255)" stroke="none">3,58</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="11379" y="17072"><tspan fill="rgb(255,255,255)" stroke="none">1,15</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="705px" font-weight="400"><tspan class="TextPosition" x="32159" y="9070"><tspan fill="rgb(0,0,0)" stroke="none">0,93</tspan></tspan></tspan></text>
+ <path fill="rgb(255,255,255)" stroke="none" d="M 7274,12081 L 4388,12081 4388,3214 10160,3214 10160,12081 7274,12081 Z"/>
+ <path fill="none" stroke="rgb(46,52,54)" stroke-width="35" stroke-linejoin="round" d="M 7274,12081 L 4388,12081 4388,3214 10160,3214 10160,12081 7274,12081 Z"/>
+ <path fill="rgb(28,28,28)" stroke="none" d="M 4965,11644 L 4690,11644 4690,11094 5240,11094 5240,11644 4965,11644 Z"/>
+ <path fill="rgb(51,51,51)" stroke="none" d="M 4965,10403 L 4690,10403 4690,9854 5240,9854 5240,10403 4965,10403 Z"/>
+ <path fill="rgb(102,102,102)" stroke="none" d="M 4965,9163 L 4690,9163 4690,8613 5240,8613 5240,9163 4965,9163 Z"/>
+ <path fill="rgb(128,128,128)" stroke="none" d="M 4965,7922 L 4690,7922 4690,7373 5240,7373 5240,7922 4965,7922 Z"/>
+ <path fill="rgb(153,153,153)" stroke="none" d="M 4965,6682 L 4690,6682 4690,6132 5240,6132 5240,6682 4965,6682 Z"/>
+ <path fill="rgb(178,178,178)" stroke="none" d="M 4965,5441 L 4690,5441 4690,4892 5240,4892 5240,5441 4965,5441 Z"/>
+ <path fill="rgb(204,204,204)" stroke="none" d="M 4965,4200 L 4690,4200 4690,3651 5240,3651 5240,4200 4965,4200 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="5440" y="4269"><tspan fill="rgb(0,0,0)" stroke="none">Entry Fees</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="5440" y="5510"><tspan fill="rgb(0,0,0)" stroke="none">Gifts</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="5440" y="6750"><tspan fill="rgb(0,0,0)" stroke="none">Medicine</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="5440" y="7991"><tspan fill="rgb(0,0,0)" stroke="none">Bike</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="5440" y="9232"><tspan fill="rgb(0,0,0)" stroke="none">Travel</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="5440" y="10472"><tspan fill="rgb(0,0,0)" stroke="none">Hostel</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="400"><tspan class="TextPosition" x="5440" y="11713"><tspan fill="rgb(0,0,0)" stroke="none">Food</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="700"><tspan class="TextPosition" x="4027" y="14661"><tspan fill="rgb(0,0,0)" stroke="none">18,42</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="700"><tspan class="TextPosition" x="10928" y="16214"><tspan fill="rgb(0,0,0)" stroke="none">15,89</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="700"><tspan class="TextPosition" x="17870" y="8407"><tspan fill="rgb(0,0,0)" stroke="none">28,66</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="700"><tspan class="TextPosition" x="24812" y="8327"><tspan fill="rgb(0,0,0)" stroke="none">28,78</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Helvetica Neue" font-size="916px" font-weight="700"><tspan class="TextPosition" x="31714" y="8278"><tspan fill="rgb(0,0,0)" stroke="none">28,86</tspan></tspan></tspan></text>
+</svg>

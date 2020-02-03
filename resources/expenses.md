@@ -6,7 +6,7 @@ aside:
 article_header:
   type: cover
   image:
-    src: /resources/media/RelExpenses.svg
+    src: /resources/media/RelExpenses2.svg
 cover: 
 show_edit_on_github: false
 show_subscribe: false
@@ -14,7 +14,7 @@ show_title: false
 license: false
 ---
 
-# Gear Review
+# Expenses
 
 ## Sleeping bags and mats
 

@@ -34,8 +34,8 @@ figcaption {
 </style>
 
 <figure>
-  <img alt="Image" title="icon" src="/resources/media/fabric2.jpg" />
-  <figcaption>Colorful woven Peruvian fabric.</figcaption>
+  <img alt="Image" title="icon" src="/resources/media/dailyExpenses.svg" />
+  <!-- <figcaption>Colorful woven Peruvian fabric.</figcaption> -->
 </figure>
 
 After all, this solution worked quite well and we got to keep some more of this amazing Peruvian fabric! Depending on the climate, on the next journey we might invest a little bit more into our sleeping bags...

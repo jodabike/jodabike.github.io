@@ -25,7 +25,7 @@ The full list is [here](https://jodabike.github.io/resources/downloads/gearList.
 
 <!-- {% include tableofcontents.html %} -->
 
-<link rel="stylesheet" type="text/css" href="/assets/css/links.css">
+<!--<link rel="stylesheet" type="text/css" href="/assets/css/links.css">-->
 <link rel="stylesheet" type="text/css" href="/assets/css/textdeco.css">
 <link rel="stylesheet" type="text/css" href="/assets/css/enumerate.css">
 
@@ -104,7 +104,7 @@ $("#show").show();
 ## Camping
 
 
-#### [Sleeping bags](resources/gearreview.html#sleeping-bags-and-mats)
+#### [Sleeping bags](gearreview.html#sleeping-bags-and-mats)
 
 <span class="ok">Mountain Equipment Glacier 700</span><br>
 Silk inlet<br>
@@ -134,7 +134,7 @@ Doite Colchoneta CrosTec<br>
 Jack Wolfskin tent footprint
 
 
-## Clothes
+## [Clothes](resources/gearreview.html#clothes)
 
 #### Outdoors
 

@@ -104,7 +104,7 @@ $("#show").show();
 ## Camping
 
 
-#### [Sleeping bags](gearreview.html#sleeping-bags-and-mats)
+#### <a class="black" href="gearreview.html#sleeping-bags-and-mats">Sleeping bags</a>
 
 <span class="ok">Mountain Equipment Glacier 700</span><br>
 Silk inlet<br>

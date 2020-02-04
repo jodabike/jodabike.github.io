@@ -18,19 +18,19 @@ license: false
 
 While travelling, we tried to keep track of what we spent. In particular, we diveded our expenses into seven categories (ordered roughly by frequency):<br>
 
-*Food:* Obviously this covers everything related to eating and cooking.<br>
+- *Food:* Obviously this covers everything related to eating and cooking.<br>
 
-*Hostel:* Here, we included all kinds of accomdation costs including paid campsites etc.<br>
+- *Hostel:* Here, we included all kinds of accomdation costs including paid campsites etc.<br>
 
 *Travel:* This summes basically all transportation costs such as bus and boat rides.<br>
 
-*Bike:* Hence we had to fix our bikes several times, we include this category for all expenses on spare parts and related costs.<br>
+- *Bike:* Hence we had to fix our bikes several times, we include this category for all expenses on spare parts and related costs.<br>
 
-*Medicine:* This covers what we paid for medicine and hopital visits.<br>
+- *Medicine:* This covers what we paid for medicine and hopital visits.<br>
 
-*Gifts:* Especially in Peru, we discovered many beautiful and unique items that we sent home as gifts. This category is to seperate these (evitable) expenses from the rest.<br>
+- *Gifts:* Especially in Peru, we discovered many beautiful and unique items that we sent home as gifts. This category is to seperate these (evitable) expenses from the rest.<br>
 
-*Entry Frees:* Depending on your luck you have to pay quite some money to enter various national parks. Here, we wanted to see how much it is in total.<br>
+- *Entry Frees:* Depending on your luck you have to pay quite some money to enter various national parks. Here, we wanted to see how much it is in total.<br>
 
 Furthermore, we treated each country that we visited seperately. This is reasonable since the price levels variate quite a lot. In general, the trend is that the further south you move from the Equator, the more expensive it gets. However, what this trend does not directly cover is the quality of the corresponding products. For instance, a meal in Peru might be a lot cheaper (only a thenth) of what you pay in Chile, but qualitywise superior. The same holds true for hostels.
 

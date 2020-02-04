@@ -60,7 +60,7 @@ figcaption {
 
 ## Summary
 
-Finally, the table below summarizes our total expenses. In total everyhting (but the flights from and back to Europe) adds up to 4704&euro; which makes in average pretty much 22&euro; a day. Before we left, we estimated to spend ca. 10 &euro; per person and day which we more or less fulfilled. 
+Finally, the table below summarizes our total expenses. In total everyhting (but the flights from and back to Europe) adds up to 4704&euro; which makes in average pretty much 22&euro; a day. Before we left, we estimated to spend ca. 10&euro; per person and day which we more or less fulfilled. 
 
 
 Country  | Total expenses/€      | Days spent |

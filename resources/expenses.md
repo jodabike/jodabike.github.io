@@ -32,6 +32,10 @@ While travelling, we tried to keep track of what we spent. In particular, we div
 
 *Entry Frees:* Depending on your luck you have to pay quite some money to enter various national parks. Here, we wanted to see how much it is in total.<br>
 
+Furthermore, we treated each country that we visited seperately. This is reasonable since the price levels variate quite a lot. In general, the trend is that the further south you move from the Equator, the more expensive it gets. However, what this trend does not directly cover is the quality of the corresponding products. For instance, a meal in Peru might be a lot cheaper (only a thenth) of what you pay in Chile, but qualitywise superior. The same holds true for hostels.
+
+The diagram on the top shows the relative expenses by country and categories. The size(area) of each pie chart is proportional to the amount of money we spend in a corresponding country. 
+
 We hope this may help future travellers to get an idea of a budget.
 
 

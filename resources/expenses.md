@@ -16,11 +16,25 @@ license: false
 
 # Expenses
 
-## Sleeping bags and mats
+While travelling, we tried to keep track of what we spent. In particular, we diveded our expenses into seven categories (ordered roughly by frequency):<br>
 
-We came across a variety of different climates and hence had to find some tradeoff between too warm and heavy or too light and cold sleeping bags. Finally, we decided to use the down sleeping bags which we already owned (also for money reasons). Those were rated to reach as low as -1&deg;C (comfort). In general, we were very happy with this solution since down sleeping bags are quite light and compact.
+*Food:* Obviously this covers everything related to eating and cooking.<br>
 
-However, David's sleeping bag was heavily used already and had lost some filling. As a result, he experienced a few cold nights when we camped very high. This led us to buy some sheets of colorful Peruvian fabric (see Fig. below) which we wrapped around the sleeping bag for the coldest nights.
+*Hostel:* Here, we included all kinds of accomdation costs including paid campsites etc.<br>
+
+*Travel:* This summes basically all transportation costs such as bus and boat rides.<br>
+
+*Bike:* Hence we had to fix our bikes several times, we include this category for all expenses on spare parts and related costs.<br>
+
+*Medicine:* This covers what we paid for medicine and hopital visits.<br>
+
+*Gifts:* Especially in Peru, we discovered many beautiful and unique items that we sent home as gifts. This category is to seperate these (evitable) expenses from the rest.<br>
+
+*Entry Frees:* Depending on your luck you have to pay quite some money to enter various national parks. Here, we wanted to see how much it is in total.<br>
+
+We hope this may help future travellers to get an idea of a budget.
+
+
 
 
 <style>

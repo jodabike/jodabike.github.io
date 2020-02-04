@@ -56,19 +56,17 @@ figcaption {
   <figcaption>Daily expenses in South America (Euro).</figcaption>
   </figure>
 
+Finally, the table below summarizes our total expenses.
 
 
-&nbsp; |MapOut | Maps.me |
-|---   |---    |---      |
-Price     |$4.99  |free     |
-Features  |&bull; Offline vector maps |&bull; Offline vector maps  |
-&nbsp; |&bull; Track recording and diplay |&bull; Track recording and display  |
-&nbsp; |&bull; Snap to road/trail drawing |&bull; Turn-navigation for cars/bike/pedestrian  |
-&nbsp; |&bull; Full topographic maps (incl. 3D view) |&bull; POI in cities  |
- |---    |---      |
-Lacks     |&bull; No custom maps/raster images| &bull; No custom maps |
-&nbsp; | |&bull;  Shows ads |
-&nbsp; | |&bull;  Not topographic |
-
+Country  | Total expenses/&eur; | Days spent |
+|--------|---------------------:|-----------:|
+Ecuador  |                   387|          21|
+Peru     |                  1526|          96|
+Bolivia  |                   975|          34|
+Chile    |                  1209|          42|
+Argentina|                   607|          21|
+|--------|---------------------:|-----------:|
+TOTAL    |                  4704|         214|
 
 ***

@@ -59,7 +59,7 @@ figcaption {
 Finally, the table below summarizes our total expenses.
 
 
-Country  | Total expenses/ &eur; | Days spent |
+Country  | Total expenses/€      | Days spent |
 |--------|----------------------:|-----------:|
 Ecuador  |                    387|          21|
 Peru     |                   1526|          96|

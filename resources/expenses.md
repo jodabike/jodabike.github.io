@@ -59,14 +59,14 @@ figcaption {
 Finally, the table below summarizes our total expenses.
 
 
-Country  | Total expenses/&eur; | Days spent |
-|--------|---------------------:|-----------:|
-Ecuador  |                   387|          21|
-Peru     |                  1526|          96|
-Bolivia  |                   975|          34|
-Chile    |                  1209|          42|
-Argentina|                   607|          21|
-|--------|---------------------:|-----------:|
-TOTAL    |                  4704|         214|
+Country  | Total expenses/ &eur; | Days spent |
+|--------|----------------------:|-----------:|
+Ecuador  |                    387|          21|
+Peru     |                   1526|          96|
+Bolivia  |                    975|          34|
+Chile    |                   1209|          42|
+Argentina|                    607|          21|
+|--------|----------------------:|-----------:|
+TOTAL    |                   4704|         214|
 
 ***

@@ -40,7 +40,7 @@ The diagram on the top shows the relative expenses by country and categories. Th
 
 Absolute daily expenses are shown in the Fig. below (again seperated by country). All prices are converted to Euro (exchange rate December 2019). Note that these numbers cover both of us. Hence for a single person it is going to be less. However, we do not think that you can simply dive everything by two. Especially for hostels, the prices of matrimonial rooms (one large bed) are usually not significantly higher than for single bed rooms. In addition, also for transportation we sometimes could negotiate lower prices as a couple.
 
-As easily seen, we spent fewest in Peru with roughly 16 &eur; on an average day whereas in Bolivia, Chile and Argentina we more or less constanly spend almost 29 &eur; a day. The fact that we spend a lot less in Ecuador and Peru is due to the following: We were only three weeks in Ecuador and our bikes where still in perfect shape. In addition, we almost never stayed at hostels since wild campsites or fire stations were abaundant. In Peru, our daily average is dragged down by an (almost) free two-week stay in Cusco. On the other hand, the boat trips in Bolivia let the travel costs explode. This is even amplified since we spent only a little bit over a month in the country. Finally, for Patagonia (Chile and Argentina) prices are indeed just a lot higher due to its touristic popularity and an overall higher price level. In Chile, we compensated that partially by avoiding restaurants and mostly cooking for ourselves and in Argentina, we decided to treat ourselves a little bit as we approached the end of our trip. This is directly reflected in what we spend for food.
+As easily seen, we spent fewest in Peru with roughly 16 &euro; on an average day whereas in Bolivia, Chile and Argentina we more or less constanly spend almost 29 &euro; a day. The fact that we spend a lot less in Ecuador and Peru is due to the following: We were only three weeks in Ecuador and our bikes where still in perfect shape. In addition, we almost never stayed at hostels since wild campsites or fire stations were abaundant. In Peru, our daily average is dragged down by an (almost) free two-week stay in Cusco. On the other hand, the boat trips in Bolivia let the travel costs explode. This is even amplified since we spent only a little bit over a month in the country. Finally, for Patagonia (Chile and Argentina) prices are indeed just a lot higher due to its touristic popularity and an overall higher price level. In Chile, we compensated that partially by avoiding restaurants and mostly cooking for ourselves and in Argentina, we decided to treat ourselves a little bit as we approached the end of our trip. This is directly reflected in what we spend for food.
 
 
 <style>
@@ -60,7 +60,7 @@ figcaption {
 
 ## Summary
 
-Finally, the table below summarizes our total expenses. In total everyhting (but the flights from and back to Europe) adds up to 4704&eur; which makes in average pretty much 22&eur; a day. Before we left, we estimated to spend ca. 10 &eur; per person and day which we more or less fulfilled. 
+Finally, the table below summarizes our total expenses. In total everyhting (but the flights from and back to Europe) adds up to 4704&euro; which makes in average pretty much 22&euro; a day. Before we left, we estimated to spend ca. 10 &euro; per person and day which we more or less fulfilled. 
 
 
 Country  | Total expenses/€      | Days spent |
@@ -74,7 +74,7 @@ Argentina|                    607|          21|
 TOTAL    |                   4704|         214|
 
 
-Last but not least, the flights from and back to Europe were also quite expensive. For the Flight to Quito we paid roughly 1300&eur; and the flight back home was 1457&eur;. Furhtermore, in preparation for the trip we spend around 550&eur; for bike, camping and outdoor equipment. This means that altogehter we spent something around 8000&eur; for 7 months of travelling.
+Last but not least, the flights from and back to Europe were also quite expensive. For the Flight to Quito we paid roughly 1300&euro; and the flight back home was 1457&euro;. Furhtermore, in preparation for the trip we spend around 550&euro; for bike, camping and outdoor equipment. This means that altogehter we spent something around 8000&euro; for 7 months of travelling.
 
 
 ***

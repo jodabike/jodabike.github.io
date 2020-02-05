@@ -16,9 +16,9 @@ end of tips ok
 Route description and full screen 
 blog remove back to the andes double
 
-Contact
+Contact ok
 Sitemap
-Legal
+Legal ok
 
 # things to fix
 comments ok

@@ -17,10 +17,14 @@ license: false
 
 4. This site is hosted on [Github](htttps://github.com) which belongs to Microsoft.
 
-5. We do not collect cookies or any other form of personal information.
+5. This site is generated with [Jeykyll](https://jekyllrb.com), an opensource static site generator.
 
-6. Comments are provided by [Commento.io](https://commento.io). In case you comment, their [terms of service and privacy policy](https://commento.io/legal) applies.
+6. The layout of this site is based on the opensource [TeXt Theme](https://tianqi.name/jekyll-TeXt-theme/) for Jeykyll.
 
-7. While biking: Wear a helmet and have fun!
+7. We do not collect cookies or any other form of personal information.
+
+8. Comments are provided by [Commento.io](https://commento.io). In case you comment, their [terms of service and privacy policy](https://commento.io/legal) applies.
+
+9. While biking: Wear a helmet and have fun!
 
 ***

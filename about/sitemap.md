@@ -24,11 +24,11 @@ Sometimes we all get lost... So here is a map!
 │   ├── [People we met](/resources/people.html)<br>
 │   └── [Archive](/archive.html)<br>
 └── About<br>
-    ├── [Who are we?](/about/us.html)<br>
-    ├── [FAQ](/about/faq.html)<br>
-    ├── [Contact](/about/contact.html)<br>
-    ├── [Sitemap](/about/sitemap.html)<br>
-    └── [Legal](/about/legal.html)<br>
+&nbsp;   ├── [Who are we?](/about/us.html)<br>
+&nbsp;   ├── [FAQ](/about/faq.html)<br>
+&nbsp;   ├── [Contact](/about/contact.html)<br>
+&nbsp;   ├── [Sitemap](/about/sitemap.html)<br>
+&nbsp;   └── [Legal](/about/legal.html)<br>
     </span>
 
 

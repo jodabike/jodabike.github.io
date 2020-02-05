@@ -23,7 +23,7 @@ license: false
 
 7. We do not collect cookies or any other form of personal information.
 
-8. Comments are provided by [Commento.io](https://commento.io). In case you comment, their [terms of service and privacy policy](https://commento.io/legal) applies.
+8. Comments are provided by [Commento.io](https://commento.io). In case you comment, their [terms of service and privacy policy](https://commento.io/legal) apply.
 
 9. While biking: Wear a helmet and have fun!
 

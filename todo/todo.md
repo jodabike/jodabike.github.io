@@ -13,7 +13,7 @@ fix links in Gear list
 Stats
 Expenses ok
 end of tips ok
-Route description and full screen 
+Route description  ok and full screen 
 blog remove back to the andes double
 
 Contact ok

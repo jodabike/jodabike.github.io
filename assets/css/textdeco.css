@@ -19,7 +19,9 @@
       .uline {
       	text-decoration: underline;
       }
-      
+    .mono {
+     font-family: monospace, monospace;
+    }  
       .black{
         color: black;
       }

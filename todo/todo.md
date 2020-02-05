@@ -11,9 +11,9 @@ script to grab them all
 
 fix links in Gear list
 Stats
-Expenses
-end of tips
-Route description and full screen
+Expenses ok
+end of tips ok
+Route description and full screen 
 blog remove back to the andes double
 
 Contact
@@ -21,7 +21,7 @@ Sitemap
 Legal
 
 # things to fix
-comments
+comments ok
 watermarks
 image editing
 

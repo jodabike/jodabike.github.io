@@ -17,15 +17,15 @@ license: false
 │   ├── [Gear Review](/resources/gearlist.html)<br>
 │   ├── [Stats](/resources/stats.html)<br>
 │   ├── [Expenses](/resources/expenses.html)<br>
-│   ├── Route
-│   ├── Tips
-│   ├── People we met
-│   └── [Archive](/archive.html)
-└── About
-    ├── [Who are we?](/about/us.html)
-    ├── FAQ
-    ├── Contact
-    ├── Sitemap
-    └── Legal
+│   ├── [Route](/resources/route.html)<br>
+│   ├── [Tips](/resources/tips.html)<br>
+│   ├── [People we met](/resources/people.html)<br>
+│   └── [Archive](/archive.html)<br>
+└── About<br>
+    ├── [Who are we?](/about/us.html)<br>
+    ├── [FAQ](/about/faq.html)<br>
+    ├── [Contact](/about/contact.html)<br>
+    ├── [Sitemap](/about/sitemap.html)<br>
+    └── [Legal](/about/legal.html)<br>
 </span>
 ***

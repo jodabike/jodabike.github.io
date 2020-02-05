@@ -17,7 +17,7 @@ Route description and full screen
 blog remove back to the andes double
 
 Contact ok
-Sitemap
+Sitemap ok
 Legal ok
 
 # things to fix

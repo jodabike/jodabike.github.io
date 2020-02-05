@@ -148,7 +148,7 @@ In the course of our journey we were asked many questions and asked ourself many
 </figure>
 
 &#9654; How much money did you spend?
-- All in all, around 3000&#8239;&euro; per person (including flights). More details are found on our [Expenses](/resources/expenses.html) page.
+- All in all, around 4000&#8239;&euro; per person (including flights). More details are found on our [Expenses](/resources/expenses.html) page.
 
 &#9654; How do you pay for your travel?
 - We worked while studying and tried to spend as less as possible: Instead of buying high-end bicycles, we decided to ride used and robust mountain bikes.

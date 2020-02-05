@@ -9,6 +9,8 @@ license: false
 
 # Sitemap
 
+Sometimes we all get lost... So here is a map!
+
 <link rel="stylesheet" type="text/css" href="/assets/css/textdeco.css">
 <span class="mono">
 [Blog](/index.html)<br>
@@ -27,5 +29,8 @@ license: false
     ├── [Contact](/about/contact.html)<br>
     ├── [Sitemap](/about/sitemap.html)<br>
     └── [Legal](/about/legal.html)<br>
-</span>
+    </span>
+
+
+
 ***

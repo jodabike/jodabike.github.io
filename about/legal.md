@@ -17,9 +17,9 @@ license: false
 
 4. This site is hosted on [Github](htttps://github.com) which belongs to Microsoft.
 
-5. This site is generated with [Jeykyll](https://jekyllrb.com), an opensource static site generator.
+5. This site is generated with [Jekyll](https://jekyllrb.com), an opensource static site generator.
 
-6. The layout of this site is based on the opensource [TeXt Theme](https://tianqi.name/jekyll-TeXt-theme/) for Jeykyll.
+6. The layout of this site is based on the opensource [TeXt Theme](https://tianqi.name/jekyll-TeXt-theme/) for Jekyll.
 
 7. We do not collect cookies or any other form of personal information.
 

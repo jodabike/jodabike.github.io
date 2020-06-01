@@ -29,7 +29,7 @@ Dann wurde alles wieder auseinander gebaut und umgepackt für den Flug.
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2248M.jpg" /></p>
 
-Dann noch schnell ein paar Abschiedsfotos...
+Dann noch schnell ein paar Abschiedsfotos..
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2249M.jpg" /></p>
 

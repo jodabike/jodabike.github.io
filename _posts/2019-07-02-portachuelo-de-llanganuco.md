@@ -21,6 +21,9 @@ From Sihuas, we continued our way on bumpy dirt roads.
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4446M.jpg" /></p>
 
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4453M.jpg" /></p>
+
 We stopped for lunch in Sicsibamba, where people where incredibly friendly again. We ate tasty beans with some lovely women from town and got another two portions to take away for free. Generally, the people in this area are amazingly friendly and we talk to pretty much everybody we meet on our way.
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/image-95M.jpg" /></p>
@@ -29,13 +32,38 @@ We cycled on for a bit and camped at a nice and quiet spot.
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/image-96M.jpg" /></p>
 
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/p1170814M.jpg" /></p>
+
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/p1170817M.jpg" /></p>
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/p1170819M.jpg" /></p>
+
+On Thursday, we headed towards Pomabamba, where we had lunch and bought supplies on the market.
+
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/p1170822M.jpg" /></p>
 
 From there, we rode on for a bit on a road which was closed for cars because of construction works.
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/image-97M.jpg" /></p>
 
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4470M.jpg" /></p>
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4476M.jpg" /></p>
+
+From there, we rode on for a bit on a road which was closed for cars because of construction works.
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/image-97M.jpg" /></p>
+
+
+
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4478M.jpg" /></p>
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4481M.jpg" /></p>
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_3451M.jpg" /></p>
+
 
 We camped at a nice spot in the forest.
 
@@ -44,6 +72,12 @@ We camped at a nice spot in the forest.
 It rained that night and continued in the morning. But the weather got a little better soon and we cycled on through a lovely rural region.
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4495M.jpg" /></p>
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4503M.jpg" /></p>
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4507M.jpg" /></p>
+
+
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/image-98M.jpg" /></p>
 
@@ -55,9 +89,19 @@ We stopped for lunch in Llumpa and as it started to rain again, we decided to sp
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4532M.jpg" /></p>
 
+Drying the tent in our room. ;)
+
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4536M.jpg" /></p>
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4537M.jpg" /></p>
+
+
 On Saturday, we rolled down into a valley at 2500 m from where we started another climb to our highest pass so far: Portachuelo de Llanganuco at 4700 m. It was a cloudy day and we came through many little villages again.
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/image-100M.jpg" /></p>
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_4589M.jpg" /></p>
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/image-101M.jpg" /></p>
 
@@ -71,11 +115,19 @@ By the end of the day, we reached a little more than half of the climb and campe
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/img_3497M.jpg" /></p>
 
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/p1170826M.jpg" /></p>
+
+
+
 The next day, it stopped raining, but clouds were sticking to the tops of the mountains around us. Sometimes we could get a little view on these amazing tops and glaciers between the mountains and sometimes the sun came out for a view moments.
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/image-104M.jpg" /></p>
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/p1170829M.jpg" /></p>
+
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-02-portachuelo-de-llanganuco/p1170830M.jpg" /></p>
+
 
 The way to the top of the pass was still beautiful! And also quite exhausting because the air gets thinner up there.
 

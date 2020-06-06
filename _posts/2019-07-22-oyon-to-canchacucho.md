@@ -168,10 +168,11 @@ We then went for a little detour towards the national park Huallay in Canchacuch
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-22-oyon-to-canchacucho/p1190613M.jpg" /></p>
 
+<!--
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-22-oyon-to-canchacucho/p1190612M.jpg" /></p>
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-22-oyon-to-canchacucho/p1190623M.jpg" /></p>
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-07-22-oyon-to-canchacucho/p1190671M.jpg" /></p>
-
+-->
 

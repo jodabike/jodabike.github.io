@@ -25,7 +25,15 @@ We unpacked and reassembled the bikes at the airport and had to find that the li
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-22-arrival-in-quito/img_2271M.jpg" /></p>
 
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-22-arrival-in-quito/img_2273M.jpg" /></p>
+
+Hence, we used the suspension pump to get at least some air in our tires and slowly rolled to the next gas station where we could fully pump the bikes.
+
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-22-arrival-in-quito/img_2277M.jpg" /></p>
+
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-22-arrival-in-quito/img_2281M.jpg" /></p>
 
 Then we cycled to our first accommodation, about 30 km from the airport. Ah, wait, actually it was 50 km with a height difference of about 900m. :D
 

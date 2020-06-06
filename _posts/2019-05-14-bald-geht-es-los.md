@@ -25,12 +25,28 @@ Dann musste noch die äußerst schwierige Kamera-Entscheidung getroffen werden u
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-14-bald-geht-es-los/img_7062-1M.jpg" /></p>
 
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-14-bald-geht-es-los/p1150241-1M.jpg" /></p>
+
 Das Packen der Fahrräder sah zwar zu Beginn chaotisch aus, aber wir hatten natürlich stets den Überblick. ;)
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-14-bald-geht-es-los/img_2183M.jpg" /></p>
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-14-bald-geht-es-los/img_2185-1M.jpg" /></p>
 
+So in etwa sehen die bepackten Fahrrader also schlussendlich aus. Es wird sich zeigen, ob die Gitarrenanbringung zwischen Davids Beinen wirklich praktikabel ist. :D
+
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-14-bald-geht-es-los/img_1974M.jpg" /></p>
+
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-14-bald-geht-es-los/img_1975M.jpg" /></p>
+
 Und hier noch ein paar Einblicke vom Inhalt der Taschen.
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-14-bald-geht-es-los/img_1973-1M.jpg" /></p>
+
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-14-bald-geht-es-los/img_1977M.jpg" /></p>
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-14-bald-geht-es-los/img_1970M.jpg" /></p>

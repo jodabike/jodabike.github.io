@@ -62,7 +62,7 @@ The next day, we followed the little frequented Panamericana towards Chunchi. It
 From Chunchi to El Tambo, we followed the Panamericana again. Unfortunately it was pretty rainy that day.
 
 
-<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-06-02-from-colta-to-cuenca/p1160441-1.jpg" /></p>
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-06-02-from-colta-to-cuenca/p1160441-1M.jpg" /></p>
 
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-06-02-from-colta-to-cuenca/img_2467-1M.jpg" /></p>

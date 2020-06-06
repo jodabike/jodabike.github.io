@@ -23,15 +23,31 @@ Dann kamen wir im Basis-Lager Pfäffingen wieder zusammen und haben die Fahrräd
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2220M.jpg" /></p>
 
+Die Räder fahren sich super gut und sind mit etwa 36 kg pro Fahrrad ja auch gar nicht soo schwer. :D
+
 Dann wurde alles wieder auseinander gebaut und umgepackt für den Flug.
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2236M.jpg" /></p>
 
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2192M.jpg" /></p>
+
+Am 19.5. ging es dann mit gepackten Fahrradkisten und Gepäck im VW-Bus zum Flughafen.
+
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2248M.jpg" /></p>
+
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2252M.jpg" /></p>
+
+Dort sind wir das Gepäck erfolgreich los geworden und konnten mit unseren Eltern noch gemütlich etwas trinken gehen.
 
 Dann noch schnell ein paar Abschiedsfotos..
 
 <p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2249M.jpg" /></p>
+
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-05-21-letzte-vorbereitungen-und-abreise/img_2255M.jpg" /></p>
+
+... und ab zum Gate!
+
 
 Wegen Gewitter hatte unser Flug nach Madrid 2 Stunden Verspätung, aber wir hatten schöne Aussicht beim Warten und zum Glück keine Probleme beim Erreichen des Anschlussflugs.
 

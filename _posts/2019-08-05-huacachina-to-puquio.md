@@ -84,4 +84,4 @@ We arrived in Puquio in the late afternoon.
 
 As you might have noticed on our pictures, we now have a logo which David has designed! It is our initials "Joda" as a bike. :)
 
-<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-08-05-huacachina-to-puquio/Foto%2031.07.19%2C%2021%2011%2004.png" /></p>
+<p><img alt="Image" title="icon" src="https://jodabike.github.io/blogmedia/imgs/2019-08-05-huacachina-to-puquio/logo.png" /></p>
